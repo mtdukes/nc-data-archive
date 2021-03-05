@@ -15,6 +15,8 @@ jobs:
     - name: Fetch latest data
       run: |-
         wget https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv -O data/nc_daily_cases.csv
+        wget https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyTestingMetrics.csv -O data/nc_daily_testing.csv
+        wget https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/ZIPCodeCasesandDeaths.csv -O data/nc_daily_zip.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
