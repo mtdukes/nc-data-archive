@@ -420,7 +420,7 @@ Date,Measure Names,Measure Values
 6/14/2020,Antigen Positive Cases by Specimen Date,1
 6/14/2020,Deaths by Date of Death,23
 6/15/2020,Cases by Report Date,983
-6/15/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,686"
+6/15/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,687"
 6/15/2020,Antigen Positive Cases by Specimen Date,0
 6/15/2020,Deaths by Date of Death,8
 6/16/2020,Cases by Report Date,751
@@ -472,7 +472,7 @@ Date,Measure Names,Measure Values
 6/27/2020,Antigen Positive Cases by Specimen Date,0
 6/27/2020,Deaths by Date of Death,12
 6/28/2020,Cases by Report Date,"1,605"
-6/28/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,045"
+6/28/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,046"
 6/28/2020,Antigen Positive Cases by Specimen Date,1
 6/28/2020,Deaths by Date of Death,12
 6/29/2020,Cases by Report Date,"1,349"
@@ -532,7 +532,7 @@ Date,Measure Names,Measure Values
 7/12/2020,Antigen Positive Cases by Specimen Date,3
 7/12/2020,Deaths by Date of Death,26
 7/13/2020,Cases by Report Date,"1,846"
-7/13/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,481"
+7/13/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,482"
 7/13/2020,Antigen Positive Cases by Specimen Date,33
 7/13/2020,Deaths by Date of Death,13
 7/14/2020,Cases by Report Date,"1,991"
@@ -564,7 +564,7 @@ Date,Measure Names,Measure Values
 7/20/2020,Antigen Positive Cases by Specimen Date,44
 7/20/2020,Deaths by Date of Death,30
 7/21/2020,Cases by Report Date,"1,863"
-7/21/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,283"
+7/21/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,284"
 7/21/2020,Antigen Positive Cases by Specimen Date,68
 7/21/2020,Deaths by Date of Death,24
 7/22/2020,Cases by Report Date,"2,191"
@@ -616,7 +616,7 @@ Date,Measure Names,Measure Values
 8/2/2020,Antigen Positive Cases by Specimen Date,20
 8/2/2020,Deaths by Date of Death,23
 8/3/2020,Cases by Report Date,"1,388"
-8/3/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,910"
+8/3/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,911"
 8/3/2020,Antigen Positive Cases by Specimen Date,96
 8/3/2020,Deaths by Date of Death,24
 8/4/2020,Cases by Report Date,"1,694"
@@ -676,7 +676,7 @@ Date,Measure Names,Measure Values
 8/17/2020,Antigen Positive Cases by Specimen Date,121
 8/17/2020,Deaths by Date of Death,32
 8/18/2020,Cases by Report Date,"1,336"
-8/18/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,974"
+8/18/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,975"
 8/18/2020,Antigen Positive Cases by Specimen Date,85
 8/18/2020,Deaths by Date of Death,38
 8/19/2020,Cases by Report Date,"1,218"
@@ -709,8 +709,8 @@ Date,Measure Names,Measure Values
 8/25/2020,Deaths by Date of Death,29
 8/26/2020,Cases by Report Date,"1,342"
 8/26/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,752"
-8/26/2020,Antigen Positive Cases by Specimen Date,85
-8/26/2020,Deaths by Date of Death,21
+8/26/2020,Antigen Positive Cases by Specimen Date,84
+8/26/2020,Deaths by Date of Death,22
 8/27/2020,Cases by Report Date,"2,177"
 8/27/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,692"
 8/27/2020,Antigen Positive Cases by Specimen Date,79
@@ -756,7 +756,7 @@ Date,Measure Names,Measure Values
 9/6/2020,Antigen Positive Cases by Specimen Date,30
 9/6/2020,Deaths by Date of Death,27
 9/7/2020,Cases by Report Date,"1,039"
-9/7/2020,Molecular (PCR) Positive Cases by Specimen Date,720
+9/7/2020,Molecular (PCR) Positive Cases by Specimen Date,721
 9/7/2020,Antigen Positive Cases by Specimen Date,41
 9/7/2020,Deaths by Date of Death,29
 9/8/2020,Cases by Report Date,833
@@ -792,7 +792,7 @@ Date,Measure Names,Measure Values
 9/15/2020,Antigen Positive Cases by Specimen Date,121
 9/15/2020,Deaths by Date of Death,22
 9/16/2020,Cases by Report Date,"1,234"
-9/16/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,411"
+9/16/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,412"
 9/16/2020,Antigen Positive Cases by Specimen Date,88
 9/16/2020,Deaths by Date of Death,34
 9/17/2020,Cases by Report Date,"1,632"
@@ -872,7 +872,7 @@ Date,Measure Names,Measure Values
 10/5/2020,Antigen Positive Cases by Specimen Date,292
 10/5/2020,Deaths by Date of Death,26
 10/6/2020,Cases by Report Date,"1,504"
-10/6/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,074"
+10/6/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,075"
 10/6/2020,Antigen Positive Cases by Specimen Date,246
 10/6/2020,Deaths by Date of Death,26
 10/7/2020,Cases by Report Date,"1,711"
@@ -884,7 +884,7 @@ Date,Measure Names,Measure Values
 10/8/2020,Antigen Positive Cases by Specimen Date,214
 10/8/2020,Deaths by Date of Death,25
 10/9/2020,Cases by Report Date,"2,034"
-10/9/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,807"
+10/9/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,808"
 10/9/2020,Antigen Positive Cases by Specimen Date,204
 10/9/2020,Deaths by Date of Death,27
 10/10/2020,Cases by Report Date,"2,321"
@@ -908,7 +908,7 @@ Date,Measure Names,Measure Values
 10/14/2020,Antigen Positive Cases by Specimen Date,248
 10/14/2020,Deaths by Date of Death,23
 10/15/2020,Cases by Report Date,"2,532"
-10/15/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,099"
+10/15/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,100"
 10/15/2020,Antigen Positive Cases by Specimen Date,282
 10/15/2020,Deaths by Date of Death,25
 10/16/2020,Cases by Report Date,"2,684"
@@ -928,7 +928,7 @@ Date,Measure Names,Measure Values
 10/19/2020,Antigen Positive Cases by Specimen Date,339
 10/19/2020,Deaths by Date of Death,41
 10/20/2020,Cases by Report Date,"1,578"
-10/20/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,454"
+10/20/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,455"
 10/20/2020,Antigen Positive Cases by Specimen Date,289
 10/20/2020,Deaths by Date of Death,33
 10/21/2020,Cases by Report Date,"1,842"
@@ -941,7 +941,7 @@ Date,Measure Names,Measure Values
 10/22/2020,Deaths by Date of Death,28
 10/23/2020,Cases by Report Date,"2,716"
 10/23/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,203"
-10/23/2020,Antigen Positive Cases by Specimen Date,255
+10/23/2020,Antigen Positive Cases by Specimen Date,256
 10/23/2020,Deaths by Date of Death,22
 10/24/2020,Cases by Report Date,"2,584"
 10/24/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,071"
@@ -952,11 +952,11 @@ Date,Measure Names,Measure Values
 10/25/2020,Antigen Positive Cases by Specimen Date,97
 10/25/2020,Deaths by Date of Death,32
 10/26/2020,Cases by Report Date,"1,643"
-10/26/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,981"
+10/26/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,983"
 10/26/2020,Antigen Positive Cases by Specimen Date,363
 10/26/2020,Deaths by Date of Death,29
 10/27/2020,Cases by Report Date,"2,141"
-10/27/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,430"
+10/27/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,431"
 10/27/2020,Antigen Positive Cases by Specimen Date,251
 10/27/2020,Deaths by Date of Death,28
 10/28/2020,Cases by Report Date,"2,253"
@@ -969,14 +969,14 @@ Date,Measure Names,Measure Values
 10/29/2020,Deaths by Date of Death,39
 10/30/2020,Cases by Report Date,"2,809"
 10/30/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,249"
-10/30/2020,Antigen Positive Cases by Specimen Date,225
+10/30/2020,Antigen Positive Cases by Specimen Date,224
 10/30/2020,Deaths by Date of Death,34
 10/31/2020,Cases by Report Date,"2,805"
-10/31/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,068"
+10/31/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,069"
 10/31/2020,Antigen Positive Cases by Specimen Date,102
 10/31/2020,Deaths by Date of Death,34
 11/1/2020,Cases by Report Date,"2,057"
-11/1/2020,Molecular (PCR) Positive Cases by Specimen Date,938
+11/1/2020,Molecular (PCR) Positive Cases by Specimen Date,939
 11/1/2020,Antigen Positive Cases by Specimen Date,83
 11/1/2020,Deaths by Date of Death,42
 11/2/2020,Cases by Report Date,"1,336"
@@ -993,11 +993,11 @@ Date,Measure Names,Measure Values
 11/4/2020,Deaths by Date of Death,32
 11/5/2020,Cases by Report Date,"2,859"
 11/5/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,593"
-11/5/2020,Antigen Positive Cases by Specimen Date,279
+11/5/2020,Antigen Positive Cases by Specimen Date,280
 11/5/2020,Deaths by Date of Death,30
 11/6/2020,Cases by Report Date,"2,908"
 11/6/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,413"
-11/6/2020,Antigen Positive Cases by Specimen Date,287
+11/6/2020,Antigen Positive Cases by Specimen Date,288
 11/6/2020,Deaths by Date of Death,34
 11/7/2020,Cases by Report Date,"2,676"
 11/7/2020,Molecular (PCR) Positive Cases by Specimen Date,"1,491"
@@ -1012,8 +1012,8 @@ Date,Measure Names,Measure Values
 11/9/2020,Antigen Positive Cases by Specimen Date,514
 11/9/2020,Deaths by Date of Death,33
 11/10/2020,Cases by Report Date,"2,582"
-11/10/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,411"
-11/10/2020,Antigen Positive Cases by Specimen Date,387
+11/10/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,412"
+11/10/2020,Antigen Positive Cases by Specimen Date,386
 11/10/2020,Deaths by Date of Death,29
 11/11/2020,Cases by Report Date,"3,119"
 11/11/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,036"
@@ -1037,19 +1037,19 @@ Date,Measure Names,Measure Values
 11/15/2020,Deaths by Date of Death,35
 11/16/2020,Cases by Report Date,"1,972"
 11/16/2020,Molecular (PCR) Positive Cases by Specimen Date,"4,684"
-11/16/2020,Antigen Positive Cases by Specimen Date,669
+11/16/2020,Antigen Positive Cases by Specimen Date,670
 11/16/2020,Deaths by Date of Death,36
 11/17/2020,Cases by Report Date,"3,288"
 11/17/2020,Molecular (PCR) Positive Cases by Specimen Date,"4,082"
-11/17/2020,Antigen Positive Cases by Specimen Date,531
+11/17/2020,Antigen Positive Cases by Specimen Date,533
 11/17/2020,Deaths by Date of Death,39
 11/18/2020,Cases by Report Date,"3,367"
 11/18/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,502"
-11/18/2020,Antigen Positive Cases by Specimen Date,480
+11/18/2020,Antigen Positive Cases by Specimen Date,484
 11/18/2020,Deaths by Date of Death,35
 11/19/2020,Cases by Report Date,"4,296"
 11/19/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,458"
-11/19/2020,Antigen Positive Cases by Specimen Date,478
+11/19/2020,Antigen Positive Cases by Specimen Date,479
 11/19/2020,Deaths by Date of Death,36
 11/20/2020,Cases by Report Date,"3,688"
 11/20/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,352"
@@ -1065,11 +1065,11 @@ Date,Measure Names,Measure Values
 11/22/2020,Deaths by Date of Death,49
 11/23/2020,Cases by Report Date,"2,419"
 11/23/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,049"
-11/23/2020,Antigen Positive Cases by Specimen Date,869
+11/23/2020,Antigen Positive Cases by Specimen Date,870
 11/23/2020,Deaths by Date of Death,34
 11/24/2020,Cases by Report Date,"3,100"
 11/24/2020,Molecular (PCR) Positive Cases by Specimen Date,"4,155"
-11/24/2020,Antigen Positive Cases by Specimen Date,653
+11/24/2020,Antigen Positive Cases by Specimen Date,655
 11/24/2020,Deaths by Date of Death,31
 11/25/2020,Cases by Report Date,"4,212"
 11/25/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,939"
@@ -1085,54 +1085,54 @@ Date,Measure Names,Measure Values
 11/27/2020,Deaths by Date of Death,43
 11/28/2020,Cases by Report Date,"3,444"
 11/28/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,668"
-11/28/2020,Antigen Positive Cases by Specimen Date,413
+11/28/2020,Antigen Positive Cases by Specimen Date,412
 11/28/2020,Deaths by Date of Death,47
 11/29/2020,Cases by Report Date,"3,820"
-11/29/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,378"
+11/29/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,380"
 11/29/2020,Antigen Positive Cases by Specimen Date,333
 11/29/2020,Deaths by Date of Death,35
 11/30/2020,Cases by Report Date,"2,734"
 11/30/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,322"
-11/30/2020,Antigen Positive Cases by Specimen Date,"1,112"
+11/30/2020,Antigen Positive Cases by Specimen Date,"1,121"
 11/30/2020,Deaths by Date of Death,35
 12/1/2020,Cases by Report Date,"2,883"
-12/1/2020,Molecular (PCR) Positive Cases by Specimen Date,"6,325"
-12/1/2020,Antigen Positive Cases by Specimen Date,922
+12/1/2020,Molecular (PCR) Positive Cases by Specimen Date,"6,324"
+12/1/2020,Antigen Positive Cases by Specimen Date,924
 12/1/2020,Deaths by Date of Death,37
 12/2/2020,Cases by Report Date,"4,199"
 12/2/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,754"
-12/2/2020,Antigen Positive Cases by Specimen Date,822
+12/2/2020,Antigen Positive Cases by Specimen Date,823
 12/2/2020,Deaths by Date of Death,38
 12/3/2020,Cases by Report Date,"5,637"
 12/3/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,494"
 12/3/2020,Antigen Positive Cases by Specimen Date,731
 12/3/2020,Deaths by Date of Death,41
 12/4/2020,Cases by Report Date,"5,303"
-12/4/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,286"
+12/4/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,285"
 12/4/2020,Antigen Positive Cases by Specimen Date,863
 12/4/2020,Deaths by Date of Death,45
 12/5/2020,Cases by Report Date,"6,018"
 12/5/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,032"
 12/5/2020,Antigen Positive Cases by Specimen Date,452
-12/5/2020,Deaths by Date of Death,45
+12/5/2020,Deaths by Date of Death,46
 12/6/2020,Cases by Report Date,"6,438"
 12/6/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,155"
 12/6/2020,Antigen Positive Cases by Specimen Date,385
 12/6/2020,Deaths by Date of Death,48
 12/7/2020,Cases by Report Date,"4,372"
-12/7/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,231"
+12/7/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,232"
 12/7/2020,Antigen Positive Cases by Specimen Date,"1,194"
-12/7/2020,Deaths by Date of Death,47
+12/7/2020,Deaths by Date of Death,48
 12/8/2020,Cases by Report Date,"4,670"
 12/8/2020,Molecular (PCR) Positive Cases by Specimen Date,"6,097"
-12/8/2020,Antigen Positive Cases by Specimen Date,837
+12/8/2020,Antigen Positive Cases by Specimen Date,838
 12/8/2020,Deaths by Date of Death,56
 12/9/2020,Cases by Report Date,"6,495"
 12/9/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,709"
 12/9/2020,Antigen Positive Cases by Specimen Date,940
 12/9/2020,Deaths by Date of Death,62
 12/10/2020,Cases by Report Date,"5,556"
-12/10/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,622"
+12/10/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,623"
 12/10/2020,Antigen Positive Cases by Specimen Date,"1,029"
 12/10/2020,Deaths by Date of Death,64
 12/11/2020,Cases by Report Date,"7,540"
@@ -1148,24 +1148,24 @@ Date,Measure Names,Measure Values
 12/13/2020,Antigen Positive Cases by Specimen Date,521
 12/13/2020,Deaths by Date of Death,55
 12/14/2020,Cases by Report Date,"4,770"
-12/14/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,530"
+12/14/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,532"
 12/14/2020,Antigen Positive Cases by Specimen Date,"1,466"
-12/14/2020,Deaths by Date of Death,74
+12/14/2020,Deaths by Date of Death,75
 12/15/2020,Cases by Report Date,"5,236"
-12/15/2020,Molecular (PCR) Positive Cases by Specimen Date,"6,745"
-12/15/2020,Antigen Positive Cases by Specimen Date,"1,128"
+12/15/2020,Molecular (PCR) Positive Cases by Specimen Date,"6,746"
+12/15/2020,Antigen Positive Cases by Specimen Date,"1,127"
 12/15/2020,Deaths by Date of Death,63
 12/16/2020,Cases by Report Date,"5,273"
 12/16/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,467"
 12/16/2020,Antigen Positive Cases by Specimen Date,"1,032"
-12/16/2020,Deaths by Date of Death,76
+12/16/2020,Deaths by Date of Death,78
 12/17/2020,Cases by Report Date,"5,786"
-12/17/2020,Molecular (PCR) Positive Cases by Specimen Date,"6,342"
-12/17/2020,Antigen Positive Cases by Specimen Date,"1,157"
-12/17/2020,Deaths by Date of Death,58
+12/17/2020,Molecular (PCR) Positive Cases by Specimen Date,"6,341"
+12/17/2020,Antigen Positive Cases by Specimen Date,"1,158"
+12/17/2020,Deaths by Date of Death,59
 12/18/2020,Cases by Report Date,"8,444"
 12/18/2020,Molecular (PCR) Positive Cases by Specimen Date,"5,829"
-12/18/2020,Antigen Positive Cases by Specimen Date,"1,102"
+12/18/2020,Antigen Positive Cases by Specimen Date,"1,101"
 12/18/2020,Deaths by Date of Death,67
 12/19/2020,Cases by Report Date,"6,164"
 12/19/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,182"
@@ -1173,7 +1173,7 @@ Date,Measure Names,Measure Values
 12/19/2020,Deaths by Date of Death,59
 12/20/2020,Cases by Report Date,"6,900"
 12/20/2020,Molecular (PCR) Positive Cases by Specimen Date,"2,386"
-12/20/2020,Antigen Positive Cases by Specimen Date,605
+12/20/2020,Antigen Positive Cases by Specimen Date,606
 12/20/2020,Deaths by Date of Death,63
 12/21/2020,Cases by Report Date,"4,479"
 12/21/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,746"
@@ -1198,33 +1198,33 @@ Date,Measure Names,Measure Values
 12/26/2020,Cases by Report Date,"5,371"
 12/26/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,935"
 12/26/2020,Antigen Positive Cases by Specimen Date,993
-12/26/2020,Deaths by Date of Death,67
+12/26/2020,Deaths by Date of Death,68
 12/27/2020,Cases by Report Date,"2,898"
 12/27/2020,Molecular (PCR) Positive Cases by Specimen Date,"3,389"
 12/27/2020,Antigen Positive Cases by Specimen Date,833
 12/27/2020,Deaths by Date of Death,72
 12/28/2020,Cases by Report Date,"3,888"
-12/28/2020,Molecular (PCR) Positive Cases by Specimen Date,"10,163"
+12/28/2020,Molecular (PCR) Positive Cases by Specimen Date,"10,161"
 12/28/2020,Antigen Positive Cases by Specimen Date,"2,036"
 12/28/2020,Deaths by Date of Death,98
 12/29/2020,Cases by Report Date,"3,563"
-12/29/2020,Molecular (PCR) Positive Cases by Specimen Date,"9,188"
-12/29/2020,Antigen Positive Cases by Specimen Date,"1,949"
+12/29/2020,Molecular (PCR) Positive Cases by Specimen Date,"9,187"
+12/29/2020,Antigen Positive Cases by Specimen Date,"1,953"
 12/29/2020,Deaths by Date of Death,79
 12/30/2020,Cases by Report Date,"8,551"
-12/30/2020,Molecular (PCR) Positive Cases by Specimen Date,"8,870"
+12/30/2020,Molecular (PCR) Positive Cases by Specimen Date,"8,871"
 12/30/2020,Antigen Positive Cases by Specimen Date,"1,762"
-12/30/2020,Deaths by Date of Death,88
+12/30/2020,Deaths by Date of Death,89
 12/31/2020,Cases by Report Date,"6,715"
-12/31/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,514"
+12/31/2020,Molecular (PCR) Positive Cases by Specimen Date,"7,515"
 12/31/2020,Antigen Positive Cases by Specimen Date,"1,493"
 12/31/2020,Deaths by Date of Death,76
 1/1/2021,Cases by Report Date,"9,527"
 1/1/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,715"
-1/1/2021,Antigen Positive Cases by Specimen Date,719
+1/1/2021,Antigen Positive Cases by Specimen Date,720
 1/1/2021,Deaths by Date of Death,109
 1/2/2021,Cases by Report Date,"9,365"
-1/2/2021,Molecular (PCR) Positive Cases by Specimen Date,"5,447"
+1/2/2021,Molecular (PCR) Positive Cases by Specimen Date,"5,446"
 1/2/2021,Antigen Positive Cases by Specimen Date,"1,343"
 1/2/2021,Deaths by Date of Death,79
 1/3/2021,Cases by Report Date,"6,487"
@@ -1232,7 +1232,7 @@ Date,Measure Names,Measure Values
 1/3/2021,Antigen Positive Cases by Specimen Date,"1,160"
 1/3/2021,Deaths by Date of Death,78
 1/4/2021,Cases by Report Date,"5,187"
-1/4/2021,Molecular (PCR) Positive Cases by Specimen Date,"12,443"
+1/4/2021,Molecular (PCR) Positive Cases by Specimen Date,"12,444"
 1/4/2021,Antigen Positive Cases by Specimen Date,"2,669"
 1/4/2021,Deaths by Date of Death,118
 1/5/2021,Cases by Report Date,"5,285"
@@ -1240,48 +1240,48 @@ Date,Measure Names,Measure Values
 1/5/2021,Antigen Positive Cases by Specimen Date,"1,970"
 1/5/2021,Deaths by Date of Death,81
 1/6/2021,Cases by Report Date,"6,952"
-1/6/2021,Molecular (PCR) Positive Cases by Specimen Date,"8,518"
+1/6/2021,Molecular (PCR) Positive Cases by Specimen Date,"8,519"
 1/6/2021,Antigen Positive Cases by Specimen Date,"1,706"
 1/6/2021,Deaths by Date of Death,98
 1/7/2021,Cases by Report Date,"10,398"
-1/7/2021,Molecular (PCR) Positive Cases by Specimen Date,"7,742"
-1/7/2021,Antigen Positive Cases by Specimen Date,"1,695"
+1/7/2021,Molecular (PCR) Positive Cases by Specimen Date,"7,743"
+1/7/2021,Antigen Positive Cases by Specimen Date,"1,707"
 1/7/2021,Deaths by Date of Death,93
 1/8/2021,Cases by Report Date,"10,028"
-1/8/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,141"
+1/8/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,142"
 1/8/2021,Antigen Positive Cases by Specimen Date,"1,296"
 1/8/2021,Deaths by Date of Death,88
 1/9/2021,Cases by Report Date,"11,581"
-1/9/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,863"
-1/9/2021,Antigen Positive Cases by Specimen Date,864
+1/9/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,862"
+1/9/2021,Antigen Positive Cases by Specimen Date,866
 1/9/2021,Deaths by Date of Death,89
 1/10/2021,Cases by Report Date,"8,833"
 1/10/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,138"
 1/10/2021,Antigen Positive Cases by Specimen Date,803
-1/10/2021,Deaths by Date of Death,84
+1/10/2021,Deaths by Date of Death,85
 1/11/2021,Cases by Report Date,"5,936"
 1/11/2021,Molecular (PCR) Positive Cases by Specimen Date,"8,840"
-1/11/2021,Antigen Positive Cases by Specimen Date,"2,016"
+1/11/2021,Antigen Positive Cases by Specimen Date,"2,018"
 1/11/2021,Deaths by Date of Death,102
 1/12/2021,Cases by Report Date,"6,851"
 1/12/2021,Molecular (PCR) Positive Cases by Specimen Date,"7,137"
-1/12/2021,Antigen Positive Cases by Specimen Date,"1,381"
+1/12/2021,Antigen Positive Cases by Specimen Date,"1,382"
 1/12/2021,Deaths by Date of Death,96
 1/13/2021,Cases by Report Date,"5,098"
-1/13/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,599"
-1/13/2021,Antigen Positive Cases by Specimen Date,"1,247"
+1/13/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,598"
+1/13/2021,Antigen Positive Cases by Specimen Date,"1,249"
 1/13/2021,Deaths by Date of Death,90
 1/14/2021,Cases by Report Date,"9,853"
-1/14/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,292"
-1/14/2021,Antigen Positive Cases by Specimen Date,"1,293"
+1/14/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,293"
+1/14/2021,Antigen Positive Cases by Specimen Date,"1,295"
 1/14/2021,Deaths by Date of Death,91
 1/15/2021,Cases by Report Date,"8,914"
 1/15/2021,Molecular (PCR) Positive Cases by Specimen Date,"5,651"
-1/15/2021,Antigen Positive Cases by Specimen Date,"1,147"
+1/15/2021,Antigen Positive Cases by Specimen Date,"1,148"
 1/15/2021,Deaths by Date of Death,123
 1/16/2021,Cases by Report Date,"7,986"
-1/16/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,302"
-1/16/2021,Antigen Positive Cases by Specimen Date,651
+1/16/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,303"
+1/16/2021,Antigen Positive Cases by Specimen Date,652
 1/16/2021,Deaths by Date of Death,95
 1/17/2021,Cases by Report Date,"6,811"
 1/17/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,581"
@@ -1292,47 +1292,47 @@ Date,Measure Names,Measure Values
 1/18/2021,Antigen Positive Cases by Specimen Date,"1,514"
 1/18/2021,Deaths by Date of Death,95
 1/19/2021,Cases by Report Date,"4,058"
-1/19/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,210"
+1/19/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,211"
 1/19/2021,Antigen Positive Cases by Specimen Date,"1,385"
 1/19/2021,Deaths by Date of Death,115
 1/20/2021,Cases by Report Date,"6,415"
 1/20/2021,Molecular (PCR) Positive Cases by Specimen Date,"5,583"
-1/20/2021,Antigen Positive Cases by Specimen Date,"1,067"
+1/20/2021,Antigen Positive Cases by Specimen Date,"1,066"
 1/20/2021,Deaths by Date of Death,103
 1/21/2021,Cases by Report Date,"7,187"
-1/21/2021,Molecular (PCR) Positive Cases by Specimen Date,"5,123"
+1/21/2021,Molecular (PCR) Positive Cases by Specimen Date,"5,124"
 1/21/2021,Antigen Positive Cases by Specimen Date,"1,241"
-1/21/2021,Deaths by Date of Death,79
+1/21/2021,Deaths by Date of Death,78
 1/22/2021,Cases by Report Date,"7,436"
 1/22/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,947"
-1/22/2021,Antigen Positive Cases by Specimen Date,"1,131"
+1/22/2021,Antigen Positive Cases by Specimen Date,"1,129"
 1/22/2021,Deaths by Date of Death,88
 1/23/2021,Cases by Report Date,"7,181"
-1/23/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,867"
+1/23/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,868"
 1/23/2021,Antigen Positive Cases by Specimen Date,672
 1/23/2021,Deaths by Date of Death,84
 1/24/2021,Cases by Report Date,"6,096"
-1/24/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,163"
+1/24/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,164"
 1/24/2021,Antigen Positive Cases by Specimen Date,666
 1/24/2021,Deaths by Date of Death,69
 1/25/2021,Cases by Report Date,"4,633"
-1/25/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,037"
-1/25/2021,Antigen Positive Cases by Specimen Date,"1,425"
+1/25/2021,Molecular (PCR) Positive Cases by Specimen Date,"6,038"
+1/25/2021,Antigen Positive Cases by Specimen Date,"1,426"
 1/25/2021,Deaths by Date of Death,89
 1/26/2021,Cases by Report Date,"3,978"
-1/26/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,957"
+1/26/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,960"
 1/26/2021,Antigen Positive Cases by Specimen Date,"1,179"
 1/26/2021,Deaths by Date of Death,72
 1/27/2021,Cases by Report Date,"5,587"
-1/27/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,529"
-1/27/2021,Antigen Positive Cases by Specimen Date,996
+1/27/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,530"
+1/27/2021,Antigen Positive Cases by Specimen Date,997
 1/27/2021,Deaths by Date of Death,97
 1/28/2021,Cases by Report Date,"6,490"
-1/28/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,968"
+1/28/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,969"
 1/28/2021,Antigen Positive Cases by Specimen Date,911
 1/28/2021,Deaths by Date of Death,76
 1/29/2021,Cases by Report Date,"6,959"
-1/29/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,015"
+1/29/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,016"
 1/29/2021,Antigen Positive Cases by Specimen Date,935
 1/29/2021,Deaths by Date of Death,84
 1/30/2021,Cases by Report Date,"6,168"
@@ -1342,29 +1342,29 @@ Date,Measure Names,Measure Values
 1/31/2021,Cases by Report Date,"4,899"
 1/31/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,593"
 1/31/2021,Antigen Positive Cases by Specimen Date,578
-1/31/2021,Deaths by Date of Death,72
+1/31/2021,Deaths by Date of Death,73
 2/1/2021,Cases by Report Date,"3,776"
-2/1/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,893"
-2/1/2021,Antigen Positive Cases by Specimen Date,"1,250"
+2/1/2021,Molecular (PCR) Positive Cases by Specimen Date,"4,894"
+2/1/2021,Antigen Positive Cases by Specimen Date,"1,249"
 2/1/2021,Deaths by Date of Death,82
 2/2/2021,Cases by Report Date,"2,926"
-2/2/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,835"
+2/2/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,834"
 2/2/2021,Antigen Positive Cases by Specimen Date,957
-2/2/2021,Deaths by Date of Death,50
+2/2/2021,Deaths by Date of Death,51
 2/3/2021,Cases by Report Date,"12,079"
-2/3/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,626"
-2/3/2021,Antigen Positive Cases by Specimen Date,891
+2/3/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,624"
+2/3/2021,Antigen Positive Cases by Specimen Date,890
 2/3/2021,Deaths by Date of Death,47
 2/4/2021,Cases by Report Date,"5,495"
 2/4/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,357"
-2/4/2021,Antigen Positive Cases by Specimen Date,877
+2/4/2021,Antigen Positive Cases by Specimen Date,878
 2/4/2021,Deaths by Date of Death,58
 2/5/2021,Cases by Report Date,"5,547"
-2/5/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,311"
+2/5/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,312"
 2/5/2021,Antigen Positive Cases by Specimen Date,732
 2/5/2021,Deaths by Date of Death,45
 2/6/2021,Cases by Report Date,"4,172"
-2/6/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,879"
+2/6/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,878"
 2/6/2021,Antigen Positive Cases by Specimen Date,473
 2/6/2021,Deaths by Date of Death,45
 2/7/2021,Cases by Report Date,"4,674"
@@ -1374,17 +1374,17 @@ Date,Measure Names,Measure Values
 2/8/2021,Cases by Report Date,"3,084"
 2/8/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,899"
 2/8/2021,Antigen Positive Cases by Specimen Date,999
-2/8/2021,Deaths by Date of Death,53
+2/8/2021,Deaths by Date of Death,52
 2/9/2021,Cases by Report Date,"2,786"
 2/9/2021,Molecular (PCR) Positive Cases by Specimen Date,"3,023"
-2/9/2021,Antigen Positive Cases by Specimen Date,776
-2/9/2021,Deaths by Date of Death,59
+2/9/2021,Antigen Positive Cases by Specimen Date,775
+2/9/2021,Deaths by Date of Death,58
 2/10/2021,Cases by Report Date,"3,833"
-2/10/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,924"
-2/10/2021,Antigen Positive Cases by Specimen Date,701
+2/10/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,923"
+2/10/2021,Antigen Positive Cases by Specimen Date,702
 2/10/2021,Deaths by Date of Death,54
 2/11/2021,Cases by Report Date,"4,568"
-2/11/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,631"
+2/11/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,632"
 2/11/2021,Antigen Positive Cases by Specimen Date,714
 2/11/2021,Deaths by Date of Death,32
 2/12/2021,Cases by Report Date,"4,128"
@@ -1405,19 +1405,19 @@ Date,Measure Names,Measure Values
 2/15/2021,Deaths by Date of Death,39
 2/16/2021,Cases by Report Date,"1,988"
 2/16/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,489"
-2/16/2021,Antigen Positive Cases by Specimen Date,718
-2/16/2021,Deaths by Date of Death,26
+2/16/2021,Antigen Positive Cases by Specimen Date,719
+2/16/2021,Deaths by Date of Death,27
 2/17/2021,Cases by Report Date,"3,167"
 2/17/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,266"
 2/17/2021,Antigen Positive Cases by Specimen Date,655
 2/17/2021,Deaths by Date of Death,34
 2/18/2021,Cases by Report Date,"3,916"
-2/18/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,630"
-2/18/2021,Antigen Positive Cases by Specimen Date,534
+2/18/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,631"
+2/18/2021,Antigen Positive Cases by Specimen Date,535
 2/18/2021,Deaths by Date of Death,24
 2/19/2021,Cases by Report Date,"3,227"
-2/19/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,124"
-2/19/2021,Antigen Positive Cases by Specimen Date,559
+2/19/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,123"
+2/19/2021,Antigen Positive Cases by Specimen Date,558
 2/19/2021,Deaths by Date of Death,21
 2/20/2021,Cases by Report Date,"3,446"
 2/20/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,196"
@@ -1434,7 +1434,7 @@ Date,Measure Names,Measure Values
 2/23/2021,Cases by Report Date,"1,514"
 2/23/2021,Molecular (PCR) Positive Cases by Specimen Date,"2,017"
 2/23/2021,Antigen Positive Cases by Specimen Date,496
-2/23/2021,Deaths by Date of Death,32
+2/23/2021,Deaths by Date of Death,33
 2/24/2021,Cases by Report Date,"3,346"
 2/24/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,777"
 2/24/2021,Antigen Positive Cases by Specimen Date,486
@@ -1445,77 +1445,81 @@ Date,Measure Names,Measure Values
 2/25/2021,Deaths by Date of Death,25
 2/26/2021,Cases by Report Date,"2,924"
 2/26/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,467"
-2/26/2021,Antigen Positive Cases by Specimen Date,428
+2/26/2021,Antigen Positive Cases by Specimen Date,429
 2/26/2021,Deaths by Date of Death,22
 2/27/2021,Cases by Report Date,"2,643"
 2/27/2021,Molecular (PCR) Positive Cases by Specimen Date,916
-2/27/2021,Antigen Positive Cases by Specimen Date,286
+2/27/2021,Antigen Positive Cases by Specimen Date,284
 2/27/2021,Deaths by Date of Death,17
 2/28/2021,Cases by Report Date,"2,156"
 2/28/2021,Molecular (PCR) Positive Cases by Specimen Date,729
-2/28/2021,Antigen Positive Cases by Specimen Date,254
+2/28/2021,Antigen Positive Cases by Specimen Date,255
 2/28/2021,Deaths by Date of Death,17
 3/1/2021,Cases by Report Date,"1,466"
 3/1/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,933"
-3/1/2021,Antigen Positive Cases by Specimen Date,595
+3/1/2021,Antigen Positive Cases by Specimen Date,596
 3/1/2021,Deaths by Date of Death,21
 3/2/2021,Cases by Report Date,"1,239"
-3/2/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,577"
-3/2/2021,Antigen Positive Cases by Specimen Date,516
+3/2/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,576"
+3/2/2021,Antigen Positive Cases by Specimen Date,515
 3/2/2021,Deaths by Date of Death,18
 3/3/2021,Cases by Report Date,"2,145"
-3/3/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,400"
-3/3/2021,Antigen Positive Cases by Specimen Date,491
+3/3/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,401"
+3/3/2021,Antigen Positive Cases by Specimen Date,495
 3/3/2021,Deaths by Date of Death,17
 3/4/2021,Cases by Report Date,"2,502"
-3/4/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,214"
+3/4/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,215"
 3/4/2021,Antigen Positive Cases by Specimen Date,451
 3/4/2021,Deaths by Date of Death,14
 3/5/2021,Cases by Report Date,"2,093"
 3/5/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,145"
-3/5/2021,Antigen Positive Cases by Specimen Date,447
+3/5/2021,Antigen Positive Cases by Specimen Date,446
 3/5/2021,Deaths by Date of Death,10
 3/6/2021,Cases by Report Date,"2,027"
-3/6/2021,Molecular (PCR) Positive Cases by Specimen Date,672
-3/6/2021,Antigen Positive Cases by Specimen Date,284
+3/6/2021,Molecular (PCR) Positive Cases by Specimen Date,675
+3/6/2021,Antigen Positive Cases by Specimen Date,285
 3/6/2021,Deaths by Date of Death,12
 3/7/2021,Cases by Report Date,"1,502"
-3/7/2021,Molecular (PCR) Positive Cases by Specimen Date,569
-3/7/2021,Antigen Positive Cases by Specimen Date,304
+3/7/2021,Molecular (PCR) Positive Cases by Specimen Date,570
+3/7/2021,Antigen Positive Cases by Specimen Date,305
 3/7/2021,Deaths by Date of Death,7
 3/8/2021,Cases by Report Date,"1,228"
-3/8/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,610"
-3/8/2021,Antigen Positive Cases by Specimen Date,580
-3/8/2021,Deaths by Date of Death,5
+3/8/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,625"
+3/8/2021,Antigen Positive Cases by Specimen Date,581
+3/8/2021,Deaths by Date of Death,7
 3/9/2021,Cases by Report Date,997
-3/9/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,146"
-3/9/2021,Antigen Positive Cases by Specimen Date,431
+3/9/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,160"
+3/9/2021,Antigen Positive Cases by Specimen Date,432
 3/9/2021,Deaths by Date of Death,13
 3/10/2021,Cases by Report Date,"1,861"
-3/10/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,302"
-3/10/2021,Antigen Positive Cases by Specimen Date,456
-3/10/2021,Deaths by Date of Death,4
+3/10/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,315"
+3/10/2021,Antigen Positive Cases by Specimen Date,473
+3/10/2021,Deaths by Date of Death,6
 3/11/2021,Cases by Report Date,"2,061"
-3/11/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,095"
-3/11/2021,Antigen Positive Cases by Specimen Date,424
-3/11/2021,Deaths by Date of Death,5
+3/11/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,122"
+3/11/2021,Antigen Positive Cases by Specimen Date,437
+3/11/2021,Deaths by Date of Death,7
 3/12/2021,Cases by Report Date,"1,998"
-3/12/2021,Molecular (PCR) Positive Cases by Specimen Date,998
-3/12/2021,Antigen Positive Cases by Specimen Date,375
-3/12/2021,Deaths by Date of Death,2
+3/12/2021,Molecular (PCR) Positive Cases by Specimen Date,"1,113"
+3/12/2021,Antigen Positive Cases by Specimen Date,449
+3/12/2021,Deaths by Date of Death,10
 3/13/2021,Cases by Report Date,892
-3/13/2021,Molecular (PCR) Positive Cases by Specimen Date,551
-3/13/2021,Antigen Positive Cases by Specimen Date,254
-3/13/2021,Deaths by Date of Death,2
+3/13/2021,Molecular (PCR) Positive Cases by Specimen Date,678
+3/13/2021,Antigen Positive Cases by Specimen Date,331
+3/13/2021,Deaths by Date of Death,6
 3/14/2021,Cases by Report Date,"2,166"
-3/14/2021,Molecular (PCR) Positive Cases by Specimen Date,255
-3/14/2021,Antigen Positive Cases by Specimen Date,107
-3/14/2021,Deaths by Date of Death,
+3/14/2021,Molecular (PCR) Positive Cases by Specimen Date,473
+3/14/2021,Antigen Positive Cases by Specimen Date,305
+3/14/2021,Deaths by Date of Death,5
 3/15/2021,Cases by Report Date,"1,337"
-3/15/2021,Molecular (PCR) Positive Cases by Specimen Date,
-3/15/2021,Antigen Positive Cases by Specimen Date,
-3/15/2021,Deaths by Date of Death,
+3/15/2021,Molecular (PCR) Positive Cases by Specimen Date,534
+3/15/2021,Antigen Positive Cases by Specimen Date,487
+3/15/2021,Deaths by Date of Death,1
 3/16/2021,Cases by Report Date,"1,093"
 3/16/2021,Molecular (PCR) Positive Cases by Specimen Date,
 3/16/2021,Antigen Positive Cases by Specimen Date,
-3/16/2021,Deaths by Date of Death,
+3/16/2021,Deaths by Date of Death,1
+3/17/2021,Cases by Report Date,"1,999"
+3/17/2021,Molecular (PCR) Positive Cases by Specimen Date,
+3/17/2021,Antigen Positive Cases by Specimen Date,
+3/17/2021,Deaths by Date of Death,
