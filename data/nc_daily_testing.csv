@@ -410,7 +410,7 @@ Date,Measure Names,Measure Values
 6/12/2020,Daily Tests Total,"22,126"
 6/12/2020,Molecular Test,
 6/12/2020,Antigen Test,
-6/12/2020,Positive Test Percentage,0.092770581
+6/12/2020,Positive Test Percentage,0.092777043
 6/13/2020,Daily Tests Total,"16,049"
 6/13/2020,Molecular Test,
 6/13/2020,Antigen Test,
@@ -426,11 +426,11 @@ Date,Measure Names,Measure Values
 6/16/2020,Daily Tests Total,"13,726"
 6/16/2020,Molecular Test,
 6/16/2020,Antigen Test,
-6/16/2020,Positive Test Percentage,0.080572772
+6/16/2020,Positive Test Percentage,0.080581383
 6/17/2020,Daily Tests Total,"17,071"
 6/17/2020,Molecular Test,
 6/17/2020,Antigen Test,
-6/17/2020,Positive Test Percentage,0.082506702
+6/17/2020,Positive Test Percentage,0.082501173
 6/18/2020,Daily Tests Total,"21,412"
 6/18/2020,Molecular Test,
 6/18/2020,Antigen Test,
@@ -454,7 +454,7 @@ Date,Measure Names,Measure Values
 6/23/2020,Daily Tests Total,"15,713"
 6/23/2020,Molecular Test,
 6/23/2020,Antigen Test,
-6/23/2020,Positive Test Percentage,0.082716232
+6/23/2020,Positive Test Percentage,0.082722358
 6/24/2020,Daily Tests Total,"18,527"
 6/24/2020,Molecular Test,
 6/24/2020,Antigen Test,
@@ -482,11 +482,11 @@ Date,Measure Names,Measure Values
 6/30/2020,Daily Tests Total,"18,461"
 6/30/2020,Molecular Test,
 6/30/2020,Antigen Test,
-6/30/2020,Positive Test Percentage,0.096045797
+6/30/2020,Positive Test Percentage,0.096050888
 7/1/2020,Daily Tests Total,"21,911"
 7/1/2020,Molecular Test,
 7/1/2020,Antigen Test,
-7/1/2020,Positive Test Percentage,0.083084691
+7/1/2020,Positive Test Percentage,0.083032077
 7/2/2020,Daily Tests Total,"21,474"
 7/2/2020,Molecular Test,
 7/2/2020,Antigen Test,
@@ -518,7 +518,7 @@ Date,Measure Names,Measure Values
 7/9/2020,Daily Tests Total,"23,660"
 7/9/2020,Molecular Test,
 7/9/2020,Antigen Test,
-7/9/2020,Positive Test Percentage,0.093610926
+7/9/2020,Positive Test Percentage,0.093662080
 7/10/2020,Daily Tests Total,"22,280"
 7/10/2020,Molecular Test,
 7/10/2020,Antigen Test,
@@ -538,7 +538,7 @@ Date,Measure Names,Measure Values
 7/14/2020,Daily Tests Total,"23,193"
 7/14/2020,Molecular Test,
 7/14/2020,Antigen Test,
-7/14/2020,Positive Test Percentage,0.078485258
+7/14/2020,Positive Test Percentage,0.078488914
 7/15/2020,Daily Tests Total,"23,132"
 7/15/2020,Molecular Test,
 7/15/2020,Antigen Test,
@@ -566,7 +566,7 @@ Date,Measure Names,Measure Values
 7/21/2020,Daily Tests Total,"19,982"
 7/21/2020,Molecular Test,
 7/21/2020,Antigen Test,
-7/21/2020,Positive Test Percentage,0.076393237
+7/21/2020,Positive Test Percentage,0.076396654
 7/22/2020,Daily Tests Total,"25,652"
 7/22/2020,Molecular Test,
 7/22/2020,Antigen Test,
@@ -598,7 +598,7 @@ Date,Measure Names,Measure Values
 7/29/2020,Daily Tests Total,"25,175"
 7/29/2020,Molecular Test,
 7/29/2020,Antigen Test,
-7/29/2020,Positive Test Percentage,0.074917292
+7/29/2020,Positive Test Percentage,0.074919957
 7/30/2020,Daily Tests Total,"25,438"
 7/30/2020,Molecular Test,
 7/30/2020,Antigen Test,
@@ -622,7 +622,7 @@ Date,Measure Names,Measure Values
 8/4/2020,Daily Tests Total,"11,613"
 8/4/2020,Molecular Test,
 8/4/2020,Antigen Test,
-8/4/2020,Positive Test Percentage,0.076639092
+8/4/2020,Positive Test Percentage,0.076575961
 8/5/2020,Daily Tests Total,"19,558"
 8/5/2020,Molecular Test,
 8/5/2020,Antigen Test,
@@ -634,7 +634,7 @@ Date,Measure Names,Measure Values
 8/7/2020,Daily Tests Total,"21,840"
 8/7/2020,Molecular Test,
 8/7/2020,Antigen Test,
-8/7/2020,Positive Test Percentage,0.067484379
+8/7/2020,Positive Test Percentage,0.067487502
 8/8/2020,Daily Tests Total,"21,031"
 8/8/2020,Molecular Test,
 8/8/2020,Antigen Test,
@@ -694,7 +694,7 @@ Date,Measure Names,Measure Values
 8/22/2020,Daily Tests Total,"24,904"
 8/22/2020,Molecular Test,
 8/22/2020,Antigen Test,
-8/22/2020,Positive Test Percentage,0.063648699
+8/22/2020,Positive Test Percentage,0.063646082
 8/23/2020,Daily Tests Total,"24,169"
 8/23/2020,Molecular Test,
 8/23/2020,Antigen Test,
@@ -726,7 +726,7 @@ Date,Measure Names,Measure Values
 8/30/2020,Daily Tests Total,"25,044"
 8/30/2020,Molecular Test,
 8/30/2020,Antigen Test,
-8/30/2020,Positive Test Percentage,0.065631178
+8/30/2020,Positive Test Percentage,0.065634885
 8/31/2020,Daily Tests Total,"18,622"
 8/31/2020,Molecular Test,
 8/31/2020,Antigen Test,
@@ -742,7 +742,7 @@ Date,Measure Names,Measure Values
 9/3/2020,Daily Tests Total,"36,879"
 9/3/2020,Molecular Test,
 9/3/2020,Antigen Test,
-9/3/2020,Positive Test Percentage,0.053510600
+9/3/2020,Positive Test Percentage,0.053512369
 9/4/2020,Daily Tests Total,"32,622"
 9/4/2020,Molecular Test,
 9/4/2020,Antigen Test,
@@ -770,11 +770,11 @@ Date,Measure Names,Measure Values
 9/10/2020,Daily Tests Total,"33,872"
 9/10/2020,Molecular Test,
 9/10/2020,Antigen Test,
-9/10/2020,Positive Test Percentage,0.050307364
+9/10/2020,Positive Test Percentage,0.050310520
 9/11/2020,Daily Tests Total,"38,681"
 9/11/2020,Molecular Test,
 9/11/2020,Antigen Test,
-9/11/2020,Positive Test Percentage,0.050001758
+9/11/2020,Positive Test Percentage,0.049968352
 9/12/2020,Daily Tests Total,"33,367"
 9/12/2020,Molecular Test,
 9/12/2020,Antigen Test,
@@ -782,7 +782,7 @@ Date,Measure Names,Measure Values
 9/13/2020,Daily Tests Total,"26,203"
 9/13/2020,Molecular Test,
 9/13/2020,Antigen Test,
-9/13/2020,Positive Test Percentage,0.049670552
+9/13/2020,Positive Test Percentage,0.049673350
 9/14/2020,Daily Tests Total,"18,342"
 9/14/2020,Molecular Test,
 9/14/2020,Antigen Test,
@@ -794,15 +794,15 @@ Date,Measure Names,Measure Values
 9/16/2020,Daily Tests Total,"28,506"
 9/16/2020,Molecular Test,
 9/16/2020,Antigen Test,
-9/16/2020,Positive Test Percentage,0.047454948
+9/16/2020,Positive Test Percentage,0.047453448
 9/17/2020,Daily Tests Total,"37,607"
 9/17/2020,Molecular Test,
 9/17/2020,Antigen Test,
-9/17/2020,Positive Test Percentage,0.047188922
+9/17/2020,Positive Test Percentage,0.047190489
 9/18/2020,Daily Tests Total,"34,441"
 9/18/2020,Molecular Test,
 9/18/2020,Antigen Test,
-9/18/2020,Positive Test Percentage,0.046329194
+9/18/2020,Positive Test Percentage,0.046330824
 9/19/2020,Daily Tests Total,"27,403"
 9/19/2020,Molecular Test,
 9/19/2020,Antigen Test,
@@ -822,7 +822,7 @@ Date,Measure Names,Measure Values
 9/23/2020,Daily Tests Total,"28,553"
 9/23/2020,Molecular Test,"28,179"
 9/23/2020,Antigen Test,374
-9/23/2020,Positive Test Percentage,0.049349322
+9/23/2020,Positive Test Percentage,0.049350805
 9/24/2020,Daily Tests Total,"38,434"
 9/24/2020,Molecular Test,"38,070"
 9/24/2020,Antigen Test,364
@@ -854,11 +854,11 @@ Date,Measure Names,Measure Values
 10/1/2020,Daily Tests Total,"40,621"
 10/1/2020,Molecular Test,"39,874"
 10/1/2020,Antigen Test,747
-10/1/2020,Positive Test Percentage,0.054630186
+10/1/2020,Positive Test Percentage,0.054633472
 10/2/2020,Daily Tests Total,"36,043"
 10/2/2020,Molecular Test,"35,426"
 10/2/2020,Antigen Test,617
-10/2/2020,Positive Test Percentage,0.061066640
+10/2/2020,Positive Test Percentage,0.061068702
 10/3/2020,Daily Tests Total,"32,524"
 10/3/2020,Molecular Test,"31,889"
 10/3/2020,Antigen Test,635
@@ -870,7 +870,7 @@ Date,Measure Names,Measure Values
 10/5/2020,Daily Tests Total,"18,047"
 10/5/2020,Molecular Test,"17,794"
 10/5/2020,Antigen Test,253
-10/5/2020,Positive Test Percentage,0.065285741
+10/5/2020,Positive Test Percentage,0.065228113
 10/6/2020,Daily Tests Total,"17,803"
 10/6/2020,Molecular Test,"16,888"
 10/6/2020,Antigen Test,915
@@ -878,11 +878,11 @@ Date,Measure Names,Measure Values
 10/7/2020,Daily Tests Total,"34,450"
 10/7/2020,Molecular Test,"33,428"
 10/7/2020,Antigen Test,"1,022"
-10/7/2020,Positive Test Percentage,0.057495384
+10/7/2020,Positive Test Percentage,0.057496992
 10/8/2020,Daily Tests Total,"40,909"
 10/8/2020,Molecular Test,"40,012"
 10/8/2020,Antigen Test,897
-10/8/2020,Positive Test Percentage,0.050413644
+10/8/2020,Positive Test Percentage,0.050414993
 10/9/2020,Daily Tests Total,"42,458"
 10/9/2020,Molecular Test,"41,183"
 10/9/2020,Antigen Test,"1,275"
@@ -906,11 +906,11 @@ Date,Measure Names,Measure Values
 10/14/2020,Daily Tests Total,"34,298"
 10/14/2020,Molecular Test,"32,849"
 10/14/2020,Antigen Test,"1,449"
-10/14/2020,Positive Test Percentage,0.060959333
+10/14/2020,Positive Test Percentage,0.060960994
 10/15/2020,Daily Tests Total,"42,287"
 10/15/2020,Molecular Test,"41,168"
 10/15/2020,Antigen Test,"1,119"
-10/15/2020,Positive Test Percentage,0.065448716
+10/15/2020,Positive Test Percentage,0.065450525
 10/16/2020,Daily Tests Total,"41,557"
 10/16/2020,Molecular Test,"40,063"
 10/16/2020,Antigen Test,"1,494"
@@ -958,7 +958,7 @@ Date,Measure Names,Measure Values
 10/27/2020,Daily Tests Total,"23,982"
 10/27/2020,Molecular Test,"21,589"
 10/27/2020,Antigen Test,"2,393"
-10/27/2020,Positive Test Percentage,0.064318024
+10/27/2020,Positive Test Percentage,0.064320148
 10/28/2020,Daily Tests Total,"38,860"
 10/28/2020,Molecular Test,"36,669"
 10/28/2020,Antigen Test,"2,191"
@@ -974,7 +974,7 @@ Date,Measure Names,Measure Values
 10/31/2020,Daily Tests Total,"39,051"
 10/31/2020,Molecular Test,"37,191"
 10/31/2020,Antigen Test,"1,860"
-10/31/2020,Positive Test Percentage,0.063737159
+10/31/2020,Positive Test Percentage,0.063739155
 11/1/2020,Daily Tests Total,"33,570"
 11/1/2020,Molecular Test,"32,749"
 11/1/2020,Antigen Test,821
@@ -994,11 +994,11 @@ Date,Measure Names,Measure Values
 11/5/2020,Daily Tests Total,"47,865"
 11/5/2020,Molecular Test,"45,241"
 11/5/2020,Antigen Test,"2,624"
-11/5/2020,Positive Test Percentage,0.066729587
+11/5/2020,Positive Test Percentage,0.066731289
 11/6/2020,Daily Tests Total,"45,054"
 11/6/2020,Molecular Test,"41,946"
 11/6/2020,Antigen Test,"3,108"
-11/6/2020,Positive Test Percentage,0.058875027
+11/6/2020,Positive Test Percentage,0.058878249
 11/7/2020,Daily Tests Total,"40,426"
 11/7/2020,Molecular Test,"38,228"
 11/7/2020,Antigen Test,"2,198"
@@ -1018,15 +1018,15 @@ Date,Measure Names,Measure Values
 11/11/2020,Daily Tests Total,"42,157"
 11/11/2020,Molecular Test,"37,868"
 11/11/2020,Antigen Test,"4,289"
-11/11/2020,Positive Test Percentage,0.076094430
+11/11/2020,Positive Test Percentage,0.076096368
 11/12/2020,Daily Tests Total,"46,720"
 11/12/2020,Molecular Test,"43,421"
 11/12/2020,Antigen Test,"3,299"
-11/12/2020,Positive Test Percentage,0.078225847
+11/12/2020,Positive Test Percentage,0.078200831
 11/13/2020,Daily Tests Total,"48,665"
 11/13/2020,Molecular Test,"44,616"
 11/13/2020,Antigen Test,"4,049"
-11/13/2020,Positive Test Percentage,0.077314853
+11/13/2020,Positive Test Percentage,0.077319014
 11/14/2020,Daily Tests Total,"41,167"
 11/14/2020,Molecular Test,"38,470"
 11/14/2020,Antigen Test,"2,697"
@@ -1046,11 +1046,11 @@ Date,Measure Names,Measure Values
 11/18/2020,Daily Tests Total,"50,636"
 11/18/2020,Molecular Test,"45,852"
 11/18/2020,Antigen Test,"4,784"
-11/18/2020,Positive Test Percentage,0.078878967
+11/18/2020,Positive Test Percentage,0.078882274
 11/19/2020,Daily Tests Total,"54,087"
 11/19/2020,Molecular Test,"49,935"
 11/19/2020,Antigen Test,"4,152"
-11/19/2020,Positive Test Percentage,0.072070036
+11/19/2020,Positive Test Percentage,0.072067074
 11/20/2020,Daily Tests Total,"58,737"
 11/20/2020,Molecular Test,"53,339"
 11/20/2020,Antigen Test,"5,398"
@@ -1074,15 +1074,15 @@ Date,Measure Names,Measure Values
 11/25/2020,Daily Tests Total,"52,738"
 11/25/2020,Molecular Test,"45,366"
 11/25/2020,Antigen Test,"7,372"
-11/25/2020,Positive Test Percentage,0.068816083
+11/25/2020,Positive Test Percentage,0.068814845
 11/26/2020,Daily Tests Total,"68,283"
 11/26/2020,Molecular Test,"61,469"
 11/26/2020,Antigen Test,"6,814"
-11/26/2020,Positive Test Percentage,0.076095537
+11/26/2020,Positive Test Percentage,0.076097253
 11/27/2020,Daily Tests Total,"41,765"
 11/27/2020,Molecular Test,"40,408"
 11/27/2020,Antigen Test,"1,357"
-11/27/2020,Positive Test Percentage,0.086089413
+11/27/2020,Positive Test Percentage,0.086091798
 11/28/2020,Daily Tests Total,"42,472"
 11/28/2020,Molecular Test,"39,162"
 11/28/2020,Antigen Test,"3,310"
@@ -1106,7 +1106,7 @@ Date,Measure Names,Measure Values
 12/3/2020,Daily Tests Total,"60,697"
 12/3/2020,Molecular Test,"52,700"
 12/3/2020,Antigen Test,"7,997"
-12/3/2020,Positive Test Percentage,0.099493130
+12/3/2020,Positive Test Percentage,0.099495099
 12/4/2020,Daily Tests Total,"63,958"
 12/4/2020,Molecular Test,"56,481"
 12/4/2020,Antigen Test,"7,477"
@@ -1126,7 +1126,7 @@ Date,Measure Names,Measure Values
 12/8/2020,Daily Tests Total,"51,429"
 12/8/2020,Molecular Test,"40,561"
 12/8/2020,Antigen Test,"10,868"
-12/8/2020,Positive Test Percentage,0.105744713
+12/8/2020,Positive Test Percentage,0.105725551
 12/9/2020,Daily Tests Total,"59,572"
 12/9/2020,Molecular Test,"52,359"
 12/9/2020,Antigen Test,"7,213"
@@ -1134,11 +1134,11 @@ Date,Measure Names,Measure Values
 12/10/2020,Daily Tests Total,"69,570"
 12/10/2020,Molecular Test,"63,501"
 12/10/2020,Antigen Test,"6,069"
-12/10/2020,Positive Test Percentage,0.099737581
+12/10/2020,Positive Test Percentage,0.099730209
 12/11/2020,Daily Tests Total,"68,840"
 12/11/2020,Molecular Test,"59,779"
 12/11/2020,Antigen Test,"9,061"
-12/11/2020,Positive Test Percentage,0.106960305
+12/11/2020,Positive Test Percentage,0.106962243
 12/12/2020,Daily Tests Total,"60,552"
 12/12/2020,Molecular Test,"54,838"
 12/12/2020,Antigen Test,"5,714"
@@ -1150,11 +1150,11 @@ Date,Measure Names,Measure Values
 12/14/2020,Daily Tests Total,"38,083"
 12/14/2020,Molecular Test,"36,132"
 12/14/2020,Antigen Test,"1,951"
-12/14/2020,Positive Test Percentage,0.124389935
+12/14/2020,Positive Test Percentage,0.124385993
 12/15/2020,Daily Tests Total,"45,102"
 12/15/2020,Molecular Test,"33,769"
 12/15/2020,Antigen Test,"11,333"
-12/15/2020,Positive Test Percentage,0.108388162
+12/15/2020,Positive Test Percentage,0.108390646
 12/16/2020,Daily Tests Total,"60,746"
 12/16/2020,Molecular Test,"53,560"
 12/16/2020,Antigen Test,"7,186"
@@ -1162,23 +1162,23 @@ Date,Measure Names,Measure Values
 12/17/2020,Daily Tests Total,"75,106"
 12/17/2020,Molecular Test,"69,030"
 12/17/2020,Antigen Test,"6,076"
-12/17/2020,Positive Test Percentage,0.108892528
+12/17/2020,Positive Test Percentage,0.108888889
 12/18/2020,Daily Tests Total,"78,747"
 12/18/2020,Molecular Test,"69,893"
 12/18/2020,Antigen Test,"8,854"
-12/18/2020,Positive Test Percentage,0.106867806
+12/18/2020,Positive Test Percentage,0.106810491
 12/19/2020,Daily Tests Total,"67,441"
 12/19/2020,Molecular Test,"61,346"
 12/19/2020,Antigen Test,"6,095"
-12/19/2020,Positive Test Percentage,0.103094586
+12/19/2020,Positive Test Percentage,0.103114012
 12/20/2020,Daily Tests Total,"54,701"
 12/20/2020,Molecular Test,"52,375"
 12/20/2020,Antigen Test,"2,326"
-12/20/2020,Positive Test Percentage,0.108505946
+12/20/2020,Positive Test Percentage,0.108527318
 12/21/2020,Daily Tests Total,"38,660"
 12/21/2020,Molecular Test,"35,857"
 12/21/2020,Antigen Test,"2,803"
-12/21/2020,Positive Test Percentage,0.102551276
+12/21/2020,Positive Test Percentage,0.102526333
 12/22/2020,Daily Tests Total,"57,201"
 12/22/2020,Molecular Test,"44,277"
 12/22/2020,Antigen Test,"12,924"
@@ -1186,19 +1186,19 @@ Date,Measure Names,Measure Values
 12/23/2020,Daily Tests Total,"65,897"
 12/23/2020,Molecular Test,"57,913"
 12/23/2020,Antigen Test,"7,984"
-12/23/2020,Positive Test Percentage,0.097055616
+12/23/2020,Positive Test Percentage,0.097054036
 12/24/2020,Daily Tests Total,"85,106"
 12/24/2020,Molecular Test,"76,094"
 12/24/2020,Antigen Test,"9,012"
-12/24/2020,Positive Test Percentage,0.102867969
+12/24/2020,Positive Test Percentage,0.102863822
 12/25/2020,Daily Tests Total,"58,558"
 12/25/2020,Molecular Test,"53,246"
 12/25/2020,Antigen Test,"5,312"
-12/25/2020,Positive Test Percentage,0.110606825
+12/25/2020,Positive Test Percentage,0.110603726
 12/26/2020,Daily Tests Total,"37,266"
 12/26/2020,Molecular Test,"35,786"
 12/26/2020,Antigen Test,"1,480"
-12/26/2020,Positive Test Percentage,0.136995748
+12/26/2020,Positive Test Percentage,0.137003620
 12/27/2020,Daily Tests Total,"19,909"
 12/27/2020,Molecular Test,"17,302"
 12/27/2020,Antigen Test,"2,607"
@@ -1206,27 +1206,27 @@ Date,Measure Names,Measure Values
 12/28/2020,Daily Tests Total,"22,537"
 12/28/2020,Molecular Test,"19,697"
 12/28/2020,Antigen Test,"2,840"
-12/28/2020,Positive Test Percentage,0.141402037
+12/28/2020,Positive Test Percentage,0.141450888
 12/29/2020,Daily Tests Total,"42,348"
 12/29/2020,Molecular Test,"30,528"
 12/29/2020,Antigen Test,"11,820"
-12/29/2020,Positive Test Percentage,0.136669724
+12/29/2020,Positive Test Percentage,0.136647352
 12/30/2020,Daily Tests Total,"66,310"
 12/30/2020,Molecular Test,"59,022"
 12/30/2020,Antigen Test,"7,288"
-12/30/2020,Positive Test Percentage,0.133322940
+12/30/2020,Positive Test Percentage,0.133325019
 12/31/2020,Daily Tests Total,"81,195"
 12/31/2020,Molecular Test,"72,923"
 12/31/2020,Antigen Test,"8,272"
-12/31/2020,Positive Test Percentage,0.148005229
+12/31/2020,Positive Test Percentage,0.148007560
 1/1/2021,Daily Tests Total,"75,770"
 1/1/2021,Molecular Test,"66,243"
 1/1/2021,Antigen Test,"9,527"
-1/1/2021,Positive Test Percentage,0.139073909
+1/1/2021,Positive Test Percentage,0.139054203
 1/2/2021,Daily Tests Total,"48,251"
 1/2/2021,Molecular Test,"45,161"
 1/2/2021,Antigen Test,"3,090"
-1/2/2021,Positive Test Percentage,0.164114699
+1/2/2021,Positive Test Percentage,0.164142539
 1/3/2021,Daily Tests Total,"40,998"
 1/3/2021,Molecular Test,"37,924"
 1/3/2021,Antigen Test,"3,074"
@@ -1238,11 +1238,11 @@ Date,Measure Names,Measure Values
 1/5/2021,Daily Tests Total,"55,769"
 1/5/2021,Molecular Test,"40,516"
 1/5/2021,Antigen Test,"15,253"
-1/5/2021,Positive Test Percentage,0.132040849
+1/5/2021,Positive Test Percentage,0.132058161
 1/6/2021,Daily Tests Total,"74,440"
 1/6/2021,Molecular Test,"64,271"
 1/6/2021,Antigen Test,"10,169"
-1/6/2021,Positive Test Percentage,0.137145485
+1/6/2021,Positive Test Percentage,0.137143383
 1/7/2021,Daily Tests Total,"81,827"
 1/7/2021,Molecular Test,"73,736"
 1/7/2021,Antigen Test,"8,091"
@@ -1250,11 +1250,11 @@ Date,Measure Names,Measure Values
 1/8/2021,Daily Tests Total,"78,973"
 1/8/2021,Molecular Test,"65,817"
 1/8/2021,Antigen Test,"13,156"
-1/8/2021,Positive Test Percentage,0.133271530
+1/8/2021,Positive Test Percentage,0.133273660
 1/9/2021,Daily Tests Total,"74,536"
 1/9/2021,Molecular Test,"67,858"
 1/9/2021,Antigen Test,"6,678"
-1/9/2021,Positive Test Percentage,0.133339074
+1/9/2021,Positive Test Percentage,0.133336777
 1/10/2021,Daily Tests Total,"62,973"
 1/10/2021,Molecular Test,"59,834"
 1/10/2021,Antigen Test,"3,139"
@@ -1262,23 +1262,23 @@ Date,Measure Names,Measure Values
 1/11/2021,Daily Tests Total,"34,285"
 1/11/2021,Molecular Test,"30,150"
 1/11/2021,Antigen Test,"4,135"
-1/11/2021,Positive Test Percentage,0.132745294
+1/11/2021,Positive Test Percentage,0.132772324
 1/12/2021,Daily Tests Total,"56,408"
 1/12/2021,Molecular Test,"41,121"
 1/12/2021,Antigen Test,"15,287"
-1/12/2021,Positive Test Percentage,0.102397010
+1/12/2021,Positive Test Percentage,0.102382423
 1/13/2021,Daily Tests Total,"78,552"
 1/13/2021,Molecular Test,"68,413"
 1/13/2021,Antigen Test,"10,139"
-1/13/2021,Positive Test Percentage,0.106994831
+1/13/2021,Positive Test Percentage,0.106991407
 1/14/2021,Daily Tests Total,"77,693"
 1/14/2021,Molecular Test,"70,177"
 1/14/2021,Antigen Test,"7,516"
-1/14/2021,Positive Test Percentage,0.114235399
+1/14/2021,Positive Test Percentage,0.114188815
 1/15/2021,Daily Tests Total,"83,419"
 1/15/2021,Molecular Test,"71,188"
 1/15/2021,Antigen Test,"12,231"
-1/15/2021,Positive Test Percentage,0.100427074
+1/15/2021,Positive Test Percentage,0.100483654
 1/16/2021,Daily Tests Total,"76,798"
 1/16/2021,Molecular Test,"69,944"
 1/16/2021,Antigen Test,"6,854"
@@ -1286,11 +1286,11 @@ Date,Measure Names,Measure Values
 1/17/2021,Daily Tests Total,"58,538"
 1/17/2021,Molecular Test,"55,877"
 1/17/2021,Antigen Test,"2,661"
-1/17/2021,Positive Test Percentage,0.119261021
+1/17/2021,Positive Test Percentage,0.119257385
 1/18/2021,Daily Tests Total,"34,123"
 1/18/2021,Molecular Test,"31,373"
 1/18/2021,Antigen Test,"2,750"
-1/18/2021,Positive Test Percentage,0.116732265
+1/18/2021,Positive Test Percentage,0.116700266
 1/19/2021,Daily Tests Total,"48,453"
 1/19/2021,Molecular Test,"37,942"
 1/19/2021,Antigen Test,"10,511"
@@ -1298,7 +1298,7 @@ Date,Measure Names,Measure Values
 1/20/2021,Daily Tests Total,"67,211"
 1/20/2021,Molecular Test,"56,379"
 1/20/2021,Antigen Test,"10,832"
-1/20/2021,Positive Test Percentage,0.096390866
+1/20/2021,Positive Test Percentage,0.096392387
 1/21/2021,Daily Tests Total,"77,647"
 1/21/2021,Molecular Test,"69,915"
 1/21/2021,Antigen Test,"7,732"
@@ -1306,7 +1306,7 @@ Date,Measure Names,Measure Values
 1/22/2021,Daily Tests Total,"69,102"
 1/22/2021,Molecular Test,"56,103"
 1/22/2021,Antigen Test,"12,999"
-1/22/2021,Positive Test Percentage,0.104070246
+1/22/2021,Positive Test Percentage,0.104053856
 1/23/2021,Daily Tests Total,"63,899"
 1/23/2021,Molecular Test,"55,953"
 1/23/2021,Antigen Test,"7,946"
@@ -1322,23 +1322,23 @@ Date,Measure Names,Measure Values
 1/26/2021,Daily Tests Total,"48,671"
 1/26/2021,Molecular Test,"35,067"
 1/26/2021,Antigen Test,"13,604"
-1/26/2021,Positive Test Percentage,0.081764236
+1/26/2021,Positive Test Percentage,0.081781700
 1/27/2021,Daily Tests Total,"71,282"
 1/27/2021,Molecular Test,"62,484"
 1/27/2021,Antigen Test,"8,798"
-1/27/2021,Positive Test Percentage,0.084083500
+1/27/2021,Positive Test Percentage,0.084082243
 1/28/2021,Daily Tests Total,"78,146"
 1/28/2021,Molecular Test,"70,212"
 1/28/2021,Antigen Test,"7,934"
-1/28/2021,Positive Test Percentage,0.086429202
+1/28/2021,Positive Test Percentage,0.086435988
 1/29/2021,Daily Tests Total,"67,440"
 1/29/2021,Molecular Test,"55,766"
 1/29/2021,Antigen Test,"11,674"
-1/29/2021,Positive Test Percentage,0.086584733
+1/29/2021,Positive Test Percentage,0.086586231
 1/30/2021,Daily Tests Total,"64,091"
 1/30/2021,Molecular Test,"56,857"
 1/30/2021,Antigen Test,"7,234"
-1/30/2021,Positive Test Percentage,0.095614650
+1/30/2021,Positive Test Percentage,0.095630271
 1/31/2021,Daily Tests Total,"47,915"
 1/31/2021,Molecular Test,"45,295"
 1/31/2021,Antigen Test,"2,620"
@@ -1351,14 +1351,14 @@ Date,Measure Names,Measure Values
 2/2/2021,Molecular Test,"29,043"
 2/2/2021,Antigen Test,"13,553"
 2/2/2021,Positive Test Percentage,0.074230707
-2/3/2021,Daily Tests Total,"67,198"
-2/3/2021,Molecular Test,"58,997"
+2/3/2021,Daily Tests Total,"67,199"
+2/3/2021,Molecular Test,"58,998"
 2/3/2021,Antigen Test,"8,201"
-2/3/2021,Positive Test Percentage,0.076861556
+2/3/2021,Positive Test Percentage,0.076842333
 2/4/2021,Daily Tests Total,"68,652"
-2/4/2021,Molecular Test,"60,700"
-2/4/2021,Antigen Test,"7,952"
-2/4/2021,Positive Test Percentage,0.077145731
+2/4/2021,Molecular Test,"60,699"
+2/4/2021,Antigen Test,"7,953"
+2/4/2021,Positive Test Percentage,0.077144147
 2/5/2021,Daily Tests Total,"65,515"
 2/5/2021,Molecular Test,"54,600"
 2/5/2021,Antigen Test,"10,915"
@@ -1366,7 +1366,7 @@ Date,Measure Names,Measure Values
 2/6/2021,Daily Tests Total,"60,166"
 2/6/2021,Molecular Test,"52,996"
 2/6/2021,Antigen Test,"7,170"
-2/6/2021,Positive Test Percentage,0.083288596
+2/6/2021,Positive Test Percentage,0.083286467
 2/7/2021,Daily Tests Total,"42,703"
 2/7/2021,Molecular Test,"40,457"
 2/7/2021,Antigen Test,"2,246"
@@ -1374,57 +1374,57 @@ Date,Measure Names,Measure Values
 2/8/2021,Daily Tests Total,"26,950"
 2/8/2021,Molecular Test,"24,243"
 2/8/2021,Antigen Test,"2,707"
-2/8/2021,Positive Test Percentage,0.079726038
+2/8/2021,Positive Test Percentage,0.079764516
 2/9/2021,Daily Tests Total,"42,111"
 2/9/2021,Molecular Test,"29,801"
 2/9/2021,Antigen Test,"12,310"
-2/9/2021,Positive Test Percentage,0.061832526
+2/9/2021,Positive Test Percentage,0.061831228
 2/10/2021,Daily Tests Total,"64,113"
 2/10/2021,Molecular Test,"55,859"
 2/10/2021,Antigen Test,"8,254"
-2/10/2021,Positive Test Percentage,0.061843354
+2/10/2021,Positive Test Percentage,0.061837921
 2/11/2021,Daily Tests Total,"67,078"
 2/11/2021,Molecular Test,"60,173"
 2/11/2021,Antigen Test,"6,905"
-2/11/2021,Positive Test Percentage,0.066715733
+2/11/2021,Positive Test Percentage,0.066717177
 2/12/2021,Daily Tests Total,"57,015"
 2/12/2021,Molecular Test,"46,932"
 2/12/2021,Antigen Test,"10,083"
-2/12/2021,Positive Test Percentage,0.067169445
-2/13/2021,Daily Tests Total,"53,128"
-2/13/2021,Molecular Test,"46,594"
+2/12/2021,Positive Test Percentage,0.067167964
+2/13/2021,Daily Tests Total,"53,129"
+2/13/2021,Molecular Test,"46,595"
 2/13/2021,Antigen Test,"6,534"
-2/13/2021,Positive Test Percentage,0.077644866
+2/13/2021,Positive Test Percentage,0.077642453
 2/14/2021,Daily Tests Total,"33,483"
 2/14/2021,Molecular Test,"31,634"
 2/14/2021,Antigen Test,"1,849"
-2/14/2021,Positive Test Percentage,0.075910181
-2/15/2021,Daily Tests Total,"23,989"
-2/15/2021,Molecular Test,"21,871"
+2/14/2021,Positive Test Percentage,0.075947160
+2/15/2021,Daily Tests Total,"23,990"
+2/15/2021,Molecular Test,"21,872"
 2/15/2021,Antigen Test,"2,118"
-2/15/2021,Positive Test Percentage,0.078008604
+2/15/2021,Positive Test Percentage,0.078012696
 2/16/2021,Daily Tests Total,"32,950"
 2/16/2021,Molecular Test,"22,118"
 2/16/2021,Antigen Test,"10,832"
 2/16/2021,Positive Test Percentage,0.061073501
 2/17/2021,Daily Tests Total,"56,267"
-2/17/2021,Molecular Test,"47,193"
-2/17/2021,Antigen Test,"9,074"
-2/17/2021,Positive Test Percentage,0.057843517
-2/18/2021,Daily Tests Total,"52,604"
-2/18/2021,Molecular Test,"44,417"
+2/17/2021,Molecular Test,"47,194"
+2/17/2021,Antigen Test,"9,073"
+2/17/2021,Positive Test Percentage,0.057838244
+2/18/2021,Daily Tests Total,"52,603"
+2/18/2021,Molecular Test,"44,416"
 2/18/2021,Antigen Test,"8,187"
-2/18/2021,Positive Test Percentage,0.056317425
+2/18/2021,Positive Test Percentage,0.056318897
 2/19/2021,Daily Tests Total,"49,293"
 2/19/2021,Molecular Test,"41,847"
 2/19/2021,Antigen Test,"7,446"
-2/19/2021,Positive Test Percentage,0.061077163
-2/20/2021,Daily Tests Total,"42,647"
-2/20/2021,Molecular Test,"34,999"
+2/19/2021,Positive Test Percentage,0.061075333
+2/20/2021,Daily Tests Total,"42,646"
+2/20/2021,Molecular Test,"34,998"
 2/20/2021,Antigen Test,"7,648"
-2/20/2021,Positive Test Percentage,0.061536198
-2/21/2021,Daily Tests Total,"38,509"
-2/21/2021,Molecular Test,"35,706"
+2/20/2021,Positive Test Percentage,0.061530765
+2/21/2021,Daily Tests Total,"38,510"
+2/21/2021,Molecular Test,"35,707"
 2/21/2021,Antigen Test,"2,803"
 2/21/2021,Positive Test Percentage,0.068230277
 2/22/2021,Daily Tests Total,"23,003"
@@ -1434,23 +1434,23 @@ Date,Measure Names,Measure Values
 2/23/2021,Daily Tests Total,"40,420"
 2/23/2021,Molecular Test,"27,897"
 2/23/2021,Antigen Test,"12,523"
-2/23/2021,Positive Test Percentage,0.045288269
-2/24/2021,Daily Tests Total,"61,286"
-2/24/2021,Molecular Test,"51,217"
+2/23/2021,Positive Test Percentage,0.045286237
+2/24/2021,Daily Tests Total,"61,288"
+2/24/2021,Molecular Test,"51,219"
 2/24/2021,Antigen Test,"10,069"
-2/24/2021,Positive Test Percentage,0.046758831
+2/24/2021,Positive Test Percentage,0.046755073
 2/25/2021,Daily Tests Total,"68,532"
 2/25/2021,Molecular Test,"60,887"
 2/25/2021,Antigen Test,"7,645"
-2/25/2021,Positive Test Percentage,0.053168154
-2/26/2021,Daily Tests Total,"50,363"
-2/26/2021,Molecular Test,"41,947"
+2/25/2021,Positive Test Percentage,0.053165503
+2/26/2021,Daily Tests Total,"50,364"
+2/26/2021,Molecular Test,"41,948"
 2/26/2021,Antigen Test,"8,416"
-2/26/2021,Positive Test Percentage,0.045206504
+2/26/2021,Positive Test Percentage,0.045205252
 2/27/2021,Daily Tests Total,"45,263"
 2/27/2021,Molecular Test,"38,295"
 2/27/2021,Antigen Test,"6,968"
-2/27/2021,Positive Test Percentage,0.056487171
+2/27/2021,Positive Test Percentage,0.056489133
 2/28/2021,Daily Tests Total,"30,302"
 2/28/2021,Molecular Test,"28,450"
 2/28/2021,Antigen Test,"1,852"
@@ -1458,72 +1458,76 @@ Date,Measure Names,Measure Values
 3/1/2021,Daily Tests Total,"16,549"
 3/1/2021,Molecular Test,"14,051"
 3/1/2021,Antigen Test,"2,498"
-3/1/2021,Positive Test Percentage,0.063692229
-3/2/2021,Daily Tests Total,"31,273"
+3/1/2021,Positive Test Percentage,0.063696306
+3/2/2021,Daily Tests Total,"31,274"
 3/2/2021,Molecular Test,"19,059"
-3/2/2021,Antigen Test,"12,214"
-3/2/2021,Positive Test Percentage,0.042143994
-3/3/2021,Daily Tests Total,"53,940"
-3/3/2021,Molecular Test,"45,580"
-3/3/2021,Antigen Test,"8,360"
-3/3/2021,Positive Test Percentage,0.042989650
+3/2/2021,Antigen Test,"12,215"
+3/2/2021,Positive Test Percentage,0.042141795
+3/3/2021,Daily Tests Total,"53,947"
+3/3/2021,Molecular Test,"45,583"
+3/3/2021,Antigen Test,"8,364"
+3/3/2021,Positive Test Percentage,0.042987641
 3/4/2021,Daily Tests Total,"51,581"
-3/4/2021,Molecular Test,"44,451"
-3/4/2021,Antigen Test,"7,130"
-3/4/2021,Positive Test Percentage,0.041743452
-3/5/2021,Daily Tests Total,"45,868"
+3/4/2021,Molecular Test,"44,450"
+3/4/2021,Antigen Test,"7,131"
+3/4/2021,Positive Test Percentage,0.041731800
+3/5/2021,Daily Tests Total,"45,876"
 3/5/2021,Molecular Test,"37,992"
-3/5/2021,Antigen Test,"7,876"
+3/5/2021,Antigen Test,"7,884"
 3/5/2021,Positive Test Percentage,0.043992431
-3/6/2021,Daily Tests Total,"37,263"
-3/6/2021,Molecular Test,"31,198"
-3/6/2021,Antigen Test,"6,065"
-3/6/2021,Positive Test Percentage,0.047247871
-3/7/2021,Daily Tests Total,"27,918"
-3/7/2021,Molecular Test,"26,062"
+3/6/2021,Daily Tests Total,"37,270"
+3/6/2021,Molecular Test,"31,200"
+3/6/2021,Antigen Test,"6,070"
+3/6/2021,Positive Test Percentage,0.047244094
+3/7/2021,Daily Tests Total,"27,919"
+3/7/2021,Molecular Test,"26,063"
 3/7/2021,Antigen Test,"1,856"
-3/7/2021,Positive Test Percentage,0.055153516
-3/8/2021,Daily Tests Total,"14,783"
-3/8/2021,Molecular Test,"12,849"
-3/8/2021,Antigen Test,"1,934"
+3/7/2021,Positive Test Percentage,0.055149642
+3/8/2021,Daily Tests Total,"14,788"
+3/8/2021,Molecular Test,"12,850"
+3/8/2021,Antigen Test,"1,938"
 3/8/2021,Positive Test Percentage,0.055230859
-3/9/2021,Daily Tests Total,"29,104"
+3/9/2021,Daily Tests Total,"29,171"
 3/9/2021,Molecular Test,"17,868"
-3/9/2021,Antigen Test,"11,236"
-3/9/2021,Positive Test Percentage,0.034410055
-3/10/2021,Daily Tests Total,"51,265"
-3/10/2021,Molecular Test,"43,568"
-3/10/2021,Antigen Test,"7,697"
-3/10/2021,Positive Test Percentage,0.036025816
-3/11/2021,Daily Tests Total,"48,679"
-3/11/2021,Molecular Test,"41,762"
-3/11/2021,Antigen Test,"6,917"
-3/11/2021,Positive Test Percentage,0.040585211
-3/12/2021,Daily Tests Total,"42,072"
-3/12/2021,Molecular Test,"34,752"
-3/12/2021,Antigen Test,"7,320"
-3/12/2021,Positive Test Percentage,0.042706965
-3/13/2021,Daily Tests Total,"34,495"
-3/13/2021,Molecular Test,"29,308"
-3/13/2021,Antigen Test,"5,187"
-3/13/2021,Positive Test Percentage,0.051333963
-3/14/2021,Daily Tests Total,"25,043"
-3/14/2021,Molecular Test,"23,515"
-3/14/2021,Antigen Test,"1,528"
-3/14/2021,Positive Test Percentage,0.067290587
-3/15/2021,Daily Tests Total,"13,163"
-3/15/2021,Molecular Test,"11,774"
-3/15/2021,Antigen Test,"1,389"
-3/15/2021,Positive Test Percentage,0.054980030
-3/16/2021,Daily Tests Total,"28,464"
-3/16/2021,Molecular Test,"19,688"
-3/16/2021,Antigen Test,"8,776"
-3/16/2021,Positive Test Percentage,0.038930624
-3/17/2021,Daily Tests Total,"38,510"
-3/17/2021,Molecular Test,"33,611"
-3/17/2021,Antigen Test,"4,899"
-3/17/2021,Positive Test Percentage,
-3/18/2021,Daily Tests Total,
-3/18/2021,Molecular Test,
-3/18/2021,Antigen Test,
+3/9/2021,Antigen Test,"11,303"
+3/9/2021,Positive Test Percentage,0.034383025
+3/10/2021,Daily Tests Total,"51,275"
+3/10/2021,Molecular Test,"43,569"
+3/10/2021,Antigen Test,"7,706"
+3/10/2021,Positive Test Percentage,0.036039215
+3/11/2021,Daily Tests Total,"48,669"
+3/11/2021,Molecular Test,"41,759"
+3/11/2021,Antigen Test,"6,910"
+3/11/2021,Positive Test Percentage,0.040641449
+3/12/2021,Daily Tests Total,"42,101"
+3/12/2021,Molecular Test,"34,756"
+3/12/2021,Antigen Test,"7,345"
+3/12/2021,Positive Test Percentage,0.042937150
+3/13/2021,Daily Tests Total,"34,618"
+3/13/2021,Molecular Test,"29,310"
+3/13/2021,Antigen Test,"5,308"
+3/13/2021,Positive Test Percentage,0.051417004
+3/14/2021,Daily Tests Total,"25,049"
+3/14/2021,Molecular Test,"23,512"
+3/14/2021,Antigen Test,"1,537"
+3/14/2021,Positive Test Percentage,0.067460011
+3/15/2021,Daily Tests Total,"13,189"
+3/15/2021,Molecular Test,"11,789"
+3/15/2021,Antigen Test,"1,400"
+3/15/2021,Positive Test Percentage,0.055024221
+3/16/2021,Daily Tests Total,"29,312"
+3/16/2021,Molecular Test,"19,954"
+3/16/2021,Antigen Test,"9,358"
+3/16/2021,Positive Test Percentage,0.037185246
+3/17/2021,Daily Tests Total,"45,368"
+3/17/2021,Molecular Test,"38,935"
+3/17/2021,Antigen Test,"6,433"
+3/17/2021,Positive Test Percentage,0.040457184
+3/18/2021,Daily Tests Total,"37,693"
+3/18/2021,Molecular Test,"34,053"
+3/18/2021,Antigen Test,"3,640"
 3/18/2021,Positive Test Percentage,
+3/19/2021,Daily Tests Total,
+3/19/2021,Molecular Test,
+3/19/2021,Antigen Test,
+3/19/2021,Positive Test Percentage,
