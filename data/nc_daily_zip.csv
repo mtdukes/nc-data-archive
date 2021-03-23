@@ -1,7 +1,7 @@
 Measure Names,ZIP Code,Measure Values
-Cases,27006,"1,182"
-"Cases Per 10,000 Residents",27006,795
-"Cases Per 100,000 Residents",27006,"7,948"
+Cases,27006,"1,184"
+"Cases Per 10,000 Residents",27006,796
+"Cases Per 100,000 Residents",27006,"7,961"
 Deaths,27006,6
 Cases,27007,206
 "Cases Per 10,000 Residents",27007,964
@@ -15,13 +15,13 @@ Cases,27011,515
 "Cases Per 10,000 Residents",27011,952
 "Cases Per 100,000 Residents",27011,"9,518"
 Deaths,27011,7
-Cases,27012,"2,603"
-"Cases Per 10,000 Residents",27012,899
-"Cases Per 100,000 Residents",27012,"8,990"
+Cases,27012,"2,605"
+"Cases Per 10,000 Residents",27012,900
+"Cases Per 100,000 Residents",27012,"8,997"
 Deaths,27012,48
-Cases,27013,568
-"Cases Per 10,000 Residents",27013,875
-"Cases Per 100,000 Residents",27013,"8,745"
+Cases,27013,572
+"Cases Per 10,000 Residents",27013,881
+"Cases Per 100,000 Residents",27013,"8,807"
 Deaths,27013,6
 Cases,27014,67
 "Cases Per 10,000 Residents",27014,700
@@ -31,9 +31,9 @@ Cases,27016,139
 "Cases Per 10,000 Residents",27016,826
 "Cases Per 100,000 Residents",27016,"8,264"
 Deaths,27016,2
-Cases,27017,"1,015"
-"Cases Per 10,000 Residents",27017,"1,069"
-"Cases Per 100,000 Residents",27017,"10,685"
+Cases,27017,"1,016"
+"Cases Per 10,000 Residents",27017,"1,070"
+"Cases Per 100,000 Residents",27017,"10,696"
 Deaths,27017,9
 Cases,27018,663
 "Cases Per 10,000 Residents",27018,806
@@ -47,9 +47,9 @@ Cases,27020,633
 "Cases Per 10,000 Residents",27020,"1,037"
 "Cases Per 100,000 Residents",27020,"10,370"
 Deaths,27020,5
-Cases,27021,"1,614"
+Cases,27021,"1,615"
 "Cases Per 10,000 Residents",27021,898
-"Cases Per 100,000 Residents",27021,"8,977"
+"Cases Per 100,000 Residents",27021,"8,983"
 Deaths,27021,44
 Cases,27022,82
 "Cases Per 10,000 Residents",27022,542
@@ -71,13 +71,13 @@ Cases,27027,339
 "Cases Per 10,000 Residents",27027,844
 "Cases Per 100,000 Residents",27027,"8,439"
 Deaths,27027,9
-Cases,27028,"2,445"
-"Cases Per 10,000 Residents",27028,872
-"Cases Per 100,000 Residents",27028,"8,720"
+Cases,27028,"2,451"
+"Cases Per 10,000 Residents",27028,874
+"Cases Per 100,000 Residents",27028,"8,741"
 Deaths,27028,27
-Cases,27030,"3,933"
+Cases,27030,"3,935"
 "Cases Per 10,000 Residents",27030,"1,045"
-"Cases Per 100,000 Residents",27030,"10,449"
+"Cases Per 100,000 Residents",27030,"10,454"
 Deaths,27030,85
 Cases,27040,945
 "Cases Per 10,000 Residents",27040,719
@@ -127,101 +127,101 @@ Cases,27053,177
 "Cases Per 10,000 Residents",27053,561
 "Cases Per 100,000 Residents",27053,"5,608"
 Deaths,27053,1
-Cases,27054,267
-"Cases Per 10,000 Residents",27054,"1,024"
-"Cases Per 100,000 Residents",27054,"10,238"
+Cases,27054,268
+"Cases Per 10,000 Residents",27054,"1,028"
+"Cases Per 100,000 Residents",27054,"10,276"
 Deaths,27054,4
-Cases,27055,"1,590"
-"Cases Per 10,000 Residents",27055,"1,095"
-"Cases Per 100,000 Residents",27055,"10,950"
+Cases,27055,"1,591"
+"Cases Per 10,000 Residents",27055,"1,096"
+"Cases Per 100,000 Residents",27055,"10,957"
 Deaths,27055,24
-Cases,27101,"1,666"
-"Cases Per 10,000 Residents",27101,685
-"Cases Per 100,000 Residents",27101,"6,850"
+Cases,27101,"1,668"
+"Cases Per 10,000 Residents",27101,686
+"Cases Per 100,000 Residents",27101,"6,858"
 Deaths,27101,32
-Cases,27103,"2,786"
-"Cases Per 10,000 Residents",27103,772
-"Cases Per 100,000 Residents",27103,"7,724"
+Cases,27103,"2,787"
+"Cases Per 10,000 Residents",27103,773
+"Cases Per 100,000 Residents",27103,"7,726"
 Deaths,27103,38
-Cases,27104,"2,358"
-"Cases Per 10,000 Residents",27104,803
-"Cases Per 100,000 Residents",27104,"8,025"
+Cases,27104,"2,361"
+"Cases Per 10,000 Residents",27104,804
+"Cases Per 100,000 Residents",27104,"8,035"
 Deaths,27104,31
-Cases,27105,"3,652"
+Cases,27105,"3,653"
 "Cases Per 10,000 Residents",27105,909
-"Cases Per 100,000 Residents",27105,"9,088"
+"Cases Per 100,000 Residents",27105,"9,090"
 Deaths,27105,33
-Cases,27106,"3,984"
-"Cases Per 10,000 Residents",27106,775
-"Cases Per 100,000 Residents",27106,"7,754"
+Cases,27106,"3,989"
+"Cases Per 10,000 Residents",27106,776
+"Cases Per 100,000 Residents",27106,"7,764"
 Deaths,27106,49
-Cases,27107,"4,451"
-"Cases Per 10,000 Residents",27107,849
-"Cases Per 100,000 Residents",27107,"8,489"
+Cases,27107,"4,457"
+"Cases Per 10,000 Residents",27107,850
+"Cases Per 100,000 Residents",27107,"8,501"
 Deaths,27107,40
-Cases,27127,"3,573"
-"Cases Per 10,000 Residents",27127,928
-"Cases Per 100,000 Residents",27127,"9,278"
+Cases,27127,"3,577"
+"Cases Per 10,000 Residents",27127,929
+"Cases Per 100,000 Residents",27127,"9,288"
 Deaths,27127,24
 Cases,27157,0
 "Cases Per 10,000 Residents",27157,0
 "Cases Per 100,000 Residents",27157,0
 Deaths,27157,0
-Cases,27203,"2,652"
-"Cases Per 10,000 Residents",27203,"1,212"
-"Cases Per 100,000 Residents",27203,"12,123"
+Cases,27203,"2,659"
+"Cases Per 10,000 Residents",27203,"1,215"
+"Cases Per 100,000 Residents",27203,"12,155"
 Deaths,27203,48
-Cases,27205,"3,498"
-"Cases Per 10,000 Residents",27205,"1,012"
-"Cases Per 100,000 Residents",27205,"10,125"
+Cases,27205,"3,506"
+"Cases Per 10,000 Residents",27205,"1,015"
+"Cases Per 100,000 Residents",27205,"10,148"
 Deaths,27205,44
-Cases,27207,263
-"Cases Per 10,000 Residents",27207,691
-"Cases Per 100,000 Residents",27207,"6,910"
+Cases,27207,264
+"Cases Per 10,000 Residents",27207,694
+"Cases Per 100,000 Residents",27207,"6,936"
 Deaths,27207,2
 Cases,27208,142
 "Cases Per 10,000 Residents",27208,840
 "Cases Per 100,000 Residents",27208,"8,397"
 Deaths,27208,2
-Cases,27209,693
-"Cases Per 10,000 Residents",27209,"1,669"
-"Cases Per 100,000 Residents",27209,"16,695"
+Cases,27209,692
+"Cases Per 10,000 Residents",27209,"1,667"
+"Cases Per 100,000 Residents",27209,"16,671"
 Deaths,27209,40
 Cases,27212,372
 "Cases Per 10,000 Residents",27212,"2,325"
 "Cases Per 100,000 Residents",27212,"23,250"
 Deaths,27212,1
-Cases,27214,923
-"Cases Per 10,000 Residents",27214,786
-"Cases Per 100,000 Residents",27214,"7,857"
+Cases,27214,924
+"Cases Per 10,000 Residents",27214,787
+"Cases Per 100,000 Residents",27214,"7,866"
 Deaths,27214,6
-Cases,27215,"4,091"
-"Cases Per 10,000 Residents",27215,911
-"Cases Per 100,000 Residents",27215,"9,113"
+Cases,27215,"4,098"
+"Cases Per 10,000 Residents",27215,913
+"Cases Per 100,000 Residents",27215,"9,129"
 Deaths,27215,65
-Cases,27217,"4,781"
-"Cases Per 10,000 Residents",27217,"1,222"
-"Cases Per 100,000 Residents",27217,"12,224"
+Cases,27217,"4,785"
+"Cases Per 10,000 Residents",27217,"1,223"
+"Cases Per 100,000 Residents",27217,"12,234"
 Deaths,27217,90
-Cases,27229,526
-"Cases Per 10,000 Residents",27229,"1,310"
-"Cases Per 100,000 Residents",27229,"13,104"
+Cases,27229,527
+"Cases Per 10,000 Residents",27229,"1,313"
+"Cases Per 100,000 Residents",27229,"13,129"
 Deaths,27229,17
 Cases,27231,113
 "Cases Per 10,000 Residents",27231,552
 "Cases Per 100,000 Residents",27231,"5,518"
 Deaths,27231,0
-Cases,27233,265
-"Cases Per 10,000 Residents",27233,727
-"Cases Per 100,000 Residents",27233,"7,266"
+Cases,27233,266
+"Cases Per 10,000 Residents",27233,729
+"Cases Per 100,000 Residents",27233,"7,294"
 Deaths,27233,2
 Cases,27235,386
 "Cases Per 10,000 Residents",27235,844
 "Cases Per 100,000 Residents",27235,"8,437"
 Deaths,27235,7
-Cases,27239,779
-"Cases Per 10,000 Residents",27239,809
-"Cases Per 100,000 Residents",27239,"8,090"
+Cases,27239,781
+"Cases Per 10,000 Residents",27239,811
+"Cases Per 100,000 Residents",27239,"8,111"
 Deaths,27239,12
 Cases,27242,173
 "Cases Per 10,000 Residents",27242,648
@@ -231,9 +231,9 @@ Cases,27243,262
 "Cases Per 10,000 Residents",27243,562
 "Cases Per 100,000 Residents",27243,"5,616"
 Deaths,27243,3
-Cases,27244,"1,756"
-"Cases Per 10,000 Residents",27244,"1,080"
-"Cases Per 100,000 Residents",27244,"10,800"
+Cases,27244,"1,757"
+"Cases Per 10,000 Residents",27244,"1,081"
+"Cases Per 100,000 Residents",27244,"10,806"
 Deaths,27244,18
 Cases,27248,365
 "Cases Per 10,000 Residents",27248,755
@@ -247,81 +247,81 @@ Cases,27252,106
 "Cases Per 10,000 Residents",27252,468
 "Cases Per 100,000 Residents",27252,"4,682"
 Deaths,27252,2
-Cases,27253,"3,226"
-"Cases Per 10,000 Residents",27253,"1,025"
-"Cases Per 100,000 Residents",27253,"10,253"
+Cases,27253,"3,230"
+"Cases Per 10,000 Residents",27253,"1,027"
+"Cases Per 100,000 Residents",27253,"10,266"
 Deaths,27253,42
 Cases,27258,622
 "Cases Per 10,000 Residents",27258,804
 "Cases Per 100,000 Residents",27258,"8,036"
 Deaths,27258,8
-Cases,27260,"1,968"
-"Cases Per 10,000 Residents",27260,766
-"Cases Per 100,000 Residents",27260,"7,659"
+Cases,27260,"1,972"
+"Cases Per 10,000 Residents",27260,767
+"Cases Per 100,000 Residents",27260,"7,674"
 Deaths,27260,38
-Cases,27262,"1,874"
-"Cases Per 10,000 Residents",27262,757
-"Cases Per 100,000 Residents",27262,"7,567"
+Cases,27262,"1,879"
+"Cases Per 10,000 Residents",27262,759
+"Cases Per 100,000 Residents",27262,"7,588"
 Deaths,27262,52
-Cases,27263,"1,952"
-"Cases Per 10,000 Residents",27263,875
-"Cases Per 100,000 Residents",27263,"8,746"
+Cases,27263,"1,956"
+"Cases Per 10,000 Residents",27263,876
+"Cases Per 100,000 Residents",27263,"8,763"
 Deaths,27263,33
-Cases,27265,"3,931"
+Cases,27265,"3,934"
 "Cases Per 10,000 Residents",27265,786
-"Cases Per 100,000 Residents",27265,"7,856"
+"Cases Per 100,000 Residents",27265,"7,862"
 Deaths,27265,49
 Cases,27268,278
 "Cases Per 10,000 Residents",27268,"1,640"
 "Cases Per 100,000 Residents",27268,"16,401"
 Deaths,27268,0
-Cases,27278,"1,579"
-"Cases Per 10,000 Residents",27278,581
-"Cases Per 100,000 Residents",27278,"5,809"
+Cases,27278,"1,583"
+"Cases Per 10,000 Residents",27278,582
+"Cases Per 100,000 Residents",27278,"5,824"
 Deaths,27278,18
 Cases,27281,247
 "Cases Per 10,000 Residents",27281,666
 "Cases Per 100,000 Residents",27281,"6,658"
 Deaths,27281,0
-Cases,27282,"1,292"
-"Cases Per 10,000 Residents",27282,778
-"Cases Per 100,000 Residents",27282,"7,785"
+Cases,27282,"1,295"
+"Cases Per 10,000 Residents",27282,780
+"Cases Per 100,000 Residents",27282,"7,803"
 Deaths,27282,22
-Cases,27283,219
-"Cases Per 10,000 Residents",27283,734
-"Cases Per 100,000 Residents",27283,"7,344"
+Cases,27283,220
+"Cases Per 10,000 Residents",27283,738
+"Cases Per 100,000 Residents",27283,"7,378"
 Deaths,27283,2
-Cases,27284,"4,663"
-"Cases Per 10,000 Residents",27284,830
-"Cases Per 100,000 Residents",27284,"8,297"
+Cases,27284,"4,670"
+"Cases Per 10,000 Residents",27284,831
+"Cases Per 100,000 Residents",27284,"8,309"
 Deaths,27284,63
-Cases,27288,"1,722"
-"Cases Per 10,000 Residents",27288,730
-"Cases Per 100,000 Residents",27288,"7,301"
+Cases,27288,"1,723"
+"Cases Per 10,000 Residents",27288,731
+"Cases Per 100,000 Residents",27288,"7,305"
 Deaths,27288,26
 Cases,27291,122
 "Cases Per 10,000 Residents",27291,793
 "Cases Per 100,000 Residents",27291,"7,932"
 Deaths,27291,0
-Cases,27292,"3,447"
-"Cases Per 10,000 Residents",27292,831
-"Cases Per 100,000 Residents",27292,"8,313"
+Cases,27292,"3,450"
+"Cases Per 10,000 Residents",27292,832
+"Cases Per 100,000 Residents",27292,"8,320"
 Deaths,27292,33
-Cases,27295,"3,582"
-"Cases Per 10,000 Residents",27295,914
-"Cases Per 100,000 Residents",27295,"9,140"
+Cases,27295,"3,589"
+"Cases Per 10,000 Residents",27295,916
+"Cases Per 100,000 Residents",27295,"9,158"
 Deaths,27295,47
-Cases,27298,746
-"Cases Per 10,000 Residents",27298,715
-"Cases Per 100,000 Residents",27298,"7,146"
+Cases,27298,753
+"Cases Per 10,000 Residents",27298,721
+"Cases Per 100,000 Residents",27298,"7,213"
 Deaths,27298,9
-Cases,27299,531
-"Cases Per 10,000 Residents",27299,"1,011"
-"Cases Per 100,000 Residents",27299,"10,107"
+Cases,27299,532
+"Cases Per 10,000 Residents",27299,"1,013"
+"Cases Per 100,000 Residents",27299,"10,126"
 Deaths,27299,4
-Cases,27301,938
-"Cases Per 10,000 Residents",27301,936
-"Cases Per 100,000 Residents",27301,"9,362"
+Cases,27301,937
+"Cases Per 10,000 Residents",27301,935
+"Cases Per 100,000 Residents",27301,"9,352"
 Deaths,27301,16
 Cases,27302,"2,299"
 "Cases Per 10,000 Residents",27302,712
@@ -331,25 +331,25 @@ Cases,27305,152
 "Cases Per 10,000 Residents",27305,959
 "Cases Per 100,000 Residents",27305,"9,590"
 Deaths,27305,1
-Cases,27306,630
-"Cases Per 10,000 Residents",27306,"1,060"
-"Cases Per 100,000 Residents",27306,"10,597"
+Cases,27306,633
+"Cases Per 10,000 Residents",27306,"1,065"
+"Cases Per 100,000 Residents",27306,"10,648"
 Deaths,27306,16
-Cases,27310,585
-"Cases Per 10,000 Residents",27310,683
-"Cases Per 100,000 Residents",27310,"6,833"
+Cases,27310,586
+"Cases Per 10,000 Residents",27310,684
+"Cases Per 100,000 Residents",27310,"6,844"
 Deaths,27310,3
 Cases,27311,249
 "Cases Per 10,000 Residents",27311,773
 "Cases Per 100,000 Residents",27311,"7,733"
 Deaths,27311,1
-Cases,27312,889
-"Cases Per 10,000 Residents",27312,400
-"Cases Per 100,000 Residents",27312,"4,004"
+Cases,27312,894
+"Cases Per 10,000 Residents",27312,403
+"Cases Per 100,000 Residents",27312,"4,026"
 Deaths,27312,25
-Cases,27313,470
-"Cases Per 10,000 Residents",27313,645
-"Cases Per 100,000 Residents",27313,"6,449"
+Cases,27313,471
+"Cases Per 10,000 Residents",27313,646
+"Cases Per 100,000 Residents",27313,"6,463"
 Deaths,27313,19
 Cases,27314,59
 "Cases Per 10,000 Residents",27314,518
@@ -359,61 +359,61 @@ Cases,27315,117
 "Cases Per 10,000 Residents",27315,547
 "Cases Per 100,000 Residents",27315,"5,467"
 Deaths,27315,0
-Cases,27316,675
-"Cases Per 10,000 Residents",27316,943
-"Cases Per 100,000 Residents",27316,"9,433"
+Cases,27316,677
+"Cases Per 10,000 Residents",27316,946
+"Cases Per 100,000 Residents",27316,"9,461"
 Deaths,27316,14
-Cases,27317,"1,679"
-"Cases Per 10,000 Residents",27317,941
-"Cases Per 100,000 Residents",27317,"9,406"
+Cases,27317,"1,685"
+"Cases Per 10,000 Residents",27317,944
+"Cases Per 100,000 Residents",27317,"9,439"
 Deaths,27317,21
-Cases,27320,"2,859"
+Cases,27320,"2,858"
 "Cases Per 10,000 Residents",27320,735
-"Cases Per 100,000 Residents",27320,"7,351"
+"Cases Per 100,000 Residents",27320,"7,348"
 Deaths,27320,23
-Cases,27325,716
-"Cases Per 10,000 Residents",27325,933
-"Cases Per 100,000 Residents",27325,"9,328"
+Cases,27325,717
+"Cases Per 10,000 Residents",27325,934
+"Cases Per 100,000 Residents",27325,"9,341"
 Deaths,27325,5
 Cases,27326,267
 "Cases Per 10,000 Residents",27326,723
 "Cases Per 100,000 Residents",27326,"7,232"
 Deaths,27326,2
-Cases,27330,"3,640"
-"Cases Per 10,000 Residents",27330,921
-"Cases Per 100,000 Residents",27330,"9,208"
+Cases,27330,"3,643"
+"Cases Per 10,000 Residents",27330,922
+"Cases Per 100,000 Residents",27330,"9,216"
 Deaths,27330,48
-Cases,27332,"2,614"
-"Cases Per 10,000 Residents",27332,779
-"Cases Per 100,000 Residents",27332,"7,792"
+Cases,27332,"2,616"
+"Cases Per 10,000 Residents",27332,780
+"Cases Per 100,000 Residents",27332,"7,798"
 Deaths,27332,25
 Cases,27340,0
 "Cases Per 10,000 Residents",27340,0
 "Cases Per 100,000 Residents",27340,0
 Deaths,27340,0
-Cases,27341,473
-"Cases Per 10,000 Residents",27341,813
-"Cases Per 100,000 Residents",27341,"8,127"
+Cases,27341,475
+"Cases Per 10,000 Residents",27341,816
+"Cases Per 100,000 Residents",27341,"8,162"
 Deaths,27341,2
 Cases,27343,120
 "Cases Per 10,000 Residents",27343,652
 "Cases Per 100,000 Residents",27343,"6,522"
 Deaths,27343,0
-Cases,27344,"1,781"
-"Cases Per 10,000 Residents",27344,923
-"Cases Per 100,000 Residents",27344,"9,233"
+Cases,27344,"1,785"
+"Cases Per 10,000 Residents",27344,925
+"Cases Per 100,000 Residents",27344,"9,253"
 Deaths,27344,30
-Cases,27349,443
-"Cases Per 10,000 Residents",27349,757
-"Cases Per 100,000 Residents",27349,"7,573"
+Cases,27349,445
+"Cases Per 10,000 Residents",27349,761
+"Cases Per 100,000 Residents",27349,"7,607"
 Deaths,27349,5
-Cases,27350,565
-"Cases Per 10,000 Residents",27350,753
-"Cases Per 100,000 Residents",27350,"7,525"
+Cases,27350,566
+"Cases Per 10,000 Residents",27350,754
+"Cases Per 100,000 Residents",27350,"7,539"
 Deaths,27350,6
-Cases,27355,210
-"Cases Per 10,000 Residents",27355,657
-"Cases Per 100,000 Residents",27355,"6,571"
+Cases,27355,211
+"Cases Per 10,000 Residents",27355,660
+"Cases Per 100,000 Residents",27355,"6,602"
 Deaths,27355,2
 Cases,27356,332
 "Cases Per 10,000 Residents",27356,945
@@ -423,21 +423,21 @@ Cases,27357,809
 "Cases Per 10,000 Residents",27357,972
 "Cases Per 100,000 Residents",27357,"9,718"
 Deaths,27357,16
-Cases,27358,948
-"Cases Per 10,000 Residents",27358,594
-"Cases Per 100,000 Residents",27358,"5,940"
+Cases,27358,949
+"Cases Per 10,000 Residents",27358,595
+"Cases Per 100,000 Residents",27358,"5,946"
 Deaths,27358,6
-Cases,27360,"4,463"
-"Cases Per 10,000 Residents",27360,923
-"Cases Per 100,000 Residents",27360,"9,234"
+Cases,27360,"4,473"
+"Cases Per 10,000 Residents",27360,925
+"Cases Per 100,000 Residents",27360,"9,255"
 Deaths,27360,57
-Cases,27370,"1,400"
-"Cases Per 10,000 Residents",27370,957
-"Cases Per 100,000 Residents",27370,"9,575"
+Cases,27370,"1,401"
+"Cases Per 10,000 Residents",27370,958
+"Cases Per 100,000 Residents",27370,"9,581"
 Deaths,27370,28
-Cases,27371,839
-"Cases Per 10,000 Residents",27371,"1,079"
-"Cases Per 100,000 Residents",27371,"10,787"
+Cases,27371,841
+"Cases Per 10,000 Residents",27371,"1,081"
+"Cases Per 100,000 Residents",27371,"10,813"
 Deaths,27371,10
 Cases,27376,762
 "Cases Per 10,000 Residents",27376,771
@@ -451,37 +451,37 @@ Cases,27379,546
 "Cases Per 10,000 Residents",27379,901
 "Cases Per 100,000 Residents",27379,"9,014"
 Deaths,27379,18
-Cases,27401,"1,649"
-"Cases Per 10,000 Residents",27401,815
-"Cases Per 100,000 Residents",27401,"8,155"
+Cases,27401,"1,653"
+"Cases Per 10,000 Residents",27401,817
+"Cases Per 100,000 Residents",27401,"8,175"
 Deaths,27401,18
-Cases,27403,"1,237"
-"Cases Per 10,000 Residents",27403,581
-"Cases Per 100,000 Residents",27403,"5,814"
+Cases,27403,"1,239"
+"Cases Per 10,000 Residents",27403,582
+"Cases Per 100,000 Residents",27403,"5,823"
 Deaths,27403,17
-Cases,27405,"4,092"
-"Cases Per 10,000 Residents",27405,779
-"Cases Per 100,000 Residents",27405,"7,793"
+Cases,27405,"4,098"
+"Cases Per 10,000 Residents",27405,780
+"Cases Per 100,000 Residents",27405,"7,804"
 Deaths,27405,42
-Cases,27406,"4,672"
-"Cases Per 10,000 Residents",27406,769
-"Cases Per 100,000 Residents",27406,"7,690"
-Deaths,27406,93
-Cases,27407,"3,897"
-"Cases Per 10,000 Residents",27407,782
-"Cases Per 100,000 Residents",27407,"7,819"
-Deaths,27407,52
-Cases,27408,"1,132"
-"Cases Per 10,000 Residents",27408,650
-"Cases Per 100,000 Residents",27408,"6,504"
+Cases,27406,"4,685"
+"Cases Per 10,000 Residents",27406,771
+"Cases Per 100,000 Residents",27406,"7,711"
+Deaths,27406,94
+Cases,27407,"3,908"
+"Cases Per 10,000 Residents",27407,784
+"Cases Per 100,000 Residents",27407,"7,842"
+Deaths,27407,53
+Cases,27408,"1,135"
+"Cases Per 10,000 Residents",27408,652
+"Cases Per 100,000 Residents",27408,"6,521"
 Deaths,27408,5
-Cases,27409,"1,277"
-"Cases Per 10,000 Residents",27409,711
-"Cases Per 100,000 Residents",27409,"7,113"
-Deaths,27409,13
-Cases,27410,"3,611"
-"Cases Per 10,000 Residents",27410,634
-"Cases Per 100,000 Residents",27410,"6,339"
+Cases,27409,"1,279"
+"Cases Per 10,000 Residents",27409,712
+"Cases Per 100,000 Residents",27409,"7,124"
+Deaths,27409,14
+Cases,27410,"3,619"
+"Cases Per 10,000 Residents",27410,635
+"Cases Per 100,000 Residents",27410,"6,353"
 Deaths,27410,35
 Cases,27411,39
 "Cases Per 10,000 Residents",27411,460
@@ -491,29 +491,29 @@ Cases,27412,23
 "Cases Per 10,000 Residents",27412,122
 "Cases Per 100,000 Residents",27412,"1,220"
 Deaths,27412,0
-Cases,27455,"2,169"
-"Cases Per 10,000 Residents",27455,743
-"Cases Per 100,000 Residents",27455,"7,429"
+Cases,27455,"2,175"
+"Cases Per 10,000 Residents",27455,745
+"Cases Per 100,000 Residents",27455,"7,449"
 Deaths,27455,54
 Cases,27501,"1,646"
 "Cases Per 10,000 Residents",27501,771
 "Cases Per 100,000 Residents",27501,"7,714"
 Deaths,27501,16
-Cases,27502,"2,191"
-"Cases Per 10,000 Residents",27502,501
-"Cases Per 100,000 Residents",27502,"5,008"
+Cases,27502,"2,197"
+"Cases Per 10,000 Residents",27502,502
+"Cases Per 100,000 Residents",27502,"5,022"
 Deaths,27502,7
-Cases,27503,167
-"Cases Per 10,000 Residents",27503,231
-"Cases Per 100,000 Residents",27503,"2,312"
+Cases,27503,168
+"Cases Per 10,000 Residents",27503,233
+"Cases Per 100,000 Residents",27503,"2,326"
 Deaths,27503,0
-Cases,27504,"1,717"
-"Cases Per 10,000 Residents",27504,"1,052"
-"Cases Per 100,000 Residents",27504,"10,521"
+Cases,27504,"1,719"
+"Cases Per 10,000 Residents",27504,"1,053"
+"Cases Per 100,000 Residents",27504,"10,533"
 Deaths,27504,18
-Cases,27505,544
-"Cases Per 10,000 Residents",27505,744
-"Cases Per 100,000 Residents",27505,"7,444"
+Cases,27505,546
+"Cases Per 10,000 Residents",27505,747
+"Cases Per 100,000 Residents",27505,"7,471"
 Deaths,27505,7
 Cases,27507,150
 "Cases Per 10,000 Residents",27507,731
@@ -523,81 +523,81 @@ Cases,27508,286
 "Cases Per 10,000 Residents",27508,"1,222"
 "Cases Per 100,000 Residents",27508,"12,222"
 Deaths,27508,1
-Cases,27509,"1,604"
-"Cases Per 10,000 Residents",27509,"2,313"
-"Cases Per 100,000 Residents",27509,"23,129"
+Cases,27509,"1,605"
+"Cases Per 10,000 Residents",27509,"2,314"
+"Cases Per 100,000 Residents",27509,"23,143"
 Deaths,27509,37
 Cases,27510,787
 "Cases Per 10,000 Residents",27510,541
 "Cases Per 100,000 Residents",27510,"5,412"
 Deaths,27510,8
-Cases,27511,"1,890"
-"Cases Per 10,000 Residents",27511,555
-"Cases Per 100,000 Residents",27511,"5,552"
+Cases,27511,"1,891"
+"Cases Per 10,000 Residents",27511,556
+"Cases Per 100,000 Residents",27511,"5,555"
 Deaths,27511,21
-Cases,27513,"2,146"
+Cases,27513,"2,148"
 "Cases Per 10,000 Residents",27513,438
-"Cases Per 100,000 Residents",27513,"4,379"
+"Cases Per 100,000 Residents",27513,"4,383"
 Deaths,27513,13
 Cases,27514,"1,542"
 "Cases Per 10,000 Residents",27514,469
 "Cases Per 100,000 Residents",27514,"4,694"
 Deaths,27514,24
-Cases,27516,"2,072"
+Cases,27516,"2,074"
 "Cases Per 10,000 Residents",27516,470
-"Cases Per 100,000 Residents",27516,"4,697"
+"Cases Per 100,000 Residents",27516,"4,701"
 Deaths,27516,17
 Cases,27517,"1,136"
 "Cases Per 10,000 Residents",27517,394
 "Cases Per 100,000 Residents",27517,"3,940"
 Deaths,27517,15
-Cases,27518,"1,069"
+Cases,27518,"1,071"
 "Cases Per 10,000 Residents",27518,470
-"Cases Per 100,000 Residents",27518,"4,696"
+"Cases Per 100,000 Residents",27518,"4,705"
 Deaths,27518,4
-Cases,27519,"2,384"
-"Cases Per 10,000 Residents",27519,398
-"Cases Per 100,000 Residents",27519,"3,976"
+Cases,27519,"2,392"
+"Cases Per 10,000 Residents",27519,399
+"Cases Per 100,000 Residents",27519,"3,989"
 Deaths,27519,8
-Cases,27520,"4,216"
-"Cases Per 10,000 Residents",27520,959
-"Cases Per 100,000 Residents",27520,"9,591"
+Cases,27520,"4,227"
+"Cases Per 10,000 Residents",27520,962
+"Cases Per 100,000 Residents",27520,"9,616"
 Deaths,27520,57
 Cases,27521,653
 "Cases Per 10,000 Residents",27521,913
 "Cases Per 100,000 Residents",27521,"9,134"
 Deaths,27521,9
-Cases,27522,"1,016"
-"Cases Per 10,000 Residents",27522,744
-"Cases Per 100,000 Residents",27522,"7,442"
+Cases,27522,"1,017"
+"Cases Per 10,000 Residents",27522,745
+"Cases Per 100,000 Residents",27522,"7,449"
 Deaths,27522,4
-Cases,27523,638
-"Cases Per 10,000 Residents",27523,499
-"Cases Per 100,000 Residents",27523,"4,991"
+Cases,27523,640
+"Cases Per 10,000 Residents",27523,501
+"Cases Per 100,000 Residents",27523,"5,007"
 Deaths,27523,0
-Cases,27524,"1,338"
-"Cases Per 10,000 Residents",27524,989
-"Cases Per 100,000 Residents",27524,"9,888"
+Cases,27524,"1,340"
+"Cases Per 10,000 Residents",27524,990
+"Cases Per 100,000 Residents",27524,"9,902"
 Deaths,27524,15
-Cases,27525,"1,358"
-"Cases Per 10,000 Residents",27525,874
-"Cases Per 100,000 Residents",27525,"8,742"
+Cases,27525,"1,359"
+"Cases Per 10,000 Residents",27525,875
+"Cases Per 100,000 Residents",27525,"8,749"
 Deaths,27525,2
-Cases,27526,"3,549"
-"Cases Per 10,000 Residents",27526,657
-"Cases Per 100,000 Residents",27526,"6,569"
+Cases,27526,"3,555"
+"Cases Per 10,000 Residents",27526,658
+"Cases Per 100,000 Residents",27526,"6,580"
 Deaths,27526,40
 Cases,27527,"2,329"
 "Cases Per 10,000 Residents",27527,770
 "Cases Per 100,000 Residents",27527,"7,703"
 Deaths,27527,8
-Cases,27529,"4,401"
-"Cases Per 10,000 Residents",27529,817
-"Cases Per 100,000 Residents",27529,"8,172"
+Cases,27529,"4,408"
+"Cases Per 10,000 Residents",27529,819
+"Cases Per 100,000 Residents",27529,"8,185"
 Deaths,27529,61
-Cases,27530,"3,007"
+Cases,27530,"3,008"
 "Cases Per 10,000 Residents",27530,748
-"Cases Per 100,000 Residents",27530,"7,478"
+"Cases Per 100,000 Residents",27530,"7,480"
 Deaths,27530,73
 Cases,27531,11
 "Cases Per 10,000 Residents",27531,165
@@ -607,25 +607,25 @@ Cases,27534,"2,578"
 "Cases Per 10,000 Residents",27534,810
 "Cases Per 100,000 Residents",27534,"8,102"
 Deaths,27534,68
-Cases,27536,"1,754"
-"Cases Per 10,000 Residents",27536,"1,066"
-"Cases Per 100,000 Residents",27536,"10,657"
+Cases,27536,"1,756"
+"Cases Per 10,000 Residents",27536,"1,067"
+"Cases Per 100,000 Residents",27536,"10,669"
 Deaths,27536,46
-Cases,27537,"2,369"
-"Cases Per 10,000 Residents",27537,936
-"Cases Per 100,000 Residents",27537,"9,356"
+Cases,27537,"2,376"
+"Cases Per 10,000 Residents",27537,938
+"Cases Per 100,000 Residents",27537,"9,384"
 Deaths,27537,36
-Cases,27539,"1,327"
-"Cases Per 10,000 Residents",27539,499
-"Cases Per 100,000 Residents",27539,"4,995"
+Cases,27539,"1,328"
+"Cases Per 10,000 Residents",27539,500
+"Cases Per 100,000 Residents",27539,"4,999"
 Deaths,27539,6
-Cases,27540,"2,372"
-"Cases Per 10,000 Residents",27540,607
-"Cases Per 100,000 Residents",27540,"6,070"
+Cases,27540,"2,378"
+"Cases Per 10,000 Residents",27540,609
+"Cases Per 100,000 Residents",27540,"6,086"
 Deaths,27540,5
-Cases,27541,282
-"Cases Per 10,000 Residents",27541,697
-"Cases Per 100,000 Residents",27541,"6,973"
+Cases,27541,283
+"Cases Per 10,000 Residents",27541,700
+"Cases Per 100,000 Residents",27541,"6,998"
 Deaths,27541,1
 Cases,27542,824
 "Cases Per 10,000 Residents",27542,820
@@ -635,17 +635,17 @@ Cases,27544,379
 "Cases Per 10,000 Residents",27544,883
 "Cases Per 100,000 Residents",27544,"8,832"
 Deaths,27544,3
-Cases,27545,"2,851"
+Cases,27545,"2,852"
 "Cases Per 10,000 Residents",27545,940
-"Cases Per 100,000 Residents",27545,"9,401"
+"Cases Per 100,000 Residents",27545,"9,404"
 Deaths,27545,33
-Cases,27546,"1,972"
-"Cases Per 10,000 Residents",27546,879
-"Cases Per 100,000 Residents",27546,"8,789"
+Cases,27546,"1,976"
+"Cases Per 10,000 Residents",27546,881
+"Cases Per 100,000 Residents",27546,"8,807"
 Deaths,27546,71
-Cases,27549,"2,066"
-"Cases Per 10,000 Residents",27549,819
-"Cases Per 100,000 Residents",27549,"8,191"
+Cases,27549,"2,069"
+"Cases Per 10,000 Residents",27549,820
+"Cases Per 100,000 Residents",27549,"8,203"
 Deaths,27549,33
 Cases,27551,108
 "Cases Per 10,000 Residents",27551,490
@@ -659,45 +659,45 @@ Cases,27556,0
 "Cases Per 10,000 Residents",27556,0
 "Cases Per 100,000 Residents",27556,0
 Deaths,27556,0
-Cases,27557,700
-"Cases Per 10,000 Residents",27557,760
-"Cases Per 100,000 Residents",27557,"7,597"
+Cases,27557,703
+"Cases Per 10,000 Residents",27557,763
+"Cases Per 100,000 Residents",27557,"7,630"
 Deaths,27557,3
 Cases,27559,126
 "Cases Per 10,000 Residents",27559,438
 "Cases Per 100,000 Residents",27559,"4,384"
 Deaths,27559,0
-Cases,27560,"1,643"
+Cases,27560,"1,644"
 "Cases Per 10,000 Residents",27560,488
-"Cases Per 100,000 Residents",27560,"4,877"
+"Cases Per 100,000 Residents",27560,"4,880"
 Deaths,27560,10
-Cases,27562,221
-"Cases Per 10,000 Residents",27562,792
-"Cases Per 100,000 Residents",27562,"7,918"
+Cases,27562,222
+"Cases Per 10,000 Residents",27562,795
+"Cases Per 100,000 Residents",27562,"7,954"
 Deaths,27562,0
 Cases,27563,362
 "Cases Per 10,000 Residents",27563,681
 "Cases Per 100,000 Residents",27563,"6,815"
 Deaths,27563,5
-Cases,27565,"2,371"
-"Cases Per 10,000 Residents",27565,910
-"Cases Per 100,000 Residents",27565,"9,099"
+Cases,27565,"2,373"
+"Cases Per 10,000 Residents",27565,911
+"Cases Per 100,000 Residents",27565,"9,107"
 Deaths,27565,39
-Cases,27569,909
-"Cases Per 10,000 Residents",27569,"1,012"
-"Cases Per 100,000 Residents",27569,"10,118"
+Cases,27569,910
+"Cases Per 10,000 Residents",27569,"1,013"
+"Cases Per 100,000 Residents",27569,"10,129"
 Deaths,27569,6
 Cases,27571,665
 "Cases Per 10,000 Residents",27571,900
 "Cases Per 100,000 Residents",27571,"9,005"
 Deaths,27571,0
-Cases,27572,386
-"Cases Per 10,000 Residents",27572,528
-"Cases Per 100,000 Residents",27572,"5,276"
+Cases,27572,388
+"Cases Per 10,000 Residents",27572,530
+"Cases Per 100,000 Residents",27572,"5,303"
 Deaths,27572,3
-Cases,27573,"1,078"
-"Cases Per 10,000 Residents",27573,932
-"Cases Per 100,000 Residents",27573,"9,324"
+Cases,27573,"1,079"
+"Cases Per 10,000 Residents",27573,933
+"Cases Per 100,000 Residents",27573,"9,333"
 Deaths,27573,51
 Cases,27574,"1,045"
 "Cases Per 10,000 Residents",27574,686
@@ -707,9 +707,9 @@ Cases,27576,"1,870"
 "Cases Per 10,000 Residents",27576,926
 "Cases Per 100,000 Residents",27576,"9,259"
 Deaths,27576,22
-Cases,27577,"2,824"
-"Cases Per 10,000 Residents",27577,"1,120"
-"Cases Per 100,000 Residents",27577,"11,200"
+Cases,27577,"2,829"
+"Cases Per 10,000 Residents",27577,"1,122"
+"Cases Per 100,000 Residents",27577,"11,220"
 Deaths,27577,40
 Cases,27581,271
 "Cases Per 10,000 Residents",27581,685
@@ -719,121 +719,121 @@ Cases,27583,558
 "Cases Per 10,000 Residents",27583,796
 "Cases Per 100,000 Residents",27583,"7,958"
 Deaths,27583,6
-Cases,27587,"5,938"
-"Cases Per 10,000 Residents",27587,801
-"Cases Per 100,000 Residents",27587,"8,015"
+Cases,27587,"5,943"
+"Cases Per 10,000 Residents",27587,802
+"Cases Per 100,000 Residents",27587,"8,022"
 Deaths,27587,45
-Cases,27589,645
-"Cases Per 10,000 Residents",27589,776
-"Cases Per 100,000 Residents",27589,"7,760"
+Cases,27589,646
+"Cases Per 10,000 Residents",27589,777
+"Cases Per 100,000 Residents",27589,"7,772"
 Deaths,27589,6
-Cases,27591,"2,178"
-"Cases Per 10,000 Residents",27591,929
-"Cases Per 100,000 Residents",27591,"9,289"
+Cases,27591,"2,183"
+"Cases Per 10,000 Residents",27591,931
+"Cases Per 100,000 Residents",27591,"9,310"
 Deaths,27591,22
-Cases,27592,"1,242"
-"Cases Per 10,000 Residents",27592,715
-"Cases Per 100,000 Residents",27592,"7,151"
+Cases,27592,"1,243"
+"Cases Per 10,000 Residents",27592,716
+"Cases Per 100,000 Residents",27592,"7,157"
 Deaths,27592,5
-Cases,27596,"1,534"
-"Cases Per 10,000 Residents",27596,822
-"Cases Per 100,000 Residents",27596,"8,223"
+Cases,27596,"1,537"
+"Cases Per 10,000 Residents",27596,824
+"Cases Per 100,000 Residents",27596,"8,239"
 Deaths,27596,5
-Cases,27597,"2,415"
-"Cases Per 10,000 Residents",27597,947
-"Cases Per 100,000 Residents",27597,"9,473"
+Cases,27597,"2,422"
+"Cases Per 10,000 Residents",27597,950
+"Cases Per 100,000 Residents",27597,"9,500"
 Deaths,27597,19
 Cases,27599,0
 "Cases Per 10,000 Residents",27599,
 "Cases Per 100,000 Residents",27599,
 Deaths,27599,0
-Cases,27601,824
-"Cases Per 10,000 Residents",27601,679
-"Cases Per 100,000 Residents",27601,"6,788"
+Cases,27601,825
+"Cases Per 10,000 Residents",27601,680
+"Cases Per 100,000 Residents",27601,"6,796"
 Deaths,27601,6
 Cases,27603,"4,261"
 "Cases Per 10,000 Residents",27603,768
 "Cases Per 100,000 Residents",27603,"7,680"
 Deaths,27603,17
-Cases,27604,"3,983"
-"Cases Per 10,000 Residents",27604,836
-"Cases Per 100,000 Residents",27604,"8,360"
+Cases,27604,"3,988"
+"Cases Per 10,000 Residents",27604,837
+"Cases Per 100,000 Residents",27604,"8,370"
 Deaths,27604,41
 Cases,27605,575
 "Cases Per 10,000 Residents",27605,"1,095"
 "Cases Per 100,000 Residents",27605,"10,946"
-Deaths,27605,17
-Cases,27606,"3,035"
-"Cases Per 10,000 Residents",27606,633
-"Cases Per 100,000 Residents",27606,"6,331"
+Deaths,27605,18
+Cases,27606,"3,038"
+"Cases Per 10,000 Residents",27606,634
+"Cases Per 100,000 Residents",27606,"6,337"
 Deaths,27606,8
-Cases,27607,"1,934"
-"Cases Per 10,000 Residents",27607,638
-"Cases Per 100,000 Residents",27607,"6,384"
+Cases,27607,"1,935"
+"Cases Per 10,000 Residents",27607,639
+"Cases Per 100,000 Residents",27607,"6,387"
 Deaths,27607,9
 Cases,27608,852
 "Cases Per 10,000 Residents",27608,734
 "Cases Per 100,000 Residents",27608,"7,343"
 Deaths,27608,1
-Cases,27609,"2,899"
-"Cases Per 10,000 Residents",27609,750
-"Cases Per 100,000 Residents",27609,"7,504"
+Cases,27609,"2,902"
+"Cases Per 10,000 Residents",27609,751
+"Cases Per 100,000 Residents",27609,"7,512"
 Deaths,27609,23
-Cases,27610,"7,789"
+Cases,27610,"7,792"
 "Cases Per 10,000 Residents",27610,"1,050"
-"Cases Per 100,000 Residents",27610,"10,497"
+"Cases Per 100,000 Residents",27610,"10,501"
 Deaths,27610,65
-Cases,27612,"2,635"
-"Cases Per 10,000 Residents",27612,672
-"Cases Per 100,000 Residents",27612,"6,721"
+Cases,27612,"2,638"
+"Cases Per 10,000 Residents",27612,673
+"Cases Per 100,000 Residents",27612,"6,728"
 Deaths,27612,34
-Cases,27613,"2,611"
-"Cases Per 10,000 Residents",27613,561
-"Cases Per 100,000 Residents",27613,"5,613"
+Cases,27613,"2,619"
+"Cases Per 10,000 Residents",27613,563
+"Cases Per 100,000 Residents",27613,"5,630"
 Deaths,27613,11
-Cases,27614,"2,364"
-"Cases Per 10,000 Residents",27614,627
-"Cases Per 100,000 Residents",27614,"6,272"
+Cases,27614,"2,366"
+"Cases Per 10,000 Residents",27614,628
+"Cases Per 100,000 Residents",27614,"6,278"
 Deaths,27614,20
-Cases,27615,"2,992"
-"Cases Per 10,000 Residents",27615,650
-"Cases Per 100,000 Residents",27615,"6,499"
+Cases,27615,"2,997"
+"Cases Per 10,000 Residents",27615,651
+"Cases Per 100,000 Residents",27615,"6,510"
 Deaths,27615,42
-Cases,27616,"5,027"
-"Cases Per 10,000 Residents",27616,910
-"Cases Per 100,000 Residents",27616,"9,097"
+Cases,27616,"5,034"
+"Cases Per 10,000 Residents",27616,911
+"Cases Per 100,000 Residents",27616,"9,110"
 Deaths,27616,21
-Cases,27617,"1,290"
-"Cases Per 10,000 Residents",27617,661
-"Cases Per 100,000 Residents",27617,"6,612"
+Cases,27617,"1,291"
+"Cases Per 10,000 Residents",27617,662
+"Cases Per 100,000 Residents",27617,"6,617"
 Deaths,27617,3
-Cases,27701,"1,979"
-"Cases Per 10,000 Residents",27701,747
-"Cases Per 100,000 Residents",27701,"7,471"
+Cases,27701,"1,973"
+"Cases Per 10,000 Residents",27701,745
+"Cases Per 100,000 Residents",27701,"7,448"
 Deaths,27701,15
-Cases,27703,"4,907"
-"Cases Per 10,000 Residents",27703,800
-"Cases Per 100,000 Residents",27703,"7,998"
+Cases,27703,"4,915"
+"Cases Per 10,000 Residents",27703,801
+"Cases Per 100,000 Residents",27703,"8,011"
 Deaths,27703,26
-Cases,27704,"3,799"
-"Cases Per 10,000 Residents",27704,965
-"Cases Per 100,000 Residents",27704,"9,650"
+Cases,27704,"3,803"
+"Cases Per 10,000 Residents",27704,966
+"Cases Per 100,000 Residents",27704,"9,660"
 Deaths,27704,35
-Cases,27705,"3,192"
-"Cases Per 10,000 Residents",27705,664
-"Cases Per 100,000 Residents",27705,"6,639"
-Deaths,27705,72
+Cases,27705,"3,195"
+"Cases Per 10,000 Residents",27705,665
+"Cases Per 100,000 Residents",27705,"6,645"
+Deaths,27705,73
 Cases,27706,0
 "Cases Per 10,000 Residents",27706,0
 "Cases Per 100,000 Residents",27706,0
 Deaths,27706,0
-Cases,27707,"3,153"
-"Cases Per 10,000 Residents",27707,670
-"Cases Per 100,000 Residents",27707,"6,703"
+Cases,27707,"3,156"
+"Cases Per 10,000 Residents",27707,671
+"Cases Per 100,000 Residents",27707,"6,710"
 Deaths,27707,16
-Cases,27708,151
-"Cases Per 10,000 Residents",27708,326
-"Cases Per 100,000 Residents",27708,"3,258"
+Cases,27708,148
+"Cases Per 10,000 Residents",27708,319
+"Cases Per 100,000 Residents",27708,"3,193"
 Deaths,27708,0
 Cases,27709,0
 "Cases Per 10,000 Residents",27709,0
@@ -847,33 +847,33 @@ Cases,27712,"1,287"
 "Cases Per 10,000 Residents",27712,584
 "Cases Per 100,000 Residents",27712,"5,835"
 Deaths,27712,28
-Cases,27713,"2,992"
+Cases,27713,"2,993"
 "Cases Per 10,000 Residents",27713,554
-"Cases Per 100,000 Residents",27713,"5,541"
-Deaths,27713,24
-Cases,27801,"1,737"
-"Cases Per 10,000 Residents",27801,806
-"Cases Per 100,000 Residents",27801,"8,058"
+"Cases Per 100,000 Residents",27713,"5,543"
+Deaths,27713,25
+Cases,27801,"1,742"
+"Cases Per 10,000 Residents",27801,808
+"Cases Per 100,000 Residents",27801,"8,081"
 Deaths,27801,19
-Cases,27803,"1,835"
-"Cases Per 10,000 Residents",27803,822
-"Cases Per 100,000 Residents",27803,"8,215"
+Cases,27803,"1,840"
+"Cases Per 10,000 Residents",27803,824
+"Cases Per 100,000 Residents",27803,"8,237"
 Deaths,27803,23
-Cases,27804,"2,949"
-"Cases Per 10,000 Residents",27804,"1,011"
-"Cases Per 100,000 Residents",27804,"10,113"
+Cases,27804,"2,953"
+"Cases Per 10,000 Residents",27804,"1,013"
+"Cases Per 100,000 Residents",27804,"10,127"
 Deaths,27804,81
 Cases,27805,209
 "Cases Per 10,000 Residents",27805,555
 "Cases Per 100,000 Residents",27805,"5,545"
 Deaths,27805,2
-Cases,27806,156
-"Cases Per 10,000 Residents",27806,639
-"Cases Per 100,000 Residents",27806,"6,391"
+Cases,27806,157
+"Cases Per 10,000 Residents",27806,643
+"Cases Per 100,000 Residents",27806,"6,432"
 Deaths,27806,2
-Cases,27807,818
-"Cases Per 10,000 Residents",27807,"1,179"
-"Cases Per 100,000 Residents",27807,"11,787"
+Cases,27807,824
+"Cases Per 10,000 Residents",27807,"1,187"
+"Cases Per 100,000 Residents",27807,"11,873"
 Deaths,27807,10
 Cases,27808,190
 "Cases Per 10,000 Residents",27808,766
@@ -887,21 +887,21 @@ Cases,27810,330
 "Cases Per 10,000 Residents",27810,781
 "Cases Per 100,000 Residents",27810,"7,813"
 Deaths,27810,4
-Cases,27812,249
-"Cases Per 10,000 Residents",27812,844
-"Cases Per 100,000 Residents",27812,"8,438"
+Cases,27812,250
+"Cases Per 10,000 Residents",27812,847
+"Cases Per 100,000 Residents",27812,"8,472"
 Deaths,27812,1
-Cases,27813,56
-"Cases Per 10,000 Residents",27813,815
-"Cases Per 100,000 Residents",27813,"8,151"
+Cases,27813,57
+"Cases Per 10,000 Residents",27813,830
+"Cases Per 100,000 Residents",27813,"8,297"
 Deaths,27813,0
 Cases,27814,119
 "Cases Per 10,000 Residents",27814,661
 "Cases Per 100,000 Residents",27814,"6,607"
 Deaths,27814,2
-Cases,27816,236
-"Cases Per 10,000 Residents",27816,896
-"Cases Per 100,000 Residents",27816,"8,960"
+Cases,27816,237
+"Cases Per 10,000 Residents",27816,900
+"Cases Per 100,000 Residents",27816,"8,998"
 Deaths,27816,3
 Cases,27817,614
 "Cases Per 10,000 Residents",27817,790
@@ -911,9 +911,9 @@ Cases,27818,103
 "Cases Per 10,000 Residents",27818,812
 "Cases Per 100,000 Residents",27818,"8,117"
 Deaths,27818,1
-Cases,27820,194
-"Cases Per 10,000 Residents",27820,589
-"Cases Per 100,000 Residents",27820,"5,893"
+Cases,27820,195
+"Cases Per 10,000 Residents",27820,592
+"Cases Per 100,000 Residents",27820,"5,923"
 Deaths,27820,4
 Cases,27821,0
 "Cases Per 10,000 Residents",27821,0
@@ -923,9 +923,9 @@ Cases,27822,887
 "Cases Per 10,000 Residents",27822,973
 "Cases Per 100,000 Residents",27822,"9,727"
 Deaths,27822,12
-Cases,27823,695
-"Cases Per 10,000 Residents",27823,890
-"Cases Per 100,000 Residents",27823,"8,897"
+Cases,27823,699
+"Cases Per 10,000 Residents",27823,895
+"Cases Per 100,000 Residents",27823,"8,948"
 Deaths,27823,8
 Cases,27824,83
 "Cases Per 10,000 Residents",27824,539
@@ -951,17 +951,17 @@ Cases,27830,309
 "Cases Per 10,000 Residents",27830,636
 "Cases Per 100,000 Residents",27830,"6,361"
 Deaths,27830,6
-Cases,27831,305
-"Cases Per 10,000 Residents",27831,850
-"Cases Per 100,000 Residents",27831,"8,501"
+Cases,27831,306
+"Cases Per 10,000 Residents",27831,853
+"Cases Per 100,000 Residents",27831,"8,528"
 Deaths,27831,5
 Cases,27832,316
 "Cases Per 10,000 Residents",27832,"1,085"
 "Cases Per 100,000 Residents",27832,"10,852"
 Deaths,27832,7
-Cases,27834,"5,706"
+Cases,27834,"5,707"
 "Cases Per 10,000 Residents",27834,992
-"Cases Per 100,000 Residents",27834,"9,923"
+"Cases Per 100,000 Residents",27834,"9,924"
 Deaths,27834,29
 Cases,27837,593
 "Cases Per 10,000 Residents",27837,911
@@ -1007,13 +1007,13 @@ Cases,27849,98
 "Cases Per 10,000 Residents",27849,661
 "Cases Per 100,000 Residents",27849,"6,608"
 Deaths,27849,2
-Cases,27850,425
-"Cases Per 10,000 Residents",27850,573
-"Cases Per 100,000 Residents",27850,"5,733"
+Cases,27850,426
+"Cases Per 10,000 Residents",27850,575
+"Cases Per 100,000 Residents",27850,"5,747"
 Deaths,27850,6
-Cases,27851,487
-"Cases Per 10,000 Residents",27851,870
-"Cases Per 100,000 Residents",27851,"8,704"
+Cases,27851,488
+"Cases Per 10,000 Residents",27851,872
+"Cases Per 100,000 Residents",27851,"8,722"
 Deaths,27851,5
 Cases,27852,228
 "Cases Per 10,000 Residents",27852,660
@@ -1027,17 +1027,17 @@ Cases,27855,433
 "Cases Per 10,000 Residents",27855,709
 "Cases Per 100,000 Residents",27855,"7,093"
 Deaths,27855,6
-Cases,27856,"2,211"
-"Cases Per 10,000 Residents",27856,"1,278"
-"Cases Per 100,000 Residents",27856,"12,780"
+Cases,27856,"2,216"
+"Cases Per 10,000 Residents",27856,"1,281"
+"Cases Per 100,000 Residents",27856,"12,809"
 Deaths,27856,30
 Cases,27857,120
 "Cases Per 10,000 Residents",27857,750
 "Cases Per 100,000 Residents",27857,"7,495"
 Deaths,27857,4
-Cases,27858,"5,619"
+Cases,27858,"5,622"
 "Cases Per 10,000 Residents",27858,966
-"Cases Per 100,000 Residents",27858,"9,660"
+"Cases Per 100,000 Residents",27858,"9,665"
 Deaths,27858,18
 Cases,27860,168
 "Cases Per 10,000 Residents",27860,815
@@ -1087,9 +1087,9 @@ Cases,27875,41
 "Cases Per 10,000 Residents",27875,802
 "Cases Per 100,000 Residents",27875,"8,023"
 Deaths,27875,2
-Cases,27876,108
-"Cases Per 10,000 Residents",27876,837
-"Cases Per 100,000 Residents",27876,"8,372"
+Cases,27876,109
+"Cases Per 10,000 Residents",27876,845
+"Cases Per 100,000 Residents",27876,"8,450"
 Deaths,27876,2
 Cases,27880,375
 "Cases Per 10,000 Residents",27880,"1,143"
@@ -1099,9 +1099,9 @@ Cases,27881,0
 "Cases Per 10,000 Residents",27881,0
 "Cases Per 100,000 Residents",27881,0
 Deaths,27881,0
-Cases,27882,827
-"Cases Per 10,000 Residents",27882,"1,043"
-"Cases Per 100,000 Residents",27882,"10,433"
+Cases,27882,831
+"Cases Per 10,000 Residents",27882,"1,048"
+"Cases Per 100,000 Residents",27882,"10,483"
 Deaths,27882,9
 Cases,27883,322
 "Cases Per 10,000 Residents",27883,738
@@ -1115,37 +1115,37 @@ Cases,27885,300
 "Cases Per 10,000 Residents",27885,"3,492"
 "Cases Per 100,000 Residents",27885,"34,924"
 Deaths,27885,4
-Cases,27886,"2,045"
+Cases,27886,"2,046"
 "Cases Per 10,000 Residents",27886,947
-"Cases Per 100,000 Residents",27886,"9,470"
+"Cases Per 100,000 Residents",27886,"9,474"
 Deaths,27886,70
 Cases,27888,241
 "Cases Per 10,000 Residents",27888,860
 "Cases Per 100,000 Residents",27888,"8,598"
 Deaths,27888,0
-Cases,27889,"2,824"
-"Cases Per 10,000 Residents",27889,"1,025"
-"Cases Per 100,000 Residents",27889,"10,253"
+Cases,27889,"2,828"
+"Cases Per 10,000 Residents",27889,"1,027"
+"Cases Per 100,000 Residents",27889,"10,268"
 Deaths,27889,63
-Cases,27890,240
-"Cases Per 10,000 Residents",27890,"1,001"
-"Cases Per 100,000 Residents",27890,"10,008"
+Cases,27890,241
+"Cases Per 10,000 Residents",27890,"1,005"
+"Cases Per 100,000 Residents",27890,"10,050"
 Deaths,27890,14
-Cases,27891,451
-"Cases Per 10,000 Residents",27891,900
-"Cases Per 100,000 Residents",27891,"9,000"
+Cases,27891,452
+"Cases Per 10,000 Residents",27891,902
+"Cases Per 100,000 Residents",27891,"9,020"
 Deaths,27891,7
 Cases,27892,"1,361"
 "Cases Per 10,000 Residents",27892,948
 "Cases Per 100,000 Residents",27892,"9,476"
 Deaths,27892,22
-Cases,27893,"4,413"
-"Cases Per 10,000 Residents",27893,"1,086"
-"Cases Per 100,000 Residents",27893,"10,857"
+Cases,27893,"4,419"
+"Cases Per 10,000 Residents",27893,"1,087"
+"Cases Per 100,000 Residents",27893,"10,872"
 Deaths,27893,95
-Cases,27896,"2,194"
-"Cases Per 10,000 Residents",27896,"1,034"
-"Cases Per 100,000 Residents",27896,"10,343"
+Cases,27896,"2,199"
+"Cases Per 10,000 Residents",27896,"1,037"
+"Cases Per 100,000 Residents",27896,"10,367"
 Deaths,27896,32
 Cases,27897,120
 "Cases Per 10,000 Residents",27897,486
@@ -1179,9 +1179,9 @@ Cases,27920,60
 "Cases Per 10,000 Residents",27920,424
 "Cases Per 100,000 Residents",27920,"4,240"
 Deaths,27920,0
-Cases,27921,308
-"Cases Per 10,000 Residents",27921,574
-"Cases Per 100,000 Residents",27921,"5,740"
+Cases,27921,309
+"Cases Per 10,000 Residents",27921,576
+"Cases Per 100,000 Residents",27921,"5,758"
 Deaths,27921,4
 Cases,27922,74
 "Cases Per 10,000 Residents",27922,668
@@ -1251,9 +1251,9 @@ Cases,27943,0
 "Cases Per 10,000 Residents",27943,0
 "Cases Per 100,000 Residents",27943,0
 Deaths,27943,0
-Cases,27944,821
-"Cases Per 10,000 Residents",27944,671
-"Cases Per 100,000 Residents",27944,"6,713"
+Cases,27944,822
+"Cases Per 10,000 Residents",27944,672
+"Cases Per 100,000 Residents",27944,"6,721"
 Deaths,27944,7
 Cases,27946,74
 "Cases Per 10,000 Residents",27946,680
@@ -1291,9 +1291,9 @@ Cases,27957,100
 "Cases Per 10,000 Residents",27957,705
 "Cases Per 100,000 Residents",27957,"7,047"
 Deaths,27957,4
-Cases,27958,664
+Cases,27958,665
 "Cases Per 10,000 Residents",27958,551
-"Cases Per 100,000 Residents",27958,"5,505"
+"Cases Per 100,000 Residents",27958,"5,514"
 Deaths,27958,6
 Cases,27959,180
 "Cases Per 10,000 Residents",27959,734
@@ -1375,9 +1375,9 @@ Cases,27986,164
 "Cases Per 10,000 Residents",27986,619
 "Cases Per 100,000 Residents",27986,"6,189"
 Deaths,27986,3
-Cases,28001,"3,078"
-"Cases Per 10,000 Residents",28001,"1,085"
-"Cases Per 100,000 Residents",28001,"10,853"
+Cases,28001,"3,080"
+"Cases Per 10,000 Residents",28001,"1,086"
+"Cases Per 100,000 Residents",28001,"10,860"
 Deaths,28001,79
 Cases,28006,117
 "Cases Per 10,000 Residents",28006,"1,030"
@@ -1387,9 +1387,9 @@ Cases,28012,"2,564"
 "Cases Per 10,000 Residents",28012,"1,056"
 "Cases Per 100,000 Residents",28012,"10,562"
 Deaths,28012,21
-Cases,28016,"1,446"
-"Cases Per 10,000 Residents",28016,995
-"Cases Per 100,000 Residents",28016,"9,955"
+Cases,28016,"1,447"
+"Cases Per 10,000 Residents",28016,996
+"Cases Per 100,000 Residents",28016,"9,961"
 Deaths,28016,24
 Cases,28018,536
 "Cases Per 10,000 Residents",28018,902
@@ -1403,125 +1403,125 @@ Cases,28021,"1,362"
 "Cases Per 10,000 Residents",28021,"1,014"
 "Cases Per 100,000 Residents",28021,"10,137"
 Deaths,28021,34
-Cases,28023,"1,565"
-"Cases Per 10,000 Residents",28023,"1,054"
-"Cases Per 100,000 Residents",28023,"10,544"
+Cases,28023,"1,566"
+"Cases Per 10,000 Residents",28023,"1,055"
+"Cases Per 100,000 Residents",28023,"10,550"
 Deaths,28023,17
-Cases,28025,"5,209"
-"Cases Per 10,000 Residents",28025,942
-"Cases Per 100,000 Residents",28025,"9,415"
+Cases,28025,"5,222"
+"Cases Per 10,000 Residents",28025,944
+"Cases Per 100,000 Residents",28025,"9,439"
 Deaths,28025,72
-Cases,28027,"6,500"
-"Cases Per 10,000 Residents",28027,878
-"Cases Per 100,000 Residents",28027,"8,775"
+Cases,28027,"6,510"
+"Cases Per 10,000 Residents",28027,879
+"Cases Per 100,000 Residents",28027,"8,789"
 Deaths,28027,71
-Cases,28031,"2,617"
-"Cases Per 10,000 Residents",28031,843
-"Cases Per 100,000 Residents",28031,"8,429"
+Cases,28031,"2,620"
+"Cases Per 10,000 Residents",28031,844
+"Cases Per 100,000 Residents",28031,"8,438"
 Deaths,28031,24
-Cases,28032,351
-"Cases Per 10,000 Residents",28032,"1,080"
-"Cases Per 100,000 Residents",28032,"10,803"
+Cases,28032,352
+"Cases Per 10,000 Residents",28032,"1,083"
+"Cases Per 100,000 Residents",28032,"10,834"
 Deaths,28032,1
-Cases,28033,373
-"Cases Per 10,000 Residents",28033,"1,109"
-"Cases Per 100,000 Residents",28033,"11,095"
+Cases,28033,374
+"Cases Per 10,000 Residents",28033,"1,112"
+"Cases Per 100,000 Residents",28033,"11,124"
 Deaths,28033,4
-Cases,28034,"2,258"
-"Cases Per 10,000 Residents",28034,"1,264"
-"Cases Per 100,000 Residents",28034,"12,643"
+Cases,28034,"2,259"
+"Cases Per 10,000 Residents",28034,"1,265"
+"Cases Per 100,000 Residents",28034,"12,649"
 Deaths,28034,30
-Cases,28036,"1,503"
-"Cases Per 10,000 Residents",28036,810
-"Cases Per 100,000 Residents",28036,"8,101"
+Cases,28036,"1,505"
+"Cases Per 10,000 Residents",28036,811
+"Cases Per 100,000 Residents",28036,"8,111"
 Deaths,28036,15
-Cases,28037,"2,445"
-"Cases Per 10,000 Residents",28037,"1,026"
-"Cases Per 100,000 Residents",28037,"10,258"
+Cases,28037,"2,450"
+"Cases Per 10,000 Residents",28037,"1,028"
+"Cases Per 100,000 Residents",28037,"10,279"
 Deaths,28037,7
 Cases,28039,0
 "Cases Per 10,000 Residents",28039,0
 "Cases Per 100,000 Residents",28039,0
 Deaths,28039,0
-Cases,28040,693
-"Cases Per 10,000 Residents",28040,838
-"Cases Per 100,000 Residents",28040,"8,380"
+Cases,28040,694
+"Cases Per 10,000 Residents",28040,839
+"Cases Per 100,000 Residents",28040,"8,392"
 Deaths,28040,10
-Cases,28043,"2,324"
-"Cases Per 10,000 Residents",28043,"1,082"
-"Cases Per 100,000 Residents",28043,"10,823"
+Cases,28043,"2,326"
+"Cases Per 10,000 Residents",28043,"1,083"
+"Cases Per 100,000 Residents",28043,"10,833"
 Deaths,28043,72
-Cases,28052,"3,869"
-"Cases Per 10,000 Residents",28052,"1,051"
-"Cases Per 100,000 Residents",28052,"10,507"
+Cases,28052,"3,874"
+"Cases Per 10,000 Residents",28052,"1,052"
+"Cases Per 100,000 Residents",28052,"10,521"
 Deaths,28052,80
-Cases,28054,"4,260"
-"Cases Per 10,000 Residents",28054,"1,060"
-"Cases Per 100,000 Residents",28054,"10,601"
+Cases,28054,"4,263"
+"Cases Per 10,000 Residents",28054,"1,061"
+"Cases Per 100,000 Residents",28054,"10,609"
 Deaths,28054,76
-Cases,28056,"3,792"
-"Cases Per 10,000 Residents",28056,"1,065"
-"Cases Per 100,000 Residents",28056,"10,653"
+Cases,28056,"3,795"
+"Cases Per 10,000 Residents",28056,"1,066"
+"Cases Per 100,000 Residents",28056,"10,662"
 Deaths,28056,41
-Cases,28071,306
-"Cases Per 10,000 Residents",28071,957
-"Cases Per 100,000 Residents",28071,"9,568"
+Cases,28071,307
+"Cases Per 10,000 Residents",28071,960
+"Cases Per 100,000 Residents",28071,"9,600"
 Deaths,28071,4
-Cases,28073,513
-"Cases Per 10,000 Residents",28073,915
-"Cases Per 100,000 Residents",28073,"9,151"
+Cases,28073,515
+"Cases Per 10,000 Residents",28073,919
+"Cases Per 100,000 Residents",28073,"9,187"
 Deaths,28073,10
-Cases,28075,"1,654"
+Cases,28075,"1,655"
 "Cases Per 10,000 Residents",28075,863
-"Cases Per 100,000 Residents",28075,"8,626"
+"Cases Per 100,000 Residents",28075,"8,631"
 Deaths,28075,14
 Cases,28077,37
 "Cases Per 10,000 Residents",28077,664
 "Cases Per 100,000 Residents",28077,"6,643"
 Deaths,28077,0
-Cases,28078,"5,350"
-"Cases Per 10,000 Residents",28078,810
-"Cases Per 100,000 Residents",28078,"8,096"
+Cases,28078,"5,358"
+"Cases Per 10,000 Residents",28078,811
+"Cases Per 100,000 Residents",28078,"8,108"
 Deaths,28078,47
-Cases,28079,"3,562"
-"Cases Per 10,000 Residents",28079,895
-"Cases Per 100,000 Residents",28079,"8,947"
+Cases,28079,"3,572"
+"Cases Per 10,000 Residents",28079,897
+"Cases Per 100,000 Residents",28079,"8,972"
 Deaths,28079,29
-Cases,28080,771
-"Cases Per 10,000 Residents",28080,945
-"Cases Per 100,000 Residents",28080,"9,452"
+Cases,28080,772
+"Cases Per 10,000 Residents",28080,946
+"Cases Per 100,000 Residents",28080,"9,464"
 Deaths,28080,4
-Cases,28081,"2,662"
-"Cases Per 10,000 Residents",28081,942
-"Cases Per 100,000 Residents",28081,"9,423"
+Cases,28081,"2,666"
+"Cases Per 10,000 Residents",28081,944
+"Cases Per 100,000 Residents",28081,"9,438"
 Deaths,28081,37
-Cases,28083,"2,484"
-"Cases Per 10,000 Residents",28083,960
-"Cases Per 100,000 Residents",28083,"9,599"
+Cases,28083,"2,486"
+"Cases Per 10,000 Residents",28083,961
+"Cases Per 100,000 Residents",28083,"9,607"
 Deaths,28083,37
-Cases,28086,"3,096"
-"Cases Per 10,000 Residents",28086,"1,147"
-"Cases Per 100,000 Residents",28086,"11,472"
+Cases,28086,"3,099"
+"Cases Per 10,000 Residents",28086,"1,148"
+"Cases Per 100,000 Residents",28086,"11,483"
 Deaths,28086,62
-Cases,28088,383
-"Cases Per 10,000 Residents",28088,"1,252"
-"Cases Per 100,000 Residents",28088,"12,520"
+Cases,28088,387
+"Cases Per 10,000 Residents",28088,"1,265"
+"Cases Per 100,000 Residents",28088,"12,651"
 Deaths,28088,1
-Cases,28090,678
-"Cases Per 10,000 Residents",28090,797
-"Cases Per 100,000 Residents",28090,"7,971"
+Cases,28090,679
+"Cases Per 10,000 Residents",28090,798
+"Cases Per 100,000 Residents",28090,"7,983"
 Deaths,28090,12
-Cases,28091,176
-"Cases Per 10,000 Residents",28091,748
-"Cases Per 100,000 Residents",28091,"7,480"
+Cases,28091,178
+"Cases Per 10,000 Residents",28091,756
+"Cases Per 100,000 Residents",28091,"7,565"
 Deaths,28091,1
-Cases,28092,"4,281"
-"Cases Per 10,000 Residents",28092,"1,069"
-"Cases Per 100,000 Residents",28092,"10,689"
+Cases,28092,"4,284"
+"Cases Per 10,000 Residents",28092,"1,070"
+"Cases Per 100,000 Residents",28092,"10,696"
 Deaths,28092,48
-Cases,28097,708
-"Cases Per 10,000 Residents",28097,"1,156"
-"Cases Per 100,000 Residents",28097,"11,561"
+Cases,28097,711
+"Cases Per 10,000 Residents",28097,"1,161"
+"Cases Per 100,000 Residents",28097,"11,610"
 Deaths,28097,3
 Cases,28098,374
 "Cases Per 10,000 Residents",28098,933
@@ -1531,53 +1531,53 @@ Cases,28101,0
 "Cases Per 10,000 Residents",28101,0
 "Cases Per 100,000 Residents",28101,0
 Deaths,28101,0
-Cases,28103,"1,113"
-"Cases Per 10,000 Residents",28103,981
-"Cases Per 100,000 Residents",28103,"9,810"
+Cases,28103,"1,116"
+"Cases Per 10,000 Residents",28103,984
+"Cases Per 100,000 Residents",28103,"9,836"
 Deaths,28103,24
-Cases,28104,"2,533"
-"Cases Per 10,000 Residents",28104,780
-"Cases Per 100,000 Residents",28104,"7,801"
+Cases,28104,"2,536"
+"Cases Per 10,000 Residents",28104,781
+"Cases Per 100,000 Residents",28104,"7,811"
 Deaths,28104,10
-Cases,28105,"3,452"
-"Cases Per 10,000 Residents",28105,761
-"Cases Per 100,000 Residents",28105,"7,613"
+Cases,28105,"3,454"
+"Cases Per 10,000 Residents",28105,762
+"Cases Per 100,000 Residents",28105,"7,617"
 Deaths,28105,70
-Cases,28107,851
-"Cases Per 10,000 Residents",28107,"1,037"
-"Cases Per 100,000 Residents",28107,"10,365"
+Cases,28107,852
+"Cases Per 10,000 Residents",28107,"1,038"
+"Cases Per 100,000 Residents",28107,"10,378"
 Deaths,28107,8
-Cases,28110,"5,704"
-"Cases Per 10,000 Residents",28110,"1,027"
-"Cases Per 100,000 Residents",28110,"10,271"
+Cases,28110,"5,716"
+"Cases Per 10,000 Residents",28110,"1,029"
+"Cases Per 100,000 Residents",28110,"10,292"
 Deaths,28110,63
-Cases,28112,"2,971"
-"Cases Per 10,000 Residents",28112,"1,059"
-"Cases Per 100,000 Residents",28112,"10,588"
+Cases,28112,"2,975"
+"Cases Per 10,000 Residents",28112,"1,060"
+"Cases Per 100,000 Residents",28112,"10,602"
 Deaths,28112,43
-Cases,28114,729
-"Cases Per 10,000 Residents",28114,807
-"Cases Per 100,000 Residents",28114,"8,070"
+Cases,28114,730
+"Cases Per 10,000 Residents",28114,808
+"Cases Per 100,000 Residents",28114,"8,081"
 Deaths,28114,5
-Cases,28115,"3,527"
-"Cases Per 10,000 Residents",28115,849
-"Cases Per 100,000 Residents",28115,"8,491"
+Cases,28115,"3,533"
+"Cases Per 10,000 Residents",28115,851
+"Cases Per 100,000 Residents",28115,"8,506"
 Deaths,28115,27
-Cases,28117,"4,134"
-"Cases Per 10,000 Residents",28117,868
-"Cases Per 100,000 Residents",28117,"8,683"
+Cases,28117,"4,145"
+"Cases Per 10,000 Residents",28117,871
+"Cases Per 100,000 Residents",28117,"8,707"
 Deaths,28117,20
 Cases,28119,279
 "Cases Per 10,000 Residents",28119,920
 "Cases Per 100,000 Residents",28119,"9,196"
 Deaths,28119,8
-Cases,28120,"2,403"
-"Cases Per 10,000 Residents",28120,988
-"Cases Per 100,000 Residents",28120,"9,882"
-Deaths,28120,35
-Cases,28124,605
-"Cases Per 10,000 Residents",28124,862
-"Cases Per 100,000 Residents",28124,"8,624"
+Cases,28120,"2,407"
+"Cases Per 10,000 Residents",28120,990
+"Cases Per 100,000 Residents",28120,"9,898"
+Deaths,28120,36
+Cases,28124,606
+"Cases Per 10,000 Residents",28124,864
+"Cases Per 100,000 Residents",28124,"8,639"
 Deaths,28124,8
 Cases,28125,266
 "Cases Per 10,000 Residents",28125,"1,001"
@@ -1595,13 +1595,13 @@ Cases,28129,569
 "Cases Per 10,000 Residents",28129,943
 "Cases Per 100,000 Residents",28129,"9,435"
 Deaths,28129,6
-Cases,28133,261
-"Cases Per 10,000 Residents",28133,962
-"Cases Per 100,000 Residents",28133,"9,620"
+Cases,28133,262
+"Cases Per 10,000 Residents",28133,966
+"Cases Per 100,000 Residents",28133,"9,657"
 Deaths,28133,4
-Cases,28134,"1,188"
-"Cases Per 10,000 Residents",28134,"1,005"
-"Cases Per 100,000 Residents",28134,"10,053"
+Cases,28134,"1,191"
+"Cases Per 10,000 Residents",28134,"1,008"
+"Cases Per 100,000 Residents",28134,"10,079"
 Deaths,28134,20
 Cases,28135,510
 "Cases Per 10,000 Residents",28135,855
@@ -1611,37 +1611,37 @@ Cases,28137,317
 "Cases Per 10,000 Residents",28137,825
 "Cases Per 100,000 Residents",28137,"8,249"
 Deaths,28137,4
-Cases,28138,"1,058"
-"Cases Per 10,000 Residents",28138,907
-"Cases Per 100,000 Residents",28138,"9,075"
+Cases,28138,"1,060"
+"Cases Per 10,000 Residents",28138,909
+"Cases Per 100,000 Residents",28138,"9,092"
 Deaths,28138,19
-Cases,28139,"1,986"
-"Cases Per 10,000 Residents",28139,986
-"Cases Per 100,000 Residents",28139,"9,864"
-Deaths,28139,75
-Cases,28144,"2,614"
-"Cases Per 10,000 Residents",28144,"1,011"
-"Cases Per 100,000 Residents",28144,"10,114"
+Cases,28139,"1,990"
+"Cases Per 10,000 Residents",28139,988
+"Cases Per 100,000 Residents",28139,"9,884"
+Deaths,28139,77
+Cases,28144,"2,619"
+"Cases Per 10,000 Residents",28144,"1,013"
+"Cases Per 100,000 Residents",28144,"10,133"
 Deaths,28144,65
-Cases,28146,"2,970"
+Cases,28146,"2,971"
 "Cases Per 10,000 Residents",28146,978
-"Cases Per 100,000 Residents",28146,"9,776"
+"Cases Per 100,000 Residents",28146,"9,779"
 Deaths,28146,48
-Cases,28147,"3,270"
+Cases,28147,"3,271"
 "Cases Per 10,000 Residents",28147,"1,248"
-"Cases Per 100,000 Residents",28147,"12,479"
+"Cases Per 100,000 Residents",28147,"12,483"
 Deaths,28147,81
-Cases,28150,"3,107"
-"Cases Per 10,000 Residents",28150,"1,061"
-"Cases Per 100,000 Residents",28150,"10,606"
+Cases,28150,"3,112"
+"Cases Per 10,000 Residents",28150,"1,062"
+"Cases Per 100,000 Residents",28150,"10,623"
 Deaths,28150,87
-Cases,28152,"2,616"
-"Cases Per 10,000 Residents",28152,"1,003"
-"Cases Per 100,000 Residents",28152,"10,031"
+Cases,28152,"2,619"
+"Cases Per 10,000 Residents",28152,"1,004"
+"Cases Per 100,000 Residents",28152,"10,043"
 Deaths,28152,42
-Cases,28159,395
-"Cases Per 10,000 Residents",28159,"1,264"
-"Cases Per 100,000 Residents",28159,"12,636"
+Cases,28159,396
+"Cases Per 10,000 Residents",28159,"1,267"
+"Cases Per 100,000 Residents",28159,"12,668"
 Deaths,28159,16
 Cases,28160,512
 "Cases Per 10,000 Residents",28160,"1,275"
@@ -1651,157 +1651,157 @@ Cases,28163,512
 "Cases Per 10,000 Residents",28163,881
 "Cases Per 100,000 Residents",28163,"8,806"
 Deaths,28163,3
-Cases,28164,"1,516"
-"Cases Per 10,000 Residents",28164,981
-"Cases Per 100,000 Residents",28164,"9,814"
+Cases,28164,"1,518"
+"Cases Per 10,000 Residents",28164,983
+"Cases Per 100,000 Residents",28164,"9,827"
 Deaths,28164,40
-Cases,28166,933
-"Cases Per 10,000 Residents",28166,945
-"Cases Per 100,000 Residents",28166,"9,455"
+Cases,28166,934
+"Cases Per 10,000 Residents",28166,946
+"Cases Per 100,000 Residents",28166,"9,465"
 Deaths,28166,18
 Cases,28167,206
 "Cases Per 10,000 Residents",28167,852
 "Cases Per 100,000 Residents",28167,"8,519"
 Deaths,28167,3
-Cases,28168,"1,125"
-"Cases Per 10,000 Residents",28168,"1,078"
-"Cases Per 100,000 Residents",28168,"10,779"
+Cases,28168,"1,126"
+"Cases Per 10,000 Residents",28168,"1,079"
+"Cases Per 100,000 Residents",28168,"10,789"
 Deaths,28168,13
-Cases,28170,"1,125"
-"Cases Per 10,000 Residents",28170,900
-"Cases Per 100,000 Residents",28170,"9,004"
-Deaths,28170,33
-Cases,28173,"4,876"
-"Cases Per 10,000 Residents",28173,764
-"Cases Per 100,000 Residents",28173,"7,638"
+Cases,28170,"1,127"
+"Cases Per 10,000 Residents",28170,902
+"Cases Per 100,000 Residents",28170,"9,020"
+Deaths,28170,35
+Cases,28173,"4,891"
+"Cases Per 10,000 Residents",28173,766
+"Cases Per 100,000 Residents",28173,"7,662"
 Deaths,28173,30
-Cases,28174,"1,113"
-"Cases Per 10,000 Residents",28174,"1,198"
-"Cases Per 100,000 Residents",28174,"11,984"
+Cases,28174,"1,116"
+"Cases Per 10,000 Residents",28174,"1,202"
+"Cases Per 100,000 Residents",28174,"12,017"
 Deaths,28174,5
-Cases,28202,"1,835"
-"Cases Per 10,000 Residents",28202,"1,095"
-"Cases Per 100,000 Residents",28202,"10,952"
+Cases,28202,"1,838"
+"Cases Per 10,000 Residents",28202,"1,097"
+"Cases Per 100,000 Residents",28202,"10,970"
 Deaths,28202,1
-Cases,28203,"2,121"
-"Cases Per 10,000 Residents",28203,"1,112"
-"Cases Per 100,000 Residents",28203,"11,122"
+Cases,28203,"2,131"
+"Cases Per 10,000 Residents",28203,"1,117"
+"Cases Per 100,000 Residents",28203,"11,175"
 Deaths,28203,5
-Cases,28204,992
-"Cases Per 10,000 Residents",28204,"1,135"
-"Cases Per 100,000 Residents",28204,"11,353"
+Cases,28204,993
+"Cases Per 10,000 Residents",28204,"1,136"
+"Cases Per 100,000 Residents",28204,"11,364"
 Deaths,28204,6
-Cases,28205,"4,538"
+Cases,28205,"4,542"
 "Cases Per 10,000 Residents",28205,876
-"Cases Per 100,000 Residents",28205,"8,757"
+"Cases Per 100,000 Residents",28205,"8,765"
 Deaths,28205,59
-Cases,28206,"1,501"
-"Cases Per 10,000 Residents",28206,985
-"Cases Per 100,000 Residents",28206,"9,846"
+Cases,28206,"1,503"
+"Cases Per 10,000 Residents",28206,986
+"Cases Per 100,000 Residents",28206,"9,860"
 Deaths,28206,8
-Cases,28207,794
-"Cases Per 10,000 Residents",28207,813
-"Cases Per 100,000 Residents",28207,"8,134"
+Cases,28207,799
+"Cases Per 10,000 Residents",28207,819
+"Cases Per 100,000 Residents",28207,"8,186"
 Deaths,28207,5
-Cases,28208,"4,074"
+Cases,28208,"4,076"
 "Cases Per 10,000 Residents",28208,"1,020"
-"Cases Per 100,000 Residents",28208,"10,199"
+"Cases Per 100,000 Residents",28208,"10,204"
 Deaths,28208,41
-Cases,28209,"2,108"
-"Cases Per 10,000 Residents",28209,810
-"Cases Per 100,000 Residents",28209,"8,104"
+Cases,28209,"2,112"
+"Cases Per 10,000 Residents",28209,812
+"Cases Per 100,000 Residents",28209,"8,119"
 Deaths,28209,11
-Cases,28210,"4,011"
-"Cases Per 10,000 Residents",28210,897
-"Cases Per 100,000 Residents",28210,"8,972"
+Cases,28210,"4,015"
+"Cases Per 10,000 Residents",28210,898
+"Cases Per 100,000 Residents",28210,"8,981"
 Deaths,28210,35
-Cases,28211,"2,421"
-"Cases Per 10,000 Residents",28211,775
-"Cases Per 100,000 Residents",28211,"7,746"
+Cases,28211,"2,424"
+"Cases Per 10,000 Residents",28211,776
+"Cases Per 100,000 Residents",28211,"7,756"
 Deaths,28211,66
-Cases,28212,"4,385"
-"Cases Per 10,000 Residents",28212,"1,026"
-"Cases Per 100,000 Residents",28212,"10,259"
+Cases,28212,"4,388"
+"Cases Per 10,000 Residents",28212,"1,027"
+"Cases Per 100,000 Residents",28212,"10,266"
 Deaths,28212,33
-Cases,28213,"4,755"
-"Cases Per 10,000 Residents",28213,"1,049"
-"Cases Per 100,000 Residents",28213,"10,488"
+Cases,28213,"4,764"
+"Cases Per 10,000 Residents",28213,"1,051"
+"Cases Per 100,000 Residents",28213,"10,508"
 Deaths,28213,44
-Cases,28214,"4,558"
-"Cases Per 10,000 Residents",28214,"1,106"
-"Cases Per 100,000 Residents",28214,"11,061"
+Cases,28214,"4,565"
+"Cases Per 10,000 Residents",28214,"1,108"
+"Cases Per 100,000 Residents",28214,"11,078"
 Deaths,28214,30
-Cases,28215,"6,399"
+Cases,28215,"6,400"
 "Cases Per 10,000 Residents",28215,"1,062"
-"Cases Per 100,000 Residents",28215,"10,620"
+"Cases Per 100,000 Residents",28215,"10,621"
 Deaths,28215,56
-Cases,28216,"5,576"
-"Cases Per 10,000 Residents",28216,949
-"Cases Per 100,000 Residents",28216,"9,492"
+Cases,28216,"5,583"
+"Cases Per 10,000 Residents",28216,950
+"Cases Per 100,000 Residents",28216,"9,504"
 Deaths,28216,54
-Cases,28217,"3,143"
+Cases,28217,"3,144"
 "Cases Per 10,000 Residents",28217,"1,018"
-"Cases Per 100,000 Residents",28217,"10,180"
+"Cases Per 100,000 Residents",28217,"10,183"
 Deaths,28217,18
 Cases,28223,23
 "Cases Per 10,000 Residents",28223,78
 "Cases Per 100,000 Residents",28223,782
 Deaths,28223,0
-Cases,28226,"2,974"
-"Cases Per 10,000 Residents",28226,739
-"Cases Per 100,000 Residents",28226,"7,393"
+Cases,28226,"2,976"
+"Cases Per 10,000 Residents",28226,740
+"Cases Per 100,000 Residents",28226,"7,398"
 Deaths,28226,33
-Cases,28227,"5,542"
-"Cases Per 10,000 Residents",28227,967
-"Cases Per 100,000 Residents",28227,"9,669"
+Cases,28227,"5,554"
+"Cases Per 10,000 Residents",28227,969
+"Cases Per 100,000 Residents",28227,"9,690"
 Deaths,28227,46
-Cases,28262,"3,914"
-"Cases Per 10,000 Residents",28262,896
-"Cases Per 100,000 Residents",28262,"8,960"
-Deaths,28262,40
-Cases,28269,"6,844"
-"Cases Per 10,000 Residents",28269,840
-"Cases Per 100,000 Residents",28269,"8,401"
+Cases,28262,"3,919"
+"Cases Per 10,000 Residents",28262,897
+"Cases Per 100,000 Residents",28262,"8,971"
+Deaths,28262,41
+Cases,28269,"6,854"
+"Cases Per 10,000 Residents",28269,841
+"Cases Per 100,000 Residents",28269,"8,414"
 Deaths,28269,48
-Cases,28270,"2,166"
-"Cases Per 10,000 Residents",28270,623
-"Cases Per 100,000 Residents",28270,"6,233"
+Cases,28270,"2,169"
+"Cases Per 10,000 Residents",28270,624
+"Cases Per 100,000 Residents",28270,"6,241"
 Deaths,28270,26
-Cases,28273,"4,189"
-"Cases Per 10,000 Residents",28273,"1,033"
-"Cases Per 100,000 Residents",28273,"10,332"
+Cases,28273,"4,191"
+"Cases Per 10,000 Residents",28273,"1,034"
+"Cases Per 100,000 Residents",28273,"10,337"
 Deaths,28273,36
-Cases,28277,"4,853"
-"Cases Per 10,000 Residents",28277,674
-"Cases Per 100,000 Residents",28277,"6,738"
+Cases,28277,"4,858"
+"Cases Per 10,000 Residents",28277,675
+"Cases Per 100,000 Residents",28277,"6,745"
 Deaths,28277,21
 Cases,28278,"2,809"
 "Cases Per 10,000 Residents",28278,863
 "Cases Per 100,000 Residents",28278,"8,633"
 Deaths,28278,11
-Cases,28301,"1,511"
-"Cases Per 10,000 Residents",28301,853
-"Cases Per 100,000 Residents",28301,"8,529"
+Cases,28301,"1,515"
+"Cases Per 10,000 Residents",28301,855
+"Cases Per 100,000 Residents",28301,"8,551"
 Deaths,28301,59
-Cases,28303,"2,158"
-"Cases Per 10,000 Residents",28303,624
-"Cases Per 100,000 Residents",28303,"6,237"
+Cases,28303,"2,161"
+"Cases Per 10,000 Residents",28303,625
+"Cases Per 100,000 Residents",28303,"6,246"
 Deaths,28303,29
-Cases,28304,"2,584"
-"Cases Per 10,000 Residents",28304,652
-"Cases Per 100,000 Residents",28304,"6,517"
+Cases,28304,"2,590"
+"Cases Per 10,000 Residents",28304,653
+"Cases Per 100,000 Residents",28304,"6,532"
 Deaths,28304,28
 Cases,28305,405
 "Cases Per 10,000 Residents",28305,808
 "Cases Per 100,000 Residents",28305,"8,084"
 Deaths,28305,4
-Cases,28306,"3,238"
-"Cases Per 10,000 Residents",28306,761
-"Cases Per 100,000 Residents",28306,"7,607"
+Cases,28306,"3,244"
+"Cases Per 10,000 Residents",28306,762
+"Cases Per 100,000 Residents",28306,"7,621"
 Deaths,28306,29
-Cases,28307,894
-"Cases Per 10,000 Residents",28307,577
-"Cases Per 100,000 Residents",28307,"5,773"
+Cases,28307,895
+"Cases Per 10,000 Residents",28307,578
+"Cases Per 100,000 Residents",28307,"5,779"
 Deaths,28307,0
 Cases,28308,8
 "Cases Per 10,000 Residents",28308,109
@@ -1811,57 +1811,57 @@ Cases,28310,983
 "Cases Per 10,000 Residents",28310,"1,109"
 "Cases Per 100,000 Residents",28310,"11,094"
 Deaths,28310,0
-Cases,28311,"2,507"
+Cases,28311,"2,509"
 "Cases Per 10,000 Residents",28311,696
-"Cases Per 100,000 Residents",28311,"6,955"
+"Cases Per 100,000 Residents",28311,"6,961"
 Deaths,28311,21
-Cases,28312,"1,519"
-"Cases Per 10,000 Residents",28312,825
-"Cases Per 100,000 Residents",28312,"8,247"
+Cases,28312,"1,521"
+"Cases Per 10,000 Residents",28312,826
+"Cases Per 100,000 Residents",28312,"8,258"
 Deaths,28312,32
-Cases,28314,"4,041"
-"Cases Per 10,000 Residents",28314,753
-"Cases Per 100,000 Residents",28314,"7,533"
+Cases,28314,"4,043"
+"Cases Per 10,000 Residents",28314,754
+"Cases Per 100,000 Residents",28314,"7,537"
 Deaths,28314,31
-Cases,28315,"1,134"
-"Cases Per 10,000 Residents",28315,851
-"Cases Per 100,000 Residents",28315,"8,508"
+Cases,28315,"1,135"
+"Cases Per 10,000 Residents",28315,852
+"Cases Per 100,000 Residents",28315,"8,515"
 Deaths,28315,18
-Cases,28318,423
-"Cases Per 10,000 Residents",28318,924
-"Cases Per 100,000 Residents",28318,"9,238"
+Cases,28318,425
+"Cases Per 10,000 Residents",28318,928
+"Cases Per 100,000 Residents",28318,"9,282"
 Deaths,28318,4
-Cases,28320,739
-"Cases Per 10,000 Residents",28320,788
-"Cases Per 100,000 Residents",28320,"7,878"
+Cases,28320,740
+"Cases Per 10,000 Residents",28320,789
+"Cases Per 100,000 Residents",28320,"7,888"
 Deaths,28320,8
 Cases,28323,326
 "Cases Per 10,000 Residents",28323,712
 "Cases Per 100,000 Residents",28323,"7,121"
 Deaths,28323,1
-Cases,28326,"1,504"
-"Cases Per 10,000 Residents",28326,672
-"Cases Per 100,000 Residents",28326,"6,720"
+Cases,28326,"1,507"
+"Cases Per 10,000 Residents",28326,673
+"Cases Per 100,000 Residents",28326,"6,733"
 Deaths,28326,6
-Cases,28327,"1,502"
-"Cases Per 10,000 Residents",28327,822
-"Cases Per 100,000 Residents",28327,"8,220"
+Cases,28327,"1,505"
+"Cases Per 10,000 Residents",28327,824
+"Cases Per 100,000 Residents",28327,"8,236"
 Deaths,28327,28
-Cases,28328,"3,244"
-"Cases Per 10,000 Residents",28328,"1,204"
-"Cases Per 100,000 Residents",28328,"12,037"
+Cases,28328,"3,243"
+"Cases Per 10,000 Residents",28328,"1,203"
+"Cases Per 100,000 Residents",28328,"12,033"
 Deaths,28328,49
-Cases,28333,"1,076"
-"Cases Per 10,000 Residents",28333,"1,005"
-"Cases Per 100,000 Residents",28333,"10,048"
+Cases,28333,"1,077"
+"Cases Per 10,000 Residents",28333,"1,006"
+"Cases Per 100,000 Residents",28333,"10,057"
 Deaths,28333,24
-Cases,28334,"2,890"
-"Cases Per 10,000 Residents",28334,"1,102"
-"Cases Per 100,000 Residents",28334,"11,024"
+Cases,28334,"2,892"
+"Cases Per 10,000 Residents",28334,"1,103"
+"Cases Per 100,000 Residents",28334,"11,032"
 Deaths,28334,50
-Cases,28337,"1,035"
-"Cases Per 10,000 Residents",28337,868
-"Cases Per 100,000 Residents",28337,"8,678"
+Cases,28337,"1,037"
+"Cases Per 10,000 Residents",28337,869
+"Cases Per 100,000 Residents",28337,"8,695"
 Deaths,28337,20
 Cases,28338,373
 "Cases Per 10,000 Residents",28338,776
@@ -1887,21 +1887,21 @@ Cases,28344,363
 "Cases Per 10,000 Residents",28344,952
 "Cases Per 100,000 Residents",28344,"9,518"
 Deaths,28344,6
-Cases,28345,"1,236"
-"Cases Per 10,000 Residents",28345,977
-"Cases Per 100,000 Residents",28345,"9,766"
+Cases,28345,"1,235"
+"Cases Per 10,000 Residents",28345,976
+"Cases Per 100,000 Residents",28345,"9,758"
 Deaths,28345,25
 Cases,28347,205
 "Cases Per 10,000 Residents",28347,"1,123"
 "Cases Per 100,000 Residents",28347,"11,227"
 Deaths,28347,0
-Cases,28348,"2,966"
-"Cases Per 10,000 Residents",28348,823
-"Cases Per 100,000 Residents",28348,"8,227"
+Cases,28348,"2,972"
+"Cases Per 10,000 Residents",28348,824
+"Cases Per 100,000 Residents",28348,"8,244"
 Deaths,28348,28
-Cases,28349,399
-"Cases Per 10,000 Residents",28349,"1,009"
-"Cases Per 100,000 Residents",28349,"10,088"
+Cases,28349,400
+"Cases Per 10,000 Residents",28349,"1,011"
+"Cases Per 100,000 Residents",28349,"10,114"
 Deaths,28349,14
 Cases,28350,0
 "Cases Per 10,000 Residents",28350,0
@@ -1911,9 +1911,9 @@ Cases,28351,421
 "Cases Per 10,000 Residents",28351,799
 "Cases Per 100,000 Residents",28351,"7,990"
 Deaths,28351,1
-Cases,28352,"2,585"
-"Cases Per 10,000 Residents",28352,"1,022"
-"Cases Per 100,000 Residents",28352,"10,218"
+Cases,28352,"2,589"
+"Cases Per 10,000 Residents",28352,"1,023"
+"Cases Per 100,000 Residents",28352,"10,234"
 Deaths,28352,66
 Cases,28356,394
 "Cases Per 10,000 Residents",28356,802
@@ -1939,13 +1939,13 @@ Cases,28364,"1,545"
 "Cases Per 10,000 Residents",28364,"1,018"
 "Cases Per 100,000 Residents",28364,"10,185"
 Deaths,28364,14
-Cases,28365,"1,597"
-"Cases Per 10,000 Residents",28365,936
-"Cases Per 100,000 Residents",28365,"9,359"
+Cases,28365,"1,599"
+"Cases Per 10,000 Residents",28365,937
+"Cases Per 100,000 Residents",28365,"9,371"
 Deaths,28365,44
-Cases,28366,580
-"Cases Per 10,000 Residents",28366,"1,126"
-"Cases Per 100,000 Residents",28366,"11,256"
+Cases,28366,581
+"Cases Per 10,000 Residents",28366,"1,127"
+"Cases Per 100,000 Residents",28366,"11,275"
 Deaths,28366,10
 Cases,28369,225
 "Cases Per 10,000 Residents",28369,"1,004"
@@ -1963,21 +1963,21 @@ Cases,28373,195
 "Cases Per 10,000 Residents",28373,764
 "Cases Per 100,000 Residents",28373,"7,641"
 Deaths,28373,1
-Cases,28374,"1,267"
-"Cases Per 10,000 Residents",28374,697
-"Cases Per 100,000 Residents",28374,"6,973"
+Cases,28374,"1,268"
+"Cases Per 10,000 Residents",28374,698
+"Cases Per 100,000 Residents",28374,"6,978"
 Deaths,28374,45
 Cases,28375,0
 "Cases Per 10,000 Residents",28375,0
 "Cases Per 100,000 Residents",28375,0
 Deaths,28375,0
-Cases,28376,"3,565"
-"Cases Per 10,000 Residents",28376,813
-"Cases Per 100,000 Residents",28376,"8,134"
+Cases,28376,"3,569"
+"Cases Per 10,000 Residents",28376,814
+"Cases Per 100,000 Residents",28376,"8,143"
 Deaths,28376,46
-Cases,28377,"1,442"
-"Cases Per 10,000 Residents",28377,"1,106"
-"Cases Per 100,000 Residents",28377,"11,062"
+Cases,28377,"1,443"
+"Cases Per 10,000 Residents",28377,"1,107"
+"Cases Per 100,000 Residents",28377,"11,069"
 Deaths,28377,26
 Cases,28379,"2,362"
 "Cases Per 10,000 Residents",28379,915
@@ -1987,29 +1987,29 @@ Cases,28382,612
 "Cases Per 10,000 Residents",28382,764
 "Cases Per 100,000 Residents",28382,"7,644"
 Deaths,28382,10
-Cases,28383,853
-"Cases Per 10,000 Residents",28383,"1,106"
-"Cases Per 100,000 Residents",28383,"11,059"
+Cases,28383,855
+"Cases Per 10,000 Residents",28383,"1,109"
+"Cases Per 100,000 Residents",28383,"11,085"
 Deaths,28383,8
-Cases,28384,"1,403"
-"Cases Per 10,000 Residents",28384,"1,130"
-"Cases Per 100,000 Residents",28384,"11,302"
+Cases,28384,"1,404"
+"Cases Per 10,000 Residents",28384,"1,131"
+"Cases Per 100,000 Residents",28384,"11,310"
 Deaths,28384,14
-Cases,28385,323
-"Cases Per 10,000 Residents",28385,"1,075"
-"Cases Per 100,000 Residents",28385,"10,749"
+Cases,28385,324
+"Cases Per 10,000 Residents",28385,"1,078"
+"Cases Per 100,000 Residents",28385,"10,782"
 Deaths,28385,2
-Cases,28386,799
-"Cases Per 10,000 Residents",28386,"1,317"
-"Cases Per 100,000 Residents",28386,"13,167"
+Cases,28386,800
+"Cases Per 10,000 Residents",28386,"1,318"
+"Cases Per 100,000 Residents",28386,"13,184"
 Deaths,28386,9
 Cases,28387,"1,312"
 "Cases Per 10,000 Residents",28387,766
 "Cases Per 100,000 Residents",28387,"7,655"
 Deaths,28387,51
-Cases,28390,"1,435"
-"Cases Per 10,000 Residents",28390,611
-"Cases Per 100,000 Residents",28390,"6,108"
+Cases,28390,"1,439"
+"Cases Per 10,000 Residents",28390,612
+"Cases Per 100,000 Residents",28390,"6,125"
 Deaths,28390,11
 Cases,28391,374
 "Cases Per 10,000 Residents",28391,702
@@ -2035,73 +2035,73 @@ Cases,28396,190
 "Cases Per 10,000 Residents",28396,709
 "Cases Per 100,000 Residents",28396,"7,092"
 Deaths,28396,6
-Cases,28398,845
-"Cases Per 10,000 Residents",28398,"1,101"
-"Cases Per 100,000 Residents",28398,"11,014"
+Cases,28398,848
+"Cases Per 10,000 Residents",28398,"1,105"
+"Cases Per 100,000 Residents",28398,"11,053"
 Deaths,28398,23
-Cases,28399,161
-"Cases Per 10,000 Residents",28399,832
-"Cases Per 100,000 Residents",28399,"8,325"
+Cases,28399,162
+"Cases Per 10,000 Residents",28399,838
+"Cases Per 100,000 Residents",28399,"8,376"
 Deaths,28399,2
-Cases,28401,"1,791"
-"Cases Per 10,000 Residents",28401,740
-"Cases Per 100,000 Residents",28401,"7,397"
+Cases,28401,"1,797"
+"Cases Per 10,000 Residents",28401,742
+"Cases Per 100,000 Residents",28401,"7,422"
 Deaths,28401,46
-Cases,28403,"3,263"
-"Cases Per 10,000 Residents",28403,778
-"Cases Per 100,000 Residents",28403,"7,779"
+Cases,28403,"3,271"
+"Cases Per 10,000 Residents",28403,780
+"Cases Per 100,000 Residents",28403,"7,798"
 Deaths,28403,16
-Cases,28405,"2,480"
-"Cases Per 10,000 Residents",28405,735
-"Cases Per 100,000 Residents",28405,"7,355"
+Cases,28405,"2,489"
+"Cases Per 10,000 Residents",28405,738
+"Cases Per 100,000 Residents",28405,"7,382"
 Deaths,28405,24
-Cases,28409,"2,323"
-"Cases Per 10,000 Residents",28409,664
-"Cases Per 100,000 Residents",28409,"6,642"
+Cases,28409,"2,327"
+"Cases Per 10,000 Residents",28409,665
+"Cases Per 100,000 Residents",28409,"6,654"
 Deaths,28409,14
-Cases,28411,"2,760"
-"Cases Per 10,000 Residents",28411,711
-"Cases Per 100,000 Residents",28411,"7,110"
+Cases,28411,"2,764"
+"Cases Per 10,000 Residents",28411,712
+"Cases Per 100,000 Residents",28411,"7,120"
 Deaths,28411,22
-Cases,28412,"2,836"
-"Cases Per 10,000 Residents",28412,660
-"Cases Per 100,000 Residents",28412,"6,599"
-Deaths,28412,33
-Cases,28420,358
-"Cases Per 10,000 Residents",28420,700
-"Cases Per 100,000 Residents",28420,"6,998"
+Cases,28412,"2,841"
+"Cases Per 10,000 Residents",28412,661
+"Cases Per 100,000 Residents",28412,"6,611"
+Deaths,28412,34
+Cases,28420,359
+"Cases Per 10,000 Residents",28420,702
+"Cases Per 100,000 Residents",28420,"7,017"
 Deaths,28420,11
 Cases,28421,122
 "Cases Per 10,000 Residents",28421,598
 "Cases Per 100,000 Residents",28421,"5,980"
 Deaths,28421,4
-Cases,28422,426
-"Cases Per 10,000 Residents",28422,491
-"Cases Per 100,000 Residents",28422,"4,907"
+Cases,28422,428
+"Cases Per 10,000 Residents",28422,493
+"Cases Per 100,000 Residents",28422,"4,930"
 Deaths,28422,8
 Cases,28423,189
 "Cases Per 10,000 Residents",28423,827
 "Cases Per 100,000 Residents",28423,"8,271"
 Deaths,28423,2
-Cases,28425,"1,190"
+Cases,28425,"1,191"
 "Cases Per 10,000 Residents",28425,943
-"Cases Per 100,000 Residents",28425,"9,426"
+"Cases Per 100,000 Residents",28425,"9,434"
 Deaths,28425,21
-Cases,28428,510
-"Cases Per 10,000 Residents",28428,714
-"Cases Per 100,000 Residents",28428,"7,141"
+Cases,28428,511
+"Cases Per 10,000 Residents",28428,715
+"Cases Per 100,000 Residents",28428,"7,155"
 Deaths,28428,1
-Cases,28429,631
-"Cases Per 10,000 Residents",28429,739
-"Cases Per 100,000 Residents",28429,"7,387"
+Cases,28429,634
+"Cases Per 10,000 Residents",28429,742
+"Cases Per 100,000 Residents",28429,"7,422"
 Deaths,28429,3
 Cases,28430,197
 "Cases Per 10,000 Residents",28430,959
 "Cases Per 100,000 Residents",28430,"9,586"
 Deaths,28430,3
-Cases,28431,713
-"Cases Per 10,000 Residents",28431,"1,058"
-"Cases Per 100,000 Residents",28431,"10,577"
+Cases,28431,715
+"Cases Per 10,000 Residents",28431,"1,061"
+"Cases Per 100,000 Residents",28431,"10,607"
 Deaths,28431,21
 Cases,28432,224
 "Cases Per 10,000 Residents",28432,"1,330"
@@ -2119,9 +2119,9 @@ Cases,28435,227
 "Cases Per 10,000 Residents",28435,774
 "Cases Per 100,000 Residents",28435,"7,745"
 Deaths,28435,6
-Cases,28436,188
-"Cases Per 10,000 Residents",28436,813
-"Cases Per 100,000 Residents",28436,"8,131"
+Cases,28436,189
+"Cases Per 10,000 Residents",28436,817
+"Cases Per 100,000 Residents",28436,"8,175"
 Deaths,28436,2
 Cases,28438,152
 "Cases Per 10,000 Residents",28438,900
@@ -2139,17 +2139,17 @@ Cases,28442,153
 "Cases Per 10,000 Residents",28442,882
 "Cases Per 100,000 Residents",28442,"8,824"
 Deaths,28442,3
-Cases,28443,"1,776"
+Cases,28443,"1,777"
 "Cases Per 10,000 Residents",28443,790
-"Cases Per 100,000 Residents",28443,"7,899"
+"Cases Per 100,000 Residents",28443,"7,904"
 Deaths,28443,19
-Cases,28444,226
-"Cases Per 10,000 Residents",28444,992
-"Cases Per 100,000 Residents",28444,"9,921"
+Cases,28444,227
+"Cases Per 10,000 Residents",28444,996
+"Cases Per 100,000 Residents",28444,"9,965"
 Deaths,28444,0
-Cases,28445,683
-"Cases Per 10,000 Residents",28445,839
-"Cases Per 100,000 Residents",28445,"8,389"
+Cases,28445,684
+"Cases Per 10,000 Residents",28445,840
+"Cases Per 100,000 Residents",28445,"8,401"
 Deaths,28445,12
 Cases,28447,142
 "Cases Per 10,000 Residents",28447,"1,064"
@@ -2167,9 +2167,9 @@ Cases,28450,209
 "Cases Per 10,000 Residents",28450,872
 "Cases Per 100,000 Residents",28450,"8,719"
 Deaths,28450,8
-Cases,28451,"2,472"
+Cases,28451,"2,473"
 "Cases Per 10,000 Residents",28451,631
-"Cases Per 100,000 Residents",28451,"6,307"
+"Cases Per 100,000 Residents",28451,"6,310"
 Deaths,28451,21
 Cases,28452,63
 "Cases Per 10,000 Residents",28452,"1,228"
@@ -2179,9 +2179,9 @@ Cases,28453,510
 "Cases Per 10,000 Residents",28453,"1,233"
 "Cases Per 100,000 Residents",28453,"12,328"
 Deaths,28453,6
-Cases,28454,244
-"Cases Per 10,000 Residents",28454,688
-"Cases Per 100,000 Residents",28454,"6,875"
+Cases,28454,246
+"Cases Per 10,000 Residents",28454,693
+"Cases Per 100,000 Residents",28454,"6,932"
 Deaths,28454,2
 Cases,28455,182
 "Cases Per 10,000 Residents",28455,"1,059"
@@ -2191,17 +2191,17 @@ Cases,28456,337
 "Cases Per 10,000 Residents",28456,945
 "Cases Per 100,000 Residents",28456,"9,450"
 Deaths,28456,5
-Cases,28457,872
-"Cases Per 10,000 Residents",28457,679
-"Cases Per 100,000 Residents",28457,"6,791"
+Cases,28457,873
+"Cases Per 10,000 Residents",28457,680
+"Cases Per 100,000 Residents",28457,"6,799"
 Deaths,28457,11
 Cases,28458,633
 "Cases Per 10,000 Residents",28458,902
 "Cases Per 100,000 Residents",28458,"9,020"
 Deaths,28458,12
-Cases,28460,944
-"Cases Per 10,000 Residents",28460,892
-"Cases Per 100,000 Residents",28460,"8,916"
+Cases,28460,947
+"Cases Per 10,000 Residents",28460,894
+"Cases Per 100,000 Residents",28460,"8,944"
 Deaths,28460,2
 Cases,28461,877
 "Cases Per 10,000 Residents",28461,426
@@ -2211,9 +2211,9 @@ Cases,28462,743
 "Cases Per 10,000 Residents",28462,519
 "Cases Per 100,000 Residents",28462,"5,193"
 Deaths,28462,13
-Cases,28463,"1,466"
-"Cases Per 10,000 Residents",28463,"1,486"
-"Cases Per 100,000 Residents",28463,"14,861"
+Cases,28463,"1,467"
+"Cases Per 10,000 Residents",28463,"1,487"
+"Cases Per 100,000 Residents",28463,"14,871"
 Deaths,28463,34
 Cases,28464,260
 "Cases Per 10,000 Residents",28464,"1,044"
@@ -2239,13 +2239,13 @@ Cases,28469,543
 "Cases Per 10,000 Residents",28469,726
 "Cases Per 100,000 Residents",28469,"7,258"
 Deaths,28469,9
-Cases,28470,914
+Cases,28470,915
 "Cases Per 10,000 Residents",28470,680
-"Cases Per 100,000 Residents",28470,"6,798"
+"Cases Per 100,000 Residents",28470,"6,805"
 Deaths,28470,36
-Cases,28472,"1,929"
-"Cases Per 10,000 Residents",28472,964
-"Cases Per 100,000 Residents",28472,"9,644"
+Cases,28472,"1,930"
+"Cases Per 10,000 Residents",28472,965
+"Cases Per 100,000 Residents",28472,"9,649"
 Deaths,28472,51
 Cases,28478,359
 "Cases Per 10,000 Residents",28478,721
@@ -2255,17 +2255,17 @@ Cases,28479,432
 "Cases Per 10,000 Residents",28479,886
 "Cases Per 100,000 Residents",28479,"8,863"
 Deaths,28479,8
-Cases,28480,280
-"Cases Per 10,000 Residents",28480,"1,023"
-"Cases Per 100,000 Residents",28480,"10,230"
+Cases,28480,282
+"Cases Per 10,000 Residents",28480,"1,030"
+"Cases Per 100,000 Residents",28480,"10,303"
 Deaths,28480,0
-Cases,28501,"1,481"
-"Cases Per 10,000 Residents",28501,759
-"Cases Per 100,000 Residents",28501,"7,592"
+Cases,28501,"1,482"
+"Cases Per 10,000 Residents",28501,760
+"Cases Per 100,000 Residents",28501,"7,597"
 Deaths,28501,33
-Cases,28504,"2,151"
+Cases,28504,"2,152"
 "Cases Per 10,000 Residents",28504,"1,024"
-"Cases Per 100,000 Residents",28504,"10,235"
+"Cases Per 100,000 Residents",28504,"10,240"
 Deaths,28504,41
 Cases,28508,263
 "Cases Per 10,000 Residents",28508,881
@@ -2291,9 +2291,9 @@ Cases,28515,285
 "Cases Per 10,000 Residents",28515,823
 "Cases Per 100,000 Residents",28515,"8,230"
 Deaths,28515,2
-Cases,28516,710
-"Cases Per 10,000 Residents",28516,569
-"Cases Per 100,000 Residents",28516,"5,688"
+Cases,28516,711
+"Cases Per 10,000 Residents",28516,570
+"Cases Per 100,000 Residents",28516,"5,696"
 Deaths,28516,6
 Cases,28518,785
 "Cases Per 10,000 Residents",28518,892
@@ -2307,9 +2307,9 @@ Cases,28520,0
 "Cases Per 10,000 Residents",28520,0
 "Cases Per 100,000 Residents",28520,0
 Deaths,28520,0
-Cases,28521,203
-"Cases Per 10,000 Residents",28521,899
-"Cases Per 100,000 Residents",28521,"8,986"
+Cases,28521,202
+"Cases Per 10,000 Residents",28521,894
+"Cases Per 100,000 Residents",28521,"8,942"
 Deaths,28521,9
 Cases,28523,200
 "Cases Per 10,000 Residents",28523,880
@@ -2347,9 +2347,9 @@ Cases,28531,89
 "Cases Per 10,000 Residents",28531,629
 "Cases Per 100,000 Residents",28531,"6,294"
 Deaths,28531,1
-Cases,28532,"1,354"
-"Cases Per 10,000 Residents",28532,523
-"Cases Per 100,000 Residents",28532,"5,234"
+Cases,28532,"1,355"
+"Cases Per 10,000 Residents",28532,524
+"Cases Per 100,000 Residents",28532,"5,238"
 Deaths,28532,7
 Cases,28533,0
 "Cases Per 10,000 Residents",28533,
@@ -2363,13 +2363,13 @@ Cases,28538,338
 "Cases Per 10,000 Residents",28538,"1,011"
 "Cases Per 100,000 Residents",28538,"10,114"
 Deaths,28538,3
-Cases,28539,"1,025"
-"Cases Per 10,000 Residents",28539,569
-"Cases Per 100,000 Residents",28539,"5,694"
+Cases,28539,"1,027"
+"Cases Per 10,000 Residents",28539,571
+"Cases Per 100,000 Residents",28539,"5,706"
 Deaths,28539,11
-Cases,28540,"3,847"
+Cases,28540,"3,848"
 "Cases Per 10,000 Residents",28540,734
-"Cases Per 100,000 Residents",28540,"7,342"
+"Cases Per 100,000 Residents",28540,"7,344"
 Deaths,28540,49
 Cases,28542,569
 "Cases Per 10,000 Residents",28542,926
@@ -2379,25 +2379,25 @@ Cases,28543,267
 "Cases Per 10,000 Residents",28543,403
 "Cases Per 100,000 Residents",28543,"4,034"
 Deaths,28543,2
-Cases,28544,372
-"Cases Per 10,000 Residents",28544,663
-"Cases Per 100,000 Residents",28544,"6,635"
+Cases,28544,373
+"Cases Per 10,000 Residents",28544,665
+"Cases Per 100,000 Residents",28544,"6,652"
 Deaths,28544,7
-Cases,28545,157
-"Cases Per 10,000 Residents",28545,392
-"Cases Per 100,000 Residents",28545,"3,915"
+Cases,28545,158
+"Cases Per 10,000 Residents",28545,394
+"Cases Per 100,000 Residents",28545,"3,940"
 Deaths,28545,0
-Cases,28546,"3,902"
-"Cases Per 10,000 Residents",28546,751
-"Cases Per 100,000 Residents",28546,"7,509"
+Cases,28546,"3,907"
+"Cases Per 10,000 Residents",28546,752
+"Cases Per 100,000 Residents",28546,"7,519"
 Deaths,28546,37
-Cases,28547,"1,050"
-"Cases Per 10,000 Residents",28547,757
-"Cases Per 100,000 Residents",28547,"7,571"
+Cases,28547,"1,055"
+"Cases Per 10,000 Residents",28547,761
+"Cases Per 100,000 Residents",28547,"7,607"
 Deaths,28547,0
-Cases,28551,"1,247"
-"Cases Per 10,000 Residents",28551,874
-"Cases Per 100,000 Residents",28551,"8,742"
+Cases,28551,"1,248"
+"Cases Per 10,000 Residents",28551,875
+"Cases Per 100,000 Residents",28551,"8,749"
 Deaths,28551,21
 Cases,28552,0
 "Cases Per 10,000 Residents",28552,0
@@ -2407,21 +2407,21 @@ Cases,28553,22
 "Cases Per 10,000 Residents",28553,421
 "Cases Per 100,000 Residents",28553,"4,215"
 Deaths,28553,0
-Cases,28555,356
-"Cases Per 10,000 Residents",28555,757
-"Cases Per 100,000 Residents",28555,"7,571"
+Cases,28555,357
+"Cases Per 10,000 Residents",28555,759
+"Cases Per 100,000 Residents",28555,"7,593"
 Deaths,28555,0
 Cases,28556,53
 "Cases Per 10,000 Residents",28556,461
 "Cases Per 100,000 Residents",28556,"4,609"
 Deaths,28556,1
-Cases,28557,"1,031"
-"Cases Per 10,000 Residents",28557,676
-"Cases Per 100,000 Residents",28557,"6,759"
+Cases,28557,"1,032"
+"Cases Per 10,000 Residents",28557,677
+"Cases Per 100,000 Residents",28557,"6,765"
 Deaths,28557,10
-Cases,28560,"2,506"
-"Cases Per 10,000 Residents",28560,866
-"Cases Per 100,000 Residents",28560,"8,663"
+Cases,28560,"2,507"
+"Cases Per 10,000 Residents",28560,867
+"Cases Per 100,000 Residents",28560,"8,667"
 Deaths,28560,55
 Cases,28561,0
 "Cases Per 10,000 Residents",28561,
@@ -2495,25 +2495,25 @@ Cases,28587,0
 "Cases Per 10,000 Residents",28587,0
 "Cases Per 100,000 Residents",28587,0
 Deaths,28587,0
-Cases,28590,"2,631"
+Cases,28590,"2,632"
 "Cases Per 10,000 Residents",28590,991
-"Cases Per 100,000 Residents",28590,"9,909"
+"Cases Per 100,000 Residents",28590,"9,913"
 Deaths,28590,15
 Cases,28594,277
 "Cases Per 10,000 Residents",28594,753
 "Cases Per 100,000 Residents",28594,"7,531"
 Deaths,28594,3
-Cases,28601,"5,908"
-"Cases Per 10,000 Residents",28601,"1,185"
-"Cases Per 100,000 Residents",28601,"11,852"
-Deaths,28601,93
-Cases,28602,"3,285"
-"Cases Per 10,000 Residents",28602,"1,052"
-"Cases Per 100,000 Residents",28602,"10,523"
-Deaths,28602,74
-Cases,28604,457
-"Cases Per 10,000 Residents",28604,709
-"Cases Per 100,000 Residents",28604,"7,086"
+Cases,28601,"5,918"
+"Cases Per 10,000 Residents",28601,"1,187"
+"Cases Per 100,000 Residents",28601,"11,872"
+Deaths,28601,94
+Cases,28602,"3,291"
+"Cases Per 10,000 Residents",28602,"1,054"
+"Cases Per 100,000 Residents",28602,"10,542"
+Deaths,28602,75
+Cases,28604,458
+"Cases Per 10,000 Residents",28604,710
+"Cases Per 100,000 Residents",28604,"7,102"
 Deaths,28604,3
 Cases,28605,261
 "Cases Per 10,000 Residents",28605,630
@@ -2523,17 +2523,17 @@ Cases,28606,199
 "Cases Per 10,000 Residents",28606,841
 "Cases Per 100,000 Residents",28606,"8,407"
 Deaths,28606,1
-Cases,28607,"2,625"
-"Cases Per 10,000 Residents",28607,700
-"Cases Per 100,000 Residents",28607,"7,004"
+Cases,28607,"2,629"
+"Cases Per 10,000 Residents",28607,701
+"Cases Per 100,000 Residents",28607,"7,014"
 Deaths,28607,19
 Cases,28608,0
 "Cases Per 10,000 Residents",28608,
 "Cases Per 100,000 Residents",28608,
 Deaths,28608,0
-Cases,28609,557
-"Cases Per 10,000 Residents",28609,863
-"Cases Per 100,000 Residents",28609,"8,626"
+Cases,28609,559
+"Cases Per 10,000 Residents",28609,866
+"Cases Per 100,000 Residents",28609,"8,657"
 Deaths,28609,7
 Cases,28610,"1,065"
 "Cases Per 10,000 Residents",28610,"1,040"
@@ -2547,9 +2547,9 @@ Cases,28612,"1,380"
 "Cases Per 10,000 Residents",28612,926
 "Cases Per 100,000 Residents",28612,"9,258"
 Deaths,28612,36
-Cases,28613,"2,874"
-"Cases Per 10,000 Residents",28613,"1,140"
-"Cases Per 100,000 Residents",28613,"11,398"
+Cases,28613,"2,876"
+"Cases Per 10,000 Residents",28613,"1,141"
+"Cases Per 100,000 Residents",28613,"11,405"
 Deaths,28613,49
 Cases,28615,99
 "Cases Per 10,000 Residents",28615,526
@@ -2563,29 +2563,29 @@ Cases,28618,148
 "Cases Per 10,000 Residents",28618,597
 "Cases Per 100,000 Residents",28618,"5,968"
 Deaths,28618,2
-Cases,28621,"1,114"
-"Cases Per 10,000 Residents",28621,"1,071"
-"Cases Per 100,000 Residents",28621,"10,712"
+Cases,28621,"1,115"
+"Cases Per 10,000 Residents",28621,"1,072"
+"Cases Per 100,000 Residents",28621,"10,721"
 Deaths,28621,31
-Cases,28622,221
-"Cases Per 10,000 Residents",28622,838
-"Cases Per 100,000 Residents",28622,"8,378"
+Cases,28622,222
+"Cases Per 10,000 Residents",28622,842
+"Cases Per 100,000 Residents",28622,"8,415"
 Deaths,28622,0
 Cases,28623,141
 "Cases Per 10,000 Residents",28623,822
 "Cases Per 100,000 Residents",28623,"8,217"
 Deaths,28623,0
-Cases,28624,129
-"Cases Per 10,000 Residents",28624,681
-"Cases Per 100,000 Residents",28624,"6,815"
+Cases,28624,130
+"Cases Per 10,000 Residents",28624,687
+"Cases Per 100,000 Residents",28624,"6,867"
 Deaths,28624,3
-Cases,28625,"3,594"
-"Cases Per 10,000 Residents",28625,925
-"Cases Per 100,000 Residents",28625,"9,248"
+Cases,28625,"3,599"
+"Cases Per 10,000 Residents",28625,926
+"Cases Per 100,000 Residents",28625,"9,261"
 Deaths,28625,75
-Cases,28626,117
-"Cases Per 10,000 Residents",28626,390
-"Cases Per 100,000 Residents",28626,"3,899"
+Cases,28626,118
+"Cases Per 10,000 Residents",28626,393
+"Cases Per 100,000 Residents",28626,"3,932"
 Deaths,28626,1
 Cases,28627,72
 "Cases Per 10,000 Residents",28627,469
@@ -2595,9 +2595,9 @@ Cases,28629,0
 "Cases Per 10,000 Residents",28629,0
 "Cases Per 100,000 Residents",28629,0
 Deaths,28629,0
-Cases,28630,"2,282"
-"Cases Per 10,000 Residents",28630,"1,120"
-"Cases Per 100,000 Residents",28630,"11,203"
+Cases,28630,"2,283"
+"Cases Per 10,000 Residents",28630,"1,121"
+"Cases Per 100,000 Residents",28630,"11,208"
 Deaths,28630,24
 Cases,28631,61
 "Cases Per 10,000 Residents",28631,"1,138"
@@ -2607,42 +2607,42 @@ Cases,28634,455
 "Cases Per 10,000 Residents",28634,864
 "Cases Per 100,000 Residents",28634,"8,635"
 Deaths,28634,6
-Cases,28635,312
-"Cases Per 10,000 Residents",28635,774
-"Cases Per 100,000 Residents",28635,"7,738"
+Cases,28635,314
+"Cases Per 10,000 Residents",28635,779
+"Cases Per 100,000 Residents",28635,"7,788"
 Deaths,28635,4
-Cases,28636,529
-"Cases Per 10,000 Residents",28636,"1,020"
-"Cases Per 100,000 Residents",28636,"10,201"
+Cases,28636,530
+"Cases Per 10,000 Residents",28636,"1,022"
+"Cases Per 100,000 Residents",28636,"10,220"
 Deaths,28636,10
-Cases,28637,290
-"Cases Per 10,000 Residents",28637,"1,832"
-"Cases Per 100,000 Residents",28637,"18,320"
+Cases,28637,291
+"Cases Per 10,000 Residents",28637,"1,838"
+"Cases Per 100,000 Residents",28637,"18,383"
 Deaths,28637,5
-Cases,28638,"1,311"
-"Cases Per 10,000 Residents",28638,"1,044"
-"Cases Per 100,000 Residents",28638,"10,438"
+Cases,28638,"1,312"
+"Cases Per 10,000 Residents",28638,"1,045"
+"Cases Per 100,000 Residents",28638,"10,446"
 Deaths,28638,7
-Cases,28640,476
-"Cases Per 10,000 Residents",28640,991
-"Cases Per 100,000 Residents",28640,"9,906"
+Cases,28640,477
+"Cases Per 10,000 Residents",28640,993
+"Cases Per 100,000 Residents",28640,"9,927"
 Deaths,28640,18
 Cases,28642,505
 "Cases Per 10,000 Residents",28642,905
 "Cases Per 100,000 Residents",28642,"9,053"
 Deaths,28642,6
-Cases,28643,205
-"Cases Per 10,000 Residents",28643,595
-"Cases Per 100,000 Residents",28643,"5,954"
+Cases,28643,206
+"Cases Per 10,000 Residents",28643,598
+"Cases Per 100,000 Residents",28643,"5,983"
 Deaths,28643,4
 Cases,28644,77
 "Cases Per 10,000 Residents",28644,490
 "Cases Per 100,000 Residents",28644,"4,904"
 Deaths,28644,0
-Cases,28645,"4,884"
+Cases,28645,"4,887"
 "Cases Per 10,000 Residents",28645,"1,026"
-"Cases Per 100,000 Residents",28645,"10,256"
-Deaths,28645,64
+"Cases Per 100,000 Residents",28645,"10,262"
+Deaths,28645,65
 Cases,28646,0
 "Cases Per 10,000 Residents",28646,0
 "Cases Per 100,000 Residents",28646,0
@@ -2651,9 +2651,9 @@ Cases,28649,85
 "Cases Per 10,000 Residents",28649,822
 "Cases Per 100,000 Residents",28649,"8,221"
 Deaths,28649,0
-Cases,28650,"1,358"
-"Cases Per 10,000 Residents",28650,"1,015"
-"Cases Per 100,000 Residents",28650,"10,154"
+Cases,28650,"1,359"
+"Cases Per 10,000 Residents",28650,"1,016"
+"Cases Per 100,000 Residents",28650,"10,162"
 Deaths,28650,14
 Cases,28651,563
 "Cases Per 10,000 Residents",28651,846
@@ -2663,21 +2663,21 @@ Cases,28654,306
 "Cases Per 10,000 Residents",28654,805
 "Cases Per 100,000 Residents",28654,"8,053"
 Deaths,28654,4
-Cases,28655,"5,567"
+Cases,28655,"5,569"
 "Cases Per 10,000 Residents",28655,956
-"Cases Per 100,000 Residents",28655,"9,557"
+"Cases Per 100,000 Residents",28655,"9,561"
 Deaths,28655,71
-Cases,28657,834
-"Cases Per 10,000 Residents",28657,868
-"Cases Per 100,000 Residents",28657,"8,678"
+Cases,28657,833
+"Cases Per 10,000 Residents",28657,867
+"Cases Per 100,000 Residents",28657,"8,668"
 Deaths,28657,14
 Cases,28658,"3,229"
 "Cases Per 10,000 Residents",28658,"1,249"
 "Cases Per 100,000 Residents",28658,"12,487"
 Deaths,28658,44
-Cases,28659,"2,079"
-"Cases Per 10,000 Residents",28659,989
-"Cases Per 100,000 Residents",28659,"9,894"
+Cases,28659,"2,083"
+"Cases Per 10,000 Residents",28659,991
+"Cases Per 100,000 Residents",28659,"9,913"
 Deaths,28659,37
 Cases,28660,199
 "Cases Per 10,000 Residents",28660,852
@@ -2711,37 +2711,37 @@ Cases,28672,0
 "Cases Per 10,000 Residents",28672,0
 "Cases Per 100,000 Residents",28672,0
 Deaths,28672,0
-Cases,28673,549
-"Cases Per 10,000 Residents",28673,829
-"Cases Per 100,000 Residents",28673,"8,292"
+Cases,28673,550
+"Cases Per 10,000 Residents",28673,831
+"Cases Per 100,000 Residents",28673,"8,307"
 Deaths,28673,5
 Cases,28675,619
 "Cases Per 10,000 Residents",28675,910
 "Cases Per 100,000 Residents",28675,"9,096"
 Deaths,28675,5
-Cases,28676,324
-"Cases Per 10,000 Residents",28676,941
-"Cases Per 100,000 Residents",28676,"9,408"
+Cases,28676,325
+"Cases Per 10,000 Residents",28676,944
+"Cases Per 100,000 Residents",28676,"9,437"
 Deaths,28676,2
-Cases,28677,"3,539"
-"Cases Per 10,000 Residents",28677,994
-"Cases Per 100,000 Residents",28677,"9,937"
+Cases,28677,"3,544"
+"Cases Per 10,000 Residents",28677,995
+"Cases Per 100,000 Residents",28677,"9,951"
 Deaths,28677,55
-Cases,28678,442
-"Cases Per 10,000 Residents",28678,842
-"Cases Per 100,000 Residents",28678,"8,416"
+Cases,28678,443
+"Cases Per 10,000 Residents",28678,843
+"Cases Per 100,000 Residents",28678,"8,435"
 Deaths,28678,3
-Cases,28679,99
-"Cases Per 10,000 Residents",28679,467
-"Cases Per 100,000 Residents",28679,"4,665"
+Cases,28679,100
+"Cases Per 10,000 Residents",28679,471
+"Cases Per 100,000 Residents",28679,"4,713"
 Deaths,28679,1
-Cases,28681,"2,918"
-"Cases Per 10,000 Residents",28681,"1,082"
-"Cases Per 100,000 Residents",28681,"10,824"
+Cases,28681,"2,920"
+"Cases Per 10,000 Residents",28681,"1,083"
+"Cases Per 100,000 Residents",28681,"10,831"
 Deaths,28681,65
-Cases,28682,100
-"Cases Per 10,000 Residents",28682,910
-"Cases Per 100,000 Residents",28682,"9,099"
+Cases,28682,101
+"Cases Per 10,000 Residents",28682,919
+"Cases Per 100,000 Residents",28682,"9,190"
 Deaths,28682,1
 Cases,28683,132
 "Cases Per 10,000 Residents",28683,683
@@ -2751,33 +2751,33 @@ Cases,28684,86
 "Cases Per 10,000 Residents",28684,395
 "Cases Per 100,000 Residents",28684,"3,954"
 Deaths,28684,1
-Cases,28685,138
-"Cases Per 10,000 Residents",28685,723
-"Cases Per 100,000 Residents",28685,"7,233"
+Cases,28685,139
+"Cases Per 10,000 Residents",28685,729
+"Cases Per 100,000 Residents",28685,"7,285"
 Deaths,28685,0
 Cases,28689,172
 "Cases Per 10,000 Residents",28689,"1,035"
 "Cases Per 100,000 Residents",28689,"10,349"
 Deaths,28689,0
-Cases,28690,863
-"Cases Per 10,000 Residents",28690,915
-"Cases Per 100,000 Residents",28690,"9,155"
+Cases,28690,865
+"Cases Per 10,000 Residents",28690,918
+"Cases Per 100,000 Residents",28690,"9,176"
 Deaths,28690,14
-Cases,28692,240
-"Cases Per 10,000 Residents",28692,533
-"Cases Per 100,000 Residents",28692,"5,329"
+Cases,28692,241
+"Cases Per 10,000 Residents",28692,535
+"Cases Per 100,000 Residents",28692,"5,351"
 Deaths,28692,1
-Cases,28693,114
-"Cases Per 10,000 Residents",28693,673
-"Cases Per 100,000 Residents",28693,"6,734"
+Cases,28693,117
+"Cases Per 10,000 Residents",28693,691
+"Cases Per 100,000 Residents",28693,"6,911"
 Deaths,28693,1
-Cases,28694,584
-"Cases Per 10,000 Residents",28694,727
-"Cases Per 100,000 Residents",28694,"7,270"
+Cases,28694,586
+"Cases Per 10,000 Residents",28694,729
+"Cases Per 100,000 Residents",28694,"7,295"
 Deaths,28694,12
-Cases,28697,"1,280"
-"Cases Per 10,000 Residents",28697,957
-"Cases Per 100,000 Residents",28697,"9,569"
+Cases,28697,"1,281"
+"Cases Per 10,000 Residents",28697,958
+"Cases Per 100,000 Residents",28697,"9,577"
 Deaths,28697,32
 Cases,28698,136
 "Cases Per 10,000 Residents",28698,738
@@ -2791,37 +2791,37 @@ Cases,28702,13
 "Cases Per 10,000 Residents",28702,185
 "Cases Per 100,000 Residents",28702,"1,847"
 Deaths,28702,0
-Cases,28704,"1,701"
-"Cases Per 10,000 Residents",28704,783
-"Cases Per 100,000 Residents",28704,"7,829"
+Cases,28704,"1,703"
+"Cases Per 10,000 Residents",28704,784
+"Cases Per 100,000 Residents",28704,"7,838"
 Deaths,28704,18
 Cases,28705,394
 "Cases Per 10,000 Residents",28705,550
 "Cases Per 100,000 Residents",28705,"5,497"
 Deaths,28705,1
-Cases,28708,43
-"Cases Per 10,000 Residents",28708,321
-"Cases Per 100,000 Residents",28708,"3,209"
+Cases,28708,44
+"Cases Per 10,000 Residents",28708,328
+"Cases Per 100,000 Residents",28708,"3,284"
 Deaths,28708,0
 Cases,28709,122
 "Cases Per 10,000 Residents",28709,529
 "Cases Per 100,000 Residents",28709,"5,286"
 Deaths,28709,2
-Cases,28711,774
-"Cases Per 10,000 Residents",28711,508
-"Cases Per 100,000 Residents",28711,"5,075"
+Cases,28711,776
+"Cases Per 10,000 Residents",28711,509
+"Cases Per 100,000 Residents",28711,"5,089"
 Deaths,28711,27
-Cases,28712,"1,154"
+Cases,28712,"1,153"
 "Cases Per 10,000 Residents",28712,587
-"Cases Per 100,000 Residents",28712,"5,875"
+"Cases Per 100,000 Residents",28712,"5,869"
 Deaths,28712,23
 Cases,28713,584
 "Cases Per 10,000 Residents",28713,626
 "Cases Per 100,000 Residents",28713,"6,257"
 Deaths,28713,11
-Cases,28714,"1,336"
-"Cases Per 10,000 Residents",28714,783
-"Cases Per 100,000 Residents",28714,"7,828"
+Cases,28714,"1,338"
+"Cases Per 10,000 Residents",28714,784
+"Cases Per 100,000 Residents",28714,"7,840"
 Deaths,28714,25
 Cases,28715,"1,705"
 "Cases Per 10,000 Residents",28715,625
@@ -2831,9 +2831,9 @@ Cases,28716,"1,220"
 "Cases Per 10,000 Residents",28716,654
 "Cases Per 100,000 Residents",28716,"6,542"
 Deaths,28716,43
-Cases,28717,133
-"Cases Per 10,000 Residents",28717,904
-"Cases Per 100,000 Residents",28717,"9,041"
+Cases,28717,134
+"Cases Per 10,000 Residents",28717,911
+"Cases Per 100,000 Residents",28717,"9,109"
 Deaths,28717,4
 Cases,28718,22
 "Cases Per 10,000 Residents",28718,362
@@ -2847,17 +2847,17 @@ Cases,28720,0
 "Cases Per 10,000 Residents",28720,0
 "Cases Per 100,000 Residents",28720,0
 Deaths,28720,0
-Cases,28721,659
-"Cases Per 10,000 Residents",28721,606
-"Cases Per 100,000 Residents",28721,"6,065"
-Deaths,28721,7
+Cases,28721,660
+"Cases Per 10,000 Residents",28721,607
+"Cases Per 100,000 Residents",28721,"6,074"
+Deaths,28721,8
 Cases,28722,491
 "Cases Per 10,000 Residents",28722,716
 "Cases Per 100,000 Residents",28722,"7,164"
 Deaths,28722,9
-Cases,28723,915
-"Cases Per 10,000 Residents",28723,784
-"Cases Per 100,000 Residents",28723,"7,835"
+Cases,28723,920
+"Cases Per 10,000 Residents",28723,788
+"Cases Per 100,000 Residents",28723,"7,878"
 Deaths,28723,0
 Cases,28725,0
 "Cases Per 10,000 Residents",28725,0
@@ -2871,25 +2871,25 @@ Cases,28729,243
 "Cases Per 10,000 Residents",28729,816
 "Cases Per 100,000 Residents",28729,"8,160"
 Deaths,28729,1
-Cases,28730,498
-"Cases Per 10,000 Residents",28730,495
-"Cases Per 100,000 Residents",28730,"4,946"
+Cases,28730,499
+"Cases Per 10,000 Residents",28730,496
+"Cases Per 100,000 Residents",28730,"4,956"
 Deaths,28730,7
 Cases,28731,844
 "Cases Per 10,000 Residents",28731,910
 "Cases Per 100,000 Residents",28731,"9,104"
 Deaths,28731,14
-Cases,28732,"1,243"
-"Cases Per 10,000 Residents",28732,658
-"Cases Per 100,000 Residents",28732,"6,577"
+Cases,28732,"1,242"
+"Cases Per 10,000 Residents",28732,657
+"Cases Per 100,000 Residents",28732,"6,572"
 Deaths,28732,5
 Cases,28733,0
 "Cases Per 10,000 Residents",28733,0
 "Cases Per 100,000 Residents",28733,0
 Deaths,28733,0
-Cases,28734,"2,079"
-"Cases Per 10,000 Residents",28734,731
-"Cases Per 100,000 Residents",28734,"7,314"
+Cases,28734,"2,080"
+"Cases Per 10,000 Residents",28734,732
+"Cases Per 100,000 Residents",28734,"7,318"
 Deaths,28734,21
 Cases,28735,0
 "Cases Per 10,000 Residents",28735,0
@@ -2899,9 +2899,9 @@ Cases,28736,46
 "Cases Per 10,000 Residents",28736,622
 "Cases Per 100,000 Residents",28736,"6,216"
 Deaths,28736,0
-Cases,28739,"1,333"
-"Cases Per 10,000 Residents",28739,606
-"Cases Per 100,000 Residents",28739,"6,061"
+Cases,28739,"1,335"
+"Cases Per 10,000 Residents",28739,607
+"Cases Per 100,000 Residents",28739,"6,070"
 Deaths,28739,19
 Cases,28740,152
 "Cases Per 10,000 Residents",28740,716
@@ -2911,9 +2911,9 @@ Cases,28741,245
 "Cases Per 10,000 Residents",28741,781
 "Cases Per 100,000 Residents",28741,"7,815"
 Deaths,28741,4
-Cases,28742,195
-"Cases Per 10,000 Residents",28742,688
-"Cases Per 100,000 Residents",28742,"6,881"
+Cases,28742,196
+"Cases Per 10,000 Residents",28742,692
+"Cases Per 100,000 Residents",28742,"6,916"
 Deaths,28742,4
 Cases,28743,124
 "Cases Per 10,000 Residents",28743,512
@@ -2931,9 +2931,9 @@ Cases,28747,84
 "Cases Per 10,000 Residents",28747,334
 "Cases Per 100,000 Residents",28747,"3,337"
 Deaths,28747,2
-Cases,28748,737
-"Cases Per 10,000 Residents",28748,581
-"Cases Per 100,000 Residents",28748,"5,810"
+Cases,28748,739
+"Cases Per 10,000 Residents",28748,583
+"Cases Per 100,000 Residents",28748,"5,826"
 Deaths,28748,10
 Cases,28749,0
 "Cases Per 10,000 Residents",28749,
@@ -2943,13 +2943,13 @@ Cases,28751,250
 "Cases Per 10,000 Residents",28751,669
 "Cases Per 100,000 Residents",28751,"6,688"
 Deaths,28751,5
-Cases,28752,"3,399"
+Cases,28752,"3,400"
 "Cases Per 10,000 Residents",28752,"1,079"
-"Cases Per 100,000 Residents",28752,"10,790"
+"Cases Per 100,000 Residents",28752,"10,793"
 Deaths,28752,37
-Cases,28753,715
-"Cases Per 10,000 Residents",28753,582
-"Cases Per 100,000 Residents",28753,"5,820"
+Cases,28753,716
+"Cases Per 10,000 Residents",28753,583
+"Cases Per 100,000 Residents",28753,"5,828"
 Deaths,28753,17
 Cases,28754,589
 "Cases Per 10,000 Residents",28754,668
@@ -3055,33 +3055,33 @@ Cases,28791,"1,199"
 "Cases Per 10,000 Residents",28791,758
 "Cases Per 100,000 Residents",28791,"7,583"
 Deaths,28791,29
-Cases,28792,"3,127"
-"Cases Per 10,000 Residents",28792,824
-"Cases Per 100,000 Residents",28792,"8,240"
+Cases,28792,"3,132"
+"Cases Per 10,000 Residents",28792,825
+"Cases Per 100,000 Residents",28792,"8,253"
 Deaths,28792,67
-Cases,28801,805
-"Cases Per 10,000 Residents",28801,480
-"Cases Per 100,000 Residents",28801,"4,797"
+Cases,28801,807
+"Cases Per 10,000 Residents",28801,481
+"Cases Per 100,000 Residents",28801,"4,809"
 Deaths,28801,17
-Cases,28803,"1,961"
+Cases,28803,"1,962"
 "Cases Per 10,000 Residents",28803,565
-"Cases Per 100,000 Residents",28803,"5,646"
+"Cases Per 100,000 Residents",28803,"5,649"
 Deaths,28803,51
-Cases,28804,"1,277"
+Cases,28804,"1,278"
 "Cases Per 10,000 Residents",28804,548
-"Cases Per 100,000 Residents",28804,"5,480"
+"Cases Per 100,000 Residents",28804,"5,485"
 Deaths,28804,21
 Cases,28805,919
 "Cases Per 10,000 Residents",28805,451
 "Cases Per 100,000 Residents",28805,"4,506"
 Deaths,28805,19
-Cases,28806,"2,806"
+Cases,28806,"2,808"
 "Cases Per 10,000 Residents",28806,640
-"Cases Per 100,000 Residents",28806,"6,400"
+"Cases Per 100,000 Residents",28806,"6,405"
 Deaths,28806,54
-Cases,28901,432
-"Cases Per 10,000 Residents",28901,715
-"Cases Per 100,000 Residents",28901,"7,154"
+Cases,28901,435
+"Cases Per 10,000 Residents",28901,720
+"Cases Per 100,000 Residents",28901,"7,203"
 Deaths,28901,5
 Cases,28902,84
 "Cases Per 10,000 Residents",28902,538
@@ -3091,13 +3091,13 @@ Cases,28904,565
 "Cases Per 10,000 Residents",28904,593
 "Cases Per 100,000 Residents",28904,"5,926"
 Deaths,28904,18
-Cases,28905,215
-"Cases Per 10,000 Residents",28905,606
-"Cases Per 100,000 Residents",28905,"6,060"
+Cases,28905,217
+"Cases Per 10,000 Residents",28905,612
+"Cases Per 100,000 Residents",28905,"6,116"
 Deaths,28905,1
-Cases,28906,"1,436"
-"Cases Per 10,000 Residents",28906,708
-"Cases Per 100,000 Residents",28906,"7,075"
+Cases,28906,"1,442"
+"Cases Per 10,000 Residents",28906,710
+"Cases Per 100,000 Residents",28906,"7,105"
 Deaths,28906,13
 Cases,28909,43
 "Cases Per 10,000 Residents",28909,403
